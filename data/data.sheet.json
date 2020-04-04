@@ -1,0 +1,2992 @@
+[
+  {
+    "situs_address": "2615 SW 110TH ST",
+    "latitude": 47.504073,
+    "longitude": -122.36908
+  },
+  {
+    "situs_address": "2421 SAHALEE DR W 98074",
+    "latitude": 47.631142,
+    "longitude": -122.06226
+  },
+  {
+    "situs_address": "2216 182ND AVE NE 98052",
+    "latitude": 47.630534,
+    "longitude": -122.09714
+  },
+  {
+    "situs_address": "6404 137TH AVE NE #668 98052",
+    "latitude": 47.663701,
+    "longitude": -122.15728
+  },
+  {
+    "situs_address": "16310 118TH CT NE 32-3 98011",
+    "latitude": 47.746385,
+    "longitude": -122.18244
+  },
+  {
+    "situs_address": "2515 S 118TH ST 98168",
+    "latitude": 47.497267,
+    "longitude": -122.3
+  },
+  {
+    "situs_address": "506 E HOWELL ST #W503 98122",
+    "latitude": 47.618029,
+    "longitude": -122.32481
+  },
+  {
+    "situs_address": "506 E HOWELL ST #W503 98122",
+    "latitude": 47.618029,
+    "longitude": -122.32481
+  },
+  {
+    "situs_address": "9703 40TH AVE NE 98115",
+    "latitude": 47.699435,
+    "longitude": -122.28567
+  },
+  {
+    "situs_address": "11308 SE MAY CREEK PARK DR",
+    "latitude": 39.11251,
+    "longitude": -100.35875
+  },
+  {
+    "situs_address": "6529 21ST AVE NW 98117",
+    "latitude": 47.676748,
+    "longitude": -122.38354
+  },
+  {
+    "situs_address": "1632 ABERDEEN AVE NE 98056",
+    "latitude": 47.507194,
+    "longitude": -122.19066
+  },
+  {
+    "situs_address": "19828 12TH AVE NW 98177",
+    "latitude": 47.773096,
+    "longitude": -122.37165
+  },
+  {
+    "situs_address": "12655 74TH PL S 98178",
+    "latitude": 47.489339,
+    "longitude": -122.23988
+  },
+  {
+    "situs_address": "8009 26TH AVE NW 98117",
+    "latitude": 47.687144,
+    "longitude": -122.3901
+  },
+  {
+    "situs_address": "2216 E LOUISA ST 98112",
+    "latitude": 47.642613,
+    "longitude": -122.303
+  },
+  {
+    "situs_address": "24136 NE 172ND ST 98077",
+    "latitude": 47.753452,
+    "longitude": -122.01661
+  },
+  {
+    "situs_address": "11604 5TH AVE S 98168",
+    "latitude": 47.499277,
+    "longitude": -122.32587
+  },
+  {
+    "situs_address": "422 N 182ND CT 98133",
+    "latitude": 47.76085,
+    "longitude": -122.35515
+  },
+  {
+    "situs_address": "18824 BOTHELL WAY NE 98011",
+    "latitude": 47.764888,
+    "longitude": -122.20835
+  },
+  {
+    "situs_address": "511 28TH AVE 98122",
+    "latitude": 47.606615,
+    "longitude": -122.29608
+  },
+  {
+    "situs_address": "6751 3RD AVE NW 98117",
+    "latitude": 47.679168,
+    "longitude": -122.3608
+  },
+  {
+    "situs_address": "710 N 73RD ST 98103",
+    "latitude": 47.682028,
+    "longitude": -122.34945
+  },
+  {
+    "situs_address": "4707 48TH AVE NE 98105",
+    "latitude": 47.663311,
+    "longitude": -122.27611
+  },
+  {
+    "situs_address": "3008 E OLIVE ST 98122",
+    "latitude": 47.616633,
+    "longitude": -122.29304
+  },
+  {
+    "situs_address": "20704 4TH AVE S 98198",
+    "latitude": 47.417162,
+    "longitude": -122.33045
+  },
+  {
+    "situs_address": "4243 S FINDLAY ST 98118",
+    "latitude": 47.551733,
+    "longitude": -122.27889
+  },
+  {
+    "situs_address": "13895 SE 64TH ST 98006",
+    "latitude": 47.545584,
+    "longitude": -122.15648
+  },
+  {
+    "situs_address": "814 23RD AVE S 98144",
+    "latitude": 47.595059,
+    "longitude": -122.30189
+  },
+  {
+    "situs_address": "3005 BELVIDERE AVE SW 98126",
+    "latitude": 47.57718,
+    "longitude": -122.37951
+  },
+  {
+    "situs_address": "9337 SE 70TH PL 98040",
+    "latitude": 47.540529,
+    "longitude": -122.21442
+  },
+  {
+    "situs_address": "2021 33RD AVE S 98144",
+    "latitude": 47.584469,
+    "longitude": -122.29118
+  },
+  {
+    "situs_address": "13718 10TH AVE S 98168",
+    "latitude": 47.479934,
+    "longitude": -122.32048
+  },
+  {
+    "situs_address": "101 NW 101ST ST 98177",
+    "latitude": 47.702026,
+    "longitude": -122.35831
+  },
+  {
+    "situs_address": "2717 E SPRING ST 98122",
+    "latitude": 47.611363,
+    "longitude": -122.29678
+  },
+  {
+    "situs_address": "3521 NE 148TH ST 98155",
+    "latitude": 47.736135,
+    "longitude": -122.2903
+  },
+  {
+    "situs_address": "11422 20TH AVE S 98168",
+    "latitude": 47.500637,
+    "longitude": -122.30718
+  },
+  {
+    "situs_address": "2015 33RD AVE S 98144",
+    "latitude": 47.58469,
+    "longitude": -122.29116
+  },
+  {
+    "situs_address": "39172 SE GAMMA ST 98065",
+    "latitude": 47.523473,
+    "longitude": -121.81832
+  },
+  {
+    "situs_address": "7532 21ST AVE SW 98106",
+    "latitude": 47.534522,
+    "longitude": -122.35993
+  },
+  {
+    "situs_address": "1841 S LANE ST 98144",
+    "latitude": 47.596464,
+    "longitude": -122.30718
+  },
+  {
+    "situs_address": "10880 14TH AVE S 98168",
+    "latitude": 47.504817,
+    "longitude": -122.31498
+  },
+  {
+    "situs_address": "4719 S LUCILE ST 98118",
+    "latitude": 47.552463,
+    "longitude": -122.2733
+  },
+  {
+    "situs_address": "4717 S LUCILE ST",
+    "latitude": 45.536959,
+    "longitude": -116.32374
+  },
+  {
+    "situs_address": "1045 S 197TH ST 98148",
+    "latitude": 47.425146,
+    "longitude": -122.3207
+  },
+  {
+    "situs_address": "3341 NE 202ND ST 98155",
+    "latitude": 47.774676,
+    "longitude": -122.2918
+  },
+  {
+    "situs_address": "24823 21ST AVE S 98032",
+    "latitude": 47.37876,
+    "longitude": -122.30699
+  },
+  {
+    "situs_address": "646 SW 308TH ST 98023",
+    "latitude": 47.326261,
+    "longitude": -122.34484
+  },
+  {
+    "situs_address": "14231 SE 138TH ST 98059",
+    "latitude": 47.479187,
+    "longitude": -122.14974
+  },
+  {
+    "situs_address": "12454 NE 6TH PL 98005",
+    "latitude": 47.616187,
+    "longitude": -122.17262
+  },
+  {
+    "situs_address": "930 N 90TH ST 98103",
+    "latitude": 47.694363,
+    "longitude": -122.34582
+  },
+  {
+    "situs_address": "2416 NE 143RD ST 98125",
+    "latitude": 47.732399,
+    "longitude": -122.30245
+  },
+  {
+    "situs_address": "2416 NE 143RD ST 98125",
+    "latitude": 47.732399,
+    "longitude": -122.30245
+  },
+  {
+    "situs_address": "5156 S 170TH ST 98188",
+    "latitude": 47.451421,
+    "longitude": -122.26848
+  },
+  {
+    "situs_address": "923 N 90TH ST 98103",
+    "latitude": 47.693971,
+    "longitude": -122.34621
+  },
+  {
+    "situs_address": "721 E JAMES ST 98031",
+    "latitude": 47.386909,
+    "longitude": -122.22472
+  },
+  {
+    "situs_address": "19340 142ND PL SE 98058",
+    "latitude": 47.427919,
+    "longitude": -122.15084
+  },
+  {
+    "situs_address": "1417 S 262ND ST 98198",
+    "latitude": 47.366867,
+    "longitude": -122.31461
+  },
+  {
+    "situs_address": "7062 20TH AVE NE 98115",
+    "latitude": 47.681122,
+    "longitude": -122.30634
+  },
+  {
+    "situs_address": "14230 82ND AVE NE 98034",
+    "latitude": 47.730346,
+    "longitude": -122.23148
+  },
+  {
+    "situs_address": "2111 NE 62ND ST 98115",
+    "latitude": 47.673181,
+    "longitude": -122.30496
+  },
+  {
+    "situs_address": "3718 37TH AVE S 98144",
+    "latitude": 47.570129,
+    "longitude": -122.28581
+  },
+  {
+    "situs_address": "15558 25TH AVE NE 98155",
+    "latitude": 47.742712,
+    "longitude": -122.30178
+  },
+  {
+    "situs_address": "1643 S 245TH PL 98198",
+    "latitude": 47.381538,
+    "longitude": -122.31142
+  },
+  {
+    "situs_address": "2011 E LYNN ST 98112",
+    "latitude": 47.63929,
+    "longitude": -122.30503
+  },
+  {
+    "situs_address": "17318 SYLVESTER RD SW 98166",
+    "latitude": 47.447356,
+    "longitude": -122.35617
+  },
+  {
+    "situs_address": "2025 S 308TH ST 98003",
+    "latitude": 47.325767,
+    "longitude": -122.307
+  },
+  {
+    "situs_address": "13342 30TH AVE NE 98125",
+    "latitude": 47.725979,
+    "longitude": -122.29608
+  },
+  {
+    "situs_address": "4315 S HUDSON ST 98118",
+    "latitude": 47.556851,
+    "longitude": -122.2789
+  },
+  {
+    "situs_address": "2301 19TH AVE S 98144",
+    "latitude": 47.582818,
+    "longitude": -122.30845
+  },
+  {
+    "situs_address": "20738 14TH AVE S 98198",
+    "latitude": 47.415851,
+    "longitude": -122.31524
+  },
+  {
+    "situs_address": "9030 SEWARD PARK AVE S 98118",
+    "latitude": 47.522097,
+    "longitude": -122.26406
+  },
+  {
+    "situs_address": "12214 12TH AVE S 98168",
+    "latitude": 47.493859,
+    "longitude": -122.31764
+  },
+  {
+    "situs_address": "4501 RAINIER AVE S 98118",
+    "latitude": 47.562708,
+    "longitude": -122.28805
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "1805 17TH AVE S 98144",
+    "latitude": 47.586837,
+    "longitude": -122.31104
+  },
+  {
+    "situs_address": "12503 14TH AVE NE 98125",
+    "latitude": 47.719606,
+    "longitude": -122.31438
+  },
+  {
+    "situs_address": "11836 54TH AVE S 98178",
+    "latitude": 47.496355,
+    "longitude": -122.26587
+  },
+  {
+    "situs_address": "1019 SW 305TH ST 98023",
+    "latitude": 47.32832,
+    "longitude": -122.34801
+  },
+  {
+    "situs_address": "11439 71ST PL S 98178",
+    "latitude": 47.500796,
+    "longitude": -122.24602
+  },
+  {
+    "situs_address": "3824 WALLINGFORD AVE N 98103",
+    "latitude": 47.653936,
+    "longitude": -122.33592
+  },
+  {
+    "situs_address": "17531 10TH AVE NE 98155",
+    "latitude": 47.756753,
+    "longitude": -122.31901
+  },
+  {
+    "situs_address": "6838 18TH AVE NE 98115",
+    "latitude": 47.678771,
+    "longitude": -122.30855
+  },
+  {
+    "situs_address": "10806 RAINIER AVE S 98178",
+    "latitude": 47.506905,
+    "longitude": -122.23152
+  },
+  {
+    "situs_address": "10806 RAINIER AVE S 98178",
+    "latitude": 47.506905,
+    "longitude": -122.23152
+  },
+  {
+    "situs_address": "19630 SE 259TH ST 98042",
+    "latitude": 47.370423,
+    "longitude": -122.07792
+  },
+  {
+    "situs_address": "8435 SE 36TH ST",
+    "latitude": 38.085024,
+    "longitude": -81.622894
+  },
+  {
+    "situs_address": "13016 104TH PL NE 98034",
+    "latitude": 47.717411,
+    "longitude": -122.20154
+  },
+  {
+    "situs_address": "3214 FRANKLIN AVE E 98102",
+    "latitude": 47.650177,
+    "longitude": -122.32063
+  },
+  {
+    "situs_address": "11719 26TH AVE NE 98125",
+    "latitude": 47.71467,
+    "longitude": -122.30066
+  },
+  {
+    "situs_address": "4121 39TH AVE SW",
+    "latitude": 41.186028,
+    "longitude": -77.316191
+  },
+  {
+    "situs_address": "31024 149TH AVE SE 98042",
+    "latitude": 47.323402,
+    "longitude": -122.14268
+  },
+  {
+    "situs_address": "15329 TIGER MOUNTAIN RD SE",
+    "latitude": 45.1847,
+    "longitude": -88.47372
+  },
+  {
+    "situs_address": "30514 7TH AVE SW 98023",
+    "latitude": 47.328337,
+    "longitude": -122.34442
+  },
+  {
+    "situs_address": "9608 S 216TH ST 98031",
+    "latitude": 47.409201,
+    "longitude": -122.21175
+  },
+  {
+    "situs_address": "10824 132ND AVE NE 98052",
+    "latitude": 47.697628,
+    "longitude": -122.16404
+  },
+  {
+    "situs_address": "17631 43RD AVE S 98188",
+    "latitude": 47.444168,
+    "longitude": -122.27953
+  },
+  {
+    "situs_address": "12421 NE 141ST WAY 98034",
+    "latitude": 47.727771,
+    "longitude": -122.17429
+  },
+  {
+    "situs_address": "18021 NE 156TH ST 98072",
+    "latitude": 47.740558,
+    "longitude": -122.09885
+  },
+  {
+    "situs_address": "2442 S IRVING ST 98144",
+    "latitude": 47.591411,
+    "longitude": -122.29948
+  },
+  {
+    "situs_address": "15601 125TH PL NE 98072",
+    "latitude": 47.740521,
+    "longitude": -122.17331
+  },
+  {
+    "situs_address": "7308 KEEN WAY N 98103",
+    "latitude": 47.682139,
+    "longitude": -122.34392
+  },
+  {
+    "situs_address": "10032 35TH AVE NE 98125",
+    "latitude": 47.702154,
+    "longitude": -122.29036
+  },
+  {
+    "situs_address": "2311 PARAMOUNT DR 98022",
+    "latitude": 47.198272,
+    "longitude": -121.99922
+  },
+  {
+    "situs_address": "16701 76TH AVE NE 98028",
+    "latitude": 47.749825,
+    "longitude": -122.23983
+  },
+  {
+    "situs_address": "12618 10TH AVE S 98168",
+    "latitude": 47.489788,
+    "longitude": -122.32029
+  },
+  {
+    "situs_address": "12618 10TH AVE S 98168",
+    "latitude": 47.489788,
+    "longitude": -122.32029
+  },
+  {
+    "situs_address": "308 35TH AVE 98122",
+    "latitude": 47.604701,
+    "longitude": -122.28794
+  },
+  {
+    "situs_address": "2816 14TH AVE W 98119",
+    "latitude": 47.645367,
+    "longitude": -122.37459
+  },
+  {
+    "situs_address": "1123 CHELAN AVE NE 98059",
+    "latitude": 47.501765,
+    "longitude": -122.15828
+  },
+  {
+    "situs_address": "6730 S LANGSTON RD 98178",
+    "latitude": 47.486296,
+    "longitude": -122.24921
+  },
+  {
+    "situs_address": "7341 DIBBLE AVE NW 98117",
+    "latitude": 47.682643,
+    "longitude": -122.3676
+  },
+  {
+    "situs_address": "11232 NE 141ST PL 98034",
+    "latitude": 47.729293,
+    "longitude": -122.1911
+  },
+  {
+    "situs_address": "505 N 183RD ST 98133",
+    "latitude": 47.761161,
+    "longitude": -122.35442
+  },
+  {
+    "situs_address": "5423 31ST AVE SW 98126",
+    "latitude": 47.553055,
+    "longitude": -122.37266
+  },
+  {
+    "situs_address": "11410 CRESTWOOD DR S 98178",
+    "latitude": 47.500714,
+    "longitude": -122.2434
+  },
+  {
+    "situs_address": "6315 21ST AVE NE 98115",
+    "latitude": 47.675286,
+    "longitude": -122.30576
+  },
+  {
+    "situs_address": "119 20TH AVE",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "2803 22ND AVE S 98144",
+    "latitude": 47.578201,
+    "longitude": -122.30462
+  },
+  {
+    "situs_address": "33700 33RD PL SW 98023",
+    "latitude": 47.300044,
+    "longitude": -122.37542
+  },
+  {
+    "situs_address": "18012 SUNNYSIDE AVE N 98133",
+    "latitude": 47.759999,
+    "longitude": -122.33076
+  },
+  {
+    "situs_address": "2511 22ND AVE S 98144",
+    "latitude": 47.58064,
+    "longitude": -122.30461
+  },
+  {
+    "situs_address": "26507 18TH PL S 98198",
+    "latitude": 47.363724,
+    "longitude": -122.31031
+  },
+  {
+    "situs_address": "738 19TH AVE E 98112",
+    "latitude": 47.626358,
+    "longitude": -122.30698
+  },
+  {
+    "situs_address": "916 NE 117TH ST 98125",
+    "latitude": 47.714237,
+    "longitude": -122.31851
+  },
+  {
+    "situs_address": "31728 160TH PL SE 98092",
+    "latitude": 47.31689,
+    "longitude": -122.12758
+  },
+  {
+    "situs_address": "1203 SW 149TH ST 98166",
+    "latitude": 47.469246,
+    "longitude": -122.35014
+  },
+  {
+    "situs_address": "1610 E SPRUCE ST 98122",
+    "latitude": 47.603663,
+    "longitude": -122.31067
+  },
+  {
+    "situs_address": "8111 30TH AVE SW 98126",
+    "latitude": 47.529624,
+    "longitude": -122.37154
+  },
+  {
+    "situs_address": "6922 S 120TH PL 98178",
+    "latitude": 47.495361,
+    "longitude": -122.24665
+  },
+  {
+    "situs_address": "7935 50TH AVE S 98118",
+    "latitude": 47.530542,
+    "longitude": -122.2711
+  },
+  {
+    "situs_address": "12215 DAYTON AVE N 98133",
+    "latitude": 47.718343,
+    "longitude": -122.3533
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "22011 NE 170TH PL 98077",
+    "latitude": 47.751247,
+    "longitude": -122.04378
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "2121 PIKE ST NE 98002",
+    "latitude": 47.326233,
+    "longitude": -122.21052
+  },
+  {
+    "situs_address": "19547 53RD AVE NE 98155",
+    "latitude": 47.77072,
+    "longitude": -122.27321
+  },
+  {
+    "situs_address": "18924 107TH AVE NE 98011",
+    "latitude": 47.765403,
+    "longitude": -122.19767
+  },
+  {
+    "situs_address": "7925 34TH AVE SW 98126",
+    "latitude": 47.531114,
+    "longitude": -122.37569
+  },
+  {
+    "situs_address": "1926 41ST AVE SW 98116",
+    "latitude": 47.585984,
+    "longitude": -122.38341
+  },
+  {
+    "situs_address": "2614 S FERDINAND ST 98108",
+    "latitude": 47.558674,
+    "longitude": -122.29879
+  },
+  {
+    "situs_address": "1029 SW 150TH ST 98166",
+    "latitude": 47.468294,
+    "longitude": -122.34843
+  },
+  {
+    "situs_address": "26455 170TH AVE SE 98042",
+    "latitude": 47.36359,
+    "longitude": -122.11601
+  },
+  {
+    "situs_address": "15313 STONE AVE N 98133",
+    "latitude": 47.739968,
+    "longitude": -122.34289
+  },
+  {
+    "situs_address": "2803 E PIKE ST",
+    "latitude": 42.55645,
+    "longitude": -78.15279
+  },
+  {
+    "situs_address": "18430 SE 135TH ST 98059",
+    "latitude": 47.48178,
+    "longitude": -122.09429
+  },
+  {
+    "situs_address": "25631 29TH AVE S 98032",
+    "latitude": 47.37132,
+    "longitude": -122.29699
+  },
+  {
+    "situs_address": "2011 NE 135TH PL 98125",
+    "latitude": 47.72694,
+    "longitude": -122.30668
+  },
+  {
+    "situs_address": "922 S 206TH ST 98198",
+    "latitude": 47.41904,
+    "longitude": -122.3222
+  },
+  {
+    "situs_address": "28628 202ND AVE SE 98042",
+    "latitude": 47.344751,
+    "longitude": -122.07296
+  },
+  {
+    "situs_address": "2436 S ANGELINE ST 98108",
+    "latitude": 47.559995,
+    "longitude": -122.30073
+  },
+  {
+    "situs_address": "607 25TH ST SE 98002",
+    "latitude": 47.286608,
+    "longitude": -122.22025
+  },
+  {
+    "situs_address": "8426 10TH AVE SW 98106",
+    "latitude": 47.527446,
+    "longitude": -122.34774
+  },
+  {
+    "situs_address": "607 25TH ST SE 98002",
+    "latitude": 47.286608,
+    "longitude": -122.22025
+  },
+  {
+    "situs_address": "5117 S LUCILE ST 98118",
+    "latitude": 47.552438,
+    "longitude": -122.26909
+  },
+  {
+    "situs_address": "13248 85TH AVE NE 98034",
+    "latitude": 47.720295,
+    "longitude": -122.2289
+  },
+  {
+    "situs_address": "22805 THUNDERBIRD DR S 98198",
+    "latitude": 47.397378,
+    "longitude": -122.31159
+  },
+  {
+    "situs_address": "3017 NE 140TH ST",
+    "latitude": 41.543301,
+    "longitude": -99.811862
+  },
+  {
+    "situs_address": "16208 114TH AVE SE 98055",
+    "latitude": 47.457816,
+    "longitude": -122.18853
+  },
+  {
+    "situs_address": "1036 NE 123RD ST 98125",
+    "latitude": 47.717876,
+    "longitude": -122.31635
+  },
+  {
+    "situs_address": "1731 NE 88TH ST 98115",
+    "latitude": 47.691964,
+    "longitude": -122.30819
+  },
+  {
+    "situs_address": "12250 48TH AVE S 98178",
+    "latitude": 47.492779,
+    "longitude": -122.27374
+  },
+  {
+    "situs_address": "14316 20TH AVE NE 98125",
+    "latitude": 47.732564,
+    "longitude": -122.30705
+  },
+  {
+    "situs_address": "9716 33RD AVE SW 98126",
+    "latitude": 47.516128,
+    "longitude": -122.37421
+  },
+  {
+    "situs_address": "2659 SW 332ND CT 98023",
+    "latitude": 47.303672,
+    "longitude": -122.36899
+  },
+  {
+    "situs_address": "124 NE 159TH ST 98155",
+    "latitude": 47.744747,
+    "longitude": -122.32808
+  },
+  {
+    "situs_address": "30603 2ND AVE SW 98023",
+    "latitude": 47.327782,
+    "longitude": -122.33742
+  },
+  {
+    "situs_address": "1531 35TH AVE 98122",
+    "latitude": 47.615008,
+    "longitude": -122.2884
+  },
+  {
+    "situs_address": "2125 S 253RD ST 98198",
+    "latitude": 47.374677,
+    "longitude": -122.30561
+  },
+  {
+    "situs_address": "7560 86TH AVE SE 98040",
+    "latitude": 47.534087,
+    "longitude": -122.22214
+  },
+  {
+    "situs_address": "30635 1ST PL S 98003",
+    "latitude": 47.326607,
+    "longitude": -122.33417
+  },
+  {
+    "situs_address": "1302 141ST PL NE 98007",
+    "latitude": 47.621753,
+    "longitude": -122.15159
+  },
+  {
+    "situs_address": "12627 SE 158TH ST 98058",
+    "latitude": 47.460695,
+    "longitude": -122.17143
+  },
+  {
+    "situs_address": "3015 M ST SE 98002",
+    "latitude": 47.281147,
+    "longitude": -122.21371
+  },
+  {
+    "situs_address": "17017 NE 179TH ST 98072",
+    "latitude": 47.756629,
+    "longitude": -122.11309
+  },
+  {
+    "situs_address": "22655 156TH AVE SE 98042",
+    "latitude": 47.397891,
+    "longitude": -122.13379
+  },
+  {
+    "situs_address": "7022 29TH AVE NE 98115",
+    "latitude": 47.680093,
+    "longitude": -122.29611
+  },
+  {
+    "situs_address": "7719 MARY AVE NW 98117",
+    "latitude": 47.685747,
+    "longitude": -122.37574
+  },
+  {
+    "situs_address": "16882 125TH AVE SE 98058",
+    "latitude": 47.449978,
+    "longitude": -122.17499
+  },
+  {
+    "situs_address": "12324 SE 168TH ST 98058",
+    "latitude": 47.45261,
+    "longitude": -122.1765
+  },
+  {
+    "situs_address": "2218 E ALDER ST 98122",
+    "latitude": 47.604588,
+    "longitude": -122.30297
+  },
+  {
+    "situs_address": "2210 E ALDER ST 98122",
+    "latitude": 47.604603,
+    "longitude": -122.3032
+  },
+  {
+    "situs_address": "18219 46TH PL S 98188",
+    "latitude": 47.43916,
+    "longitude": -122.27641
+  },
+  {
+    "situs_address": "2602 S FERDINAND ST 98108",
+    "latitude": 47.559008,
+    "longitude": -122.29911
+  },
+  {
+    "situs_address": "30432 2ND AVE S 98003",
+    "latitude": 47.328197,
+    "longitude": -122.3325
+  },
+  {
+    "situs_address": "33417 43RD AVE SW 98023",
+    "latitude": 47.302113,
+    "longitude": -122.3878
+  },
+  {
+    "situs_address": "4656 S 254TH ST 98032",
+    "latitude": 47.374487,
+    "longitude": -122.27453
+  },
+  {
+    "situs_address": "2686 SW 334TH PL 98023",
+    "latitude": 47.301776,
+    "longitude": -122.36923
+  },
+  {
+    "situs_address": "1051 SW 149TH ST 98166",
+    "latitude": 47.469255,
+    "longitude": -122.34937
+  },
+  {
+    "situs_address": "4853 S LUCILE ST 98118",
+    "latitude": 47.552404,
+    "longitude": -122.27036
+  },
+  {
+    "situs_address": "13229 109TH AVE NE 98034",
+    "latitude": 47.719331,
+    "longitude": -122.19607
+  },
+  {
+    "situs_address": "2503 NE 147TH ST 98155",
+    "latitude": 47.735433,
+    "longitude": -122.30168
+  },
+  {
+    "situs_address": "26309 187TH CT SE 98042",
+    "latitude": 47.366019,
+    "longitude": -122.0928
+  },
+  {
+    "situs_address": "16023 14TH AVE SW 98166",
+    "latitude": 47.458869,
+    "longitude": -122.35282
+  },
+  {
+    "situs_address": "20415 NE WOODINVILLE-DUVALL RD 98077",
+    "latitude": 47.754478,
+    "longitude": -122.06599
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "311 J ST SE 98002",
+    "latitude": 47.304829,
+    "longitude": -122.21775
+  },
+  {
+    "situs_address": "20007 25TH AVE NE 98155",
+    "latitude": 47.774271,
+    "longitude": -122.30325
+  },
+  {
+    "situs_address": "18306 94TH AVE NE 98011",
+    "latitude": 47.760977,
+    "longitude": -122.21423
+  },
+  {
+    "situs_address": "1765 NW 56TH ST 98107",
+    "latitude": 47.66923,
+    "longitude": -122.38157
+  },
+  {
+    "situs_address": "9422 24TH AVE SW 98106",
+    "latitude": 47.518453,
+    "longitude": -122.36296
+  },
+  {
+    "situs_address": "15351 NE 202ND ST 98072",
+    "latitude": 47.773519,
+    "longitude": -122.13299
+  },
+  {
+    "situs_address": "5703 S 307TH ST 98001",
+    "latitude": 47.326352,
+    "longitude": -122.26225
+  },
+  {
+    "situs_address": "8115 5TH AVE SW 98106",
+    "latitude": 47.529591,
+    "longitude": -122.34205
+  },
+  {
+    "situs_address": "2754 NE 103RD ST 98125",
+    "latitude": 47.703745,
+    "longitude": -122.29634
+  },
+  {
+    "situs_address": "2217 42ND AVE SW 98116",
+    "latitude": 47.583401,
+    "longitude": -122.3854
+  },
+  {
+    "situs_address": "2221 42ND AVE SW 98116",
+    "latitude": 47.583782,
+    "longitude": -122.3852
+  },
+  {
+    "situs_address": "30041 10TH AVE SW 98023",
+    "latitude": 47.332034,
+    "longitude": -122.34799
+  },
+  {
+    "situs_address": "605 22ND ST SE 98002",
+    "latitude": 47.288781,
+    "longitude": -122.22055
+  },
+  {
+    "situs_address": "1232 S 201ST ST 98198",
+    "latitude": 47.422224,
+    "longitude": -122.31755
+  },
+  {
+    "situs_address": "8705 24TH AVE NW 98117",
+    "latitude": 47.692484,
+    "longitude": -122.3879
+  },
+  {
+    "situs_address": "10830 NE 141ST PL 98034",
+    "latitude": 47.727889,
+    "longitude": -122.19545
+  },
+  {
+    "situs_address": "3602 E DENNY WAY 98122",
+    "latitude": 47.618562,
+    "longitude": -122.28739
+  },
+  {
+    "situs_address": "6329 23RD AVE SW 98106",
+    "latitude": 47.545671,
+    "longitude": -122.36286
+  },
+  {
+    "situs_address": "811 216TH PL NE 98074",
+    "latitude": 47.617014,
+    "longitude": -122.05146
+  },
+  {
+    "situs_address": "2112 94TH AVE NE 98004",
+    "latitude": 47.629407,
+    "longitude": -122.21481
+  },
+  {
+    "situs_address": "9122 MATTHEWS AVE NE 98115",
+    "latitude": 47.695059,
+    "longitude": -122.27713
+  },
+  {
+    "situs_address": "16312 GREENWOOD AVE N 98133",
+    "latitude": 47.748091,
+    "longitude": -122.3554
+  },
+  {
+    "situs_address": "9811 28TH AVE SW 98126",
+    "latitude": 47.515295,
+    "longitude": -122.36967
+  },
+  {
+    "situs_address": "3516 S 262ND ST 98032",
+    "latitude": 47.366602,
+    "longitude": -122.28781
+  },
+  {
+    "situs_address": "14323 23RD AVE NE 98125",
+    "latitude": 47.733197,
+    "longitude": -122.305
+  },
+  {
+    "situs_address": "803 32ND AVE S 98144",
+    "latitude": 47.595567,
+    "longitude": -122.29172
+  },
+  {
+    "situs_address": "9855 44TH AVE SW 98136",
+    "latitude": 47.514198,
+    "longitude": -122.38899
+  },
+  {
+    "situs_address": "1140 N 146TH PL 98133",
+    "latitude": 47.735433,
+    "longitude": -122.34327
+  },
+  {
+    "situs_address": "675 REDMOND AVE NE 98056",
+    "latitude": 47.494041,
+    "longitude": -122.16894
+  },
+  {
+    "situs_address": "11823 SE 188TH ST 98058",
+    "latitude": 47.433801,
+    "longitude": -122.18279
+  },
+  {
+    "situs_address": "15810 74TH AVE NE 98028",
+    "latitude": 47.743358,
+    "longitude": -122.24181
+  },
+  {
+    "situs_address": "14607 182ND AVE SE 98059",
+    "latitude": 47.471204,
+    "longitude": -122.09952
+  },
+  {
+    "situs_address": "12630 34TH AVE S 98168",
+    "latitude": 47.48911,
+    "longitude": -122.2898
+  },
+  {
+    "situs_address": "1309 N 196TH ST 98133",
+    "latitude": 47.771129,
+    "longitude": -122.34137
+  },
+  {
+    "situs_address": "3401 SW 344TH ST 98023",
+    "latitude": 47.293041,
+    "longitude": -122.37601
+  },
+  {
+    "situs_address": "24314 35TH AVE S 98032",
+    "latitude": 47.383865,
+    "longitude": -122.28836
+  },
+  {
+    "situs_address": "42739 SE 175TH PL 98045",
+    "latitude": 47.441729,
+    "longitude": -121.77112
+  },
+  {
+    "situs_address": "3617 S 254TH PL 98032",
+    "latitude": 47.373123,
+    "longitude": -122.28621
+  },
+  {
+    "situs_address": "4626 43RD AVE S 98118",
+    "latitude": 47.560886,
+    "longitude": -122.27922
+  },
+  {
+    "situs_address": "729 N 202ND ST 98133",
+    "latitude": 47.775689,
+    "longitude": -122.35022
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "4613 S 318TH ST 98001",
+    "latitude": 47.316669,
+    "longitude": -122.27604
+  },
+  {
+    "situs_address": "8741 HAMLET AVE S 98118",
+    "latitude": 47.524759,
+    "longitude": -122.26538
+  },
+  {
+    "situs_address": "9729 EVANSTON AVE N 98103",
+    "latitude": 47.700494,
+    "longitude": -122.35155
+  },
+  {
+    "situs_address": "15717 180TH PL NE 98072",
+    "latitude": 47.742153,
+    "longitude": -122.09907
+  },
+  {
+    "situs_address": "10827 10TH AVE SW 98146",
+    "latitude": 47.505719,
+    "longitude": -122.34755
+  },
+  {
+    "situs_address": "11220 21ST AVE SW 98146",
+    "latitude": 47.502214,
+    "longitude": -122.3602
+  },
+  {
+    "situs_address": "15810 SE 175TH PL 98058",
+    "latitude": 47.445337,
+    "longitude": -122.12849
+  },
+  {
+    "situs_address": "8619 20TH AVE SW 98106",
+    "latitude": 47.525883,
+    "longitude": -122.35939
+  },
+  {
+    "situs_address": "1123 SW 144TH ST 98166",
+    "latitude": 47.473778,
+    "longitude": -122.34963
+  },
+  {
+    "situs_address": "1539 NE 166TH ST 98155",
+    "latitude": 47.749029,
+    "longitude": -122.31152
+  },
+  {
+    "situs_address": "2608 S LANE ST 98144",
+    "latitude": 47.596882,
+    "longitude": -122.29827
+  },
+  {
+    "situs_address": "151 28TH AVE 98122",
+    "latitude": 47.603168,
+    "longitude": -122.29626
+  },
+  {
+    "situs_address": "1816 S LANE ST 98144",
+    "latitude": 47.59682,
+    "longitude": -122.30816
+  },
+  {
+    "situs_address": "12238 1ST AVE NW 98177",
+    "latitude": 47.71896,
+    "longitude": -122.35792
+  },
+  {
+    "situs_address": "8825 S 132ND ST 98055",
+    "latitude": 47.484387,
+    "longitude": -122.22096
+  },
+  {
+    "situs_address": "1514 23RD AVE 98122",
+    "latitude": 47.614651,
+    "longitude": -122.30234
+  },
+  {
+    "situs_address": "17301 431ST AVE SE 98045",
+    "latitude": 47.444359,
+    "longitude": -121.76626
+  },
+  {
+    "situs_address": "4914 45TH AVE S 98118",
+    "latitude": 47.557637,
+    "longitude": -122.27665
+  },
+  {
+    "situs_address": "3766 148TH AVE SE 98006",
+    "latitude": 47.576183,
+    "longitude": -122.14263
+  },
+  {
+    "situs_address": "9039 12TH AVE SW 98106",
+    "latitude": 47.521688,
+    "longitude": -122.35088
+  },
+  {
+    "situs_address": "16865 427TH PL SE 98045",
+    "latitude": 47.447362,
+    "longitude": -121.77088
+  },
+  {
+    "situs_address": "812 REITEN RD 98030",
+    "latitude": 47.373833,
+    "longitude": -122.21765
+  },
+  {
+    "situs_address": "13020 6TH AVE S 98168",
+    "latitude": 47.4862,
+    "longitude": -122.32555
+  },
+  {
+    "situs_address": "1430 S 120TH ST 98168",
+    "latitude": 47.495973,
+    "longitude": -122.31393
+  },
+  {
+    "situs_address": "13020 6TH AVE S 98168",
+    "latitude": 47.4862,
+    "longitude": -122.32555
+  },
+  {
+    "situs_address": "14750 20TH AVE NE 98155",
+    "latitude": 47.737197,
+    "longitude": -122.30714
+  },
+  {
+    "situs_address": "14750 20TH AVE NE 98155",
+    "latitude": 47.737197,
+    "longitude": -122.30714
+  },
+  {
+    "situs_address": "7619 NE 204TH PL 98028",
+    "latitude": 47.775797,
+    "longitude": -122.23766
+  },
+  {
+    "situs_address": "2718 NE 107TH ST 98125",
+    "latitude": 47.70685,
+    "longitude": -122.29877
+  },
+  {
+    "situs_address": "12257 CORLISS AVE N 98133",
+    "latitude": 47.718652,
+    "longitude": -122.33019
+  },
+  {
+    "situs_address": "16010 113TH AVE SE 98055",
+    "latitude": 47.459546,
+    "longitude": -122.18988
+  },
+  {
+    "situs_address": "15540 WALLINGFORD AVE N 98133",
+    "latitude": 47.74258,
+    "longitude": -122.33693
+  },
+  {
+    "situs_address": "15714 119TH AVE NE 98011",
+    "latitude": 47.741919,
+    "longitude": -122.18095
+  },
+  {
+    "situs_address": "5300 46TH AVE S 98118",
+    "latitude": 47.554325,
+    "longitude": -122.27509
+  },
+  {
+    "situs_address": "6651 116TH AVE SE 98006",
+    "latitude": 47.54263,
+    "longitude": -122.18597
+  },
+  {
+    "situs_address": "2023 S 282ND PL 98003",
+    "latitude": 47.347805,
+    "longitude": -122.30624
+  },
+  {
+    "situs_address": "11638 SE 164TH ST 98058",
+    "latitude": 47.456343,
+    "longitude": -122.1843
+  },
+  {
+    "situs_address": "8231 4TH AVE NE 98115",
+    "latitude": 47.689255,
+    "longitude": -122.32463
+  },
+  {
+    "situs_address": "16200 SE 44TH WAY 98006",
+    "latitude": 47.567044,
+    "longitude": -122.12403
+  },
+  {
+    "situs_address": "4025 151ST AVE SE 98006",
+    "latitude": 47.573338,
+    "longitude": -122.14043
+  },
+  {
+    "situs_address": "9246 15TH AVE SW 98106",
+    "latitude": 47.519668,
+    "longitude": -122.35375
+  },
+  {
+    "situs_address": "31850 195TH AVE SE 98042",
+    "latitude": 47.315769,
+    "longitude": -122.083
+  },
+  {
+    "situs_address": "10247 20TH AVE SW 98146",
+    "latitude": 47.510467,
+    "longitude": -122.35981
+  },
+  {
+    "situs_address": "2004 S 304TH ST 98003",
+    "latitude": 47.329867,
+    "longitude": -122.30765
+  },
+  {
+    "situs_address": "314 NE 155TH ST 98155",
+    "latitude": 47.74154,
+    "longitude": -122.32566
+  },
+  {
+    "situs_address": "33415 35TH AVE SW 98023",
+    "latitude": 47.302178,
+    "longitude": -122.37679
+  },
+  {
+    "situs_address": "25417 168TH PL SE 98042",
+    "latitude": 47.373284,
+    "longitude": -122.1175
+  },
+  {
+    "situs_address": "20622 6TH AVE S 98198",
+    "latitude": 47.417782,
+    "longitude": -122.32721
+  },
+  {
+    "situs_address": "3517 NE 148TH ST 98155",
+    "latitude": 47.736084,
+    "longitude": -122.29049
+  },
+  {
+    "situs_address": "16500 126TH AVE NE 98072",
+    "latitude": 47.747439,
+    "longitude": -122.17008
+  },
+  {
+    "situs_address": "6945 23RD AVE SW 98106",
+    "latitude": 47.540375,
+    "longitude": -122.36221
+  },
+  {
+    "situs_address": "5045 37TH AVE S 98118",
+    "latitude": 47.5557,
+    "longitude": -122.28642
+  },
+  {
+    "situs_address": "9547 44TH AVE NE 98115",
+    "latitude": 47.698809,
+    "longitude": -122.28173
+  },
+  {
+    "situs_address": "13727 20TH AVE NE 98125",
+    "latitude": 47.729237,
+    "longitude": -122.30762
+  },
+  {
+    "situs_address": "422 N 122ND ST 98133",
+    "latitude": 47.717959,
+    "longitude": -122.35316
+  },
+  {
+    "situs_address": "8625 118TH AVE SE 98056",
+    "latitude": 47.525103,
+    "longitude": -122.18337
+  },
+  {
+    "situs_address": "9551 48TH AVE NE 98115",
+    "latitude": 47.699007,
+    "longitude": -122.27688
+  },
+  {
+    "situs_address": "2102 S SPOKANE ST 98144",
+    "latitude": 47.572124,
+    "longitude": -122.30427
+  },
+  {
+    "situs_address": "13124 NE 73RD ST 98033",
+    "latitude": 47.670362,
+    "longitude": -122.16422
+  },
+  {
+    "situs_address": "2801 S 299TH PL 98003",
+    "latitude": 47.333884,
+    "longitude": -122.29716
+  },
+  {
+    "situs_address": "12915 129TH AVE NE 98034",
+    "latitude": 47.716482,
+    "longitude": -122.1697
+  },
+  {
+    "situs_address": "12615 94TH AVE NE 98034",
+    "latitude": 47.71425,
+    "longitude": -122.21602
+  },
+  {
+    "situs_address": "12915 129TH AVE NE 98034",
+    "latitude": 47.716482,
+    "longitude": -122.1697
+  },
+  {
+    "situs_address": "8232 34TH AVE NE 98115",
+    "latitude": 47.688811,
+    "longitude": -122.29102
+  },
+  {
+    "situs_address": "1203 NW 70TH ST 98117",
+    "latitude": 47.679366,
+    "longitude": -122.37218
+  },
+  {
+    "situs_address": "2017 NE 137TH ST 98125",
+    "latitude": 47.728207,
+    "longitude": -122.30646
+  },
+  {
+    "situs_address": "19523 53RD AVE NE 98155",
+    "latitude": 47.770447,
+    "longitude": -122.27322
+  },
+  {
+    "situs_address": "21430 SE 24TH ST 98075",
+    "latitude": 47.588895,
+    "longitude": -122.05304
+  },
+  {
+    "situs_address": "824 NE 57TH ST 98105",
+    "latitude": 47.670255,
+    "longitude": -122.31896
+  },
+  {
+    "situs_address": "9217 27TH AVE NE 98115",
+    "latitude": 47.696255,
+    "longitude": -122.29909
+  },
+  {
+    "situs_address": "15661 SE 11TH ST 98008",
+    "latitude": 47.599931,
+    "longitude": -122.12956
+  },
+  {
+    "situs_address": "12558 2ND AVE NW 98177",
+    "latitude": 47.721275,
+    "longitude": -122.3593
+  },
+  {
+    "situs_address": "8127 27TH AVE SW 98126",
+    "latitude": 47.529265,
+    "longitude": -122.36747
+  },
+  {
+    "situs_address": "9610 MARY AVE NW 98117",
+    "latitude": 47.699612,
+    "longitude": -122.37514
+  },
+  {
+    "situs_address": "3021 49TH AVE SW 98116",
+    "latitude": 47.576851,
+    "longitude": -122.3944
+  },
+  {
+    "situs_address": "319 2ND ST NE 98002",
+    "latitude": 47.309397,
+    "longitude": -122.22469
+  },
+  {
+    "situs_address": "4428 c 4TH AVE NE",
+    "latitude": 41.543301,
+    "longitude": -99.811862
+  },
+  {
+    "situs_address": "130 G ST SE 98002",
+    "latitude": 47.306148,
+    "longitude": -122.22026
+  },
+  {
+    "situs_address": "10611 20TH AVE S 98168",
+    "latitude": 47.508095,
+    "longitude": -122.30762
+  },
+  {
+    "situs_address": "10633 34TH AVE SW 98146",
+    "latitude": 47.507195,
+    "longitude": -122.37499
+  },
+  {
+    "situs_address": "12004 3RD AVE S 98168",
+    "latitude": 47.495635,
+    "longitude": -122.32944
+  },
+  {
+    "situs_address": "2058 150TH AVE SE 98007",
+    "latitude": 47.591117,
+    "longitude": -122.13968
+  },
+  {
+    "situs_address": "9203 12TH AVE SW 98106",
+    "latitude": 47.52086,
+    "longitude": -122.35098
+  },
+  {
+    "situs_address": "333 NW 205TH ST 98177",
+    "latitude": 47.777492,
+    "longitude": -122.36267
+  },
+  {
+    "situs_address": "8242 15TH AVE NE 98115",
+    "latitude": 47.689774,
+    "longitude": -122.31189
+  },
+  {
+    "situs_address": "10325 32ND AVE NE 98125",
+    "latitude": 47.703849,
+    "longitude": -122.29439
+  },
+  {
+    "situs_address": "11144 WOODWARD AVE S 98178",
+    "latitude": 47.503045,
+    "longitude": -122.2367
+  },
+  {
+    "situs_address": "4632 S 164TH ST 98188",
+    "latitude": 47.456539,
+    "longitude": -122.27512
+  },
+  {
+    "situs_address": "1627 35TH ST SE 98002",
+    "latitude": 47.277732,
+    "longitude": -122.20681
+  },
+  {
+    "situs_address": "12407 NE 72ND ST 98033",
+    "latitude": 47.669476,
+    "longitude": -122.17424
+  },
+  {
+    "situs_address": "6327 121ST PL SE 98006",
+    "latitude": 47.54507,
+    "longitude": -122.17859
+  },
+  {
+    "situs_address": "3419 172ND AVE NE 98008",
+    "latitude": 47.640915,
+    "longitude": -122.11124
+  },
+  {
+    "situs_address": "3332 SAHALEE DR W 98074",
+    "latitude": 47.640763,
+    "longitude": -122.06151
+  },
+  {
+    "situs_address": "1821 SW 119TH ST 98146",
+    "latitude": 47.496094,
+    "longitude": -122.35802
+  },
+  {
+    "situs_address": "13064 39TH AVE NE 98125",
+    "latitude": 47.72488,
+    "longitude": -122.28553
+  },
+  {
+    "situs_address": "7326 35TH AVE SW 98126",
+    "latitude": 47.536604,
+    "longitude": -122.3762
+  },
+  {
+    "situs_address": "4613 EVANSTON AVE N",
+    "latitude": 39.764395,
+    "longitude": -86.403457
+  },
+  {
+    "situs_address": "2501 NE 140TH ST 98125",
+    "latitude": 47.729913,
+    "longitude": -122.30214
+  },
+  {
+    "situs_address": "14037 20TH AVE NE 98125",
+    "latitude": 47.731324,
+    "longitude": -122.30767
+  },
+  {
+    "situs_address": "21312 4TH PL S 98198",
+    "latitude": 47.410604,
+    "longitude": -122.32889
+  },
+  {
+    "situs_address": "17823 25TH AVE NE 98155",
+    "latitude": 47.759065,
+    "longitude": -122.30396
+  },
+  {
+    "situs_address": "508 WINDSOR PL NE 98056",
+    "latitude": 47.491036,
+    "longitude": -122.18604
+  },
+  {
+    "situs_address": "14222 82ND AVE NE 98034",
+    "latitude": 47.730162,
+    "longitude": -122.23148
+  },
+  {
+    "situs_address": "9411 12TH AVE NE 98115",
+    "latitude": 47.697248,
+    "longitude": -122.31514
+  },
+  {
+    "situs_address": "4627 47TH AVE S 98118",
+    "latitude": 47.56107,
+    "longitude": -122.27477
+  },
+  {
+    "situs_address": "6819 S 124TH ST 98178",
+    "latitude": 47.492317,
+    "longitude": -122.24814
+  },
+  {
+    "situs_address": "3248 SW 325TH ST 98023",
+    "latitude": 47.31121,
+    "longitude": -122.37594
+  },
+  {
+    "situs_address": "20819 NE INGLEWOOD HILL RD 98074",
+    "latitude": 47.619923,
+    "longitude": -122.06148
+  },
+  {
+    "situs_address": "7709 TOLT RIVER RD NE 98014",
+    "latitude": 47.671149,
+    "longitude": -121.86563
+  },
+  {
+    "situs_address": "16621 NE 92ND ST 98052",
+    "latitude": 47.683567,
+    "longitude": -122.11764
+  },
+  {
+    "situs_address": "6433 NE 182ND ST 98028",
+    "latitude": 47.760002,
+    "longitude": -122.25581
+  },
+  {
+    "situs_address": "8041 S 118TH ST 98178",
+    "latitude": 47.497106,
+    "longitude": -122.23114
+  },
+  {
+    "situs_address": "5545 27TH AVE NE 98105",
+    "latitude": 47.669839,
+    "longitude": -122.29884
+  },
+  {
+    "situs_address": "14909 175TH AVE SE 98059",
+    "latitude": 47.468184,
+    "longitude": -122.10882
+  },
+  {
+    "situs_address": "30432 224TH AVE SE 98010",
+    "latitude": 47.328587,
+    "longitude": -122.04363
+  },
+  {
+    "situs_address": "2609 17TH ST SE 98002",
+    "latitude": 47.293367,
+    "longitude": -122.19425
+  },
+  {
+    "situs_address": "26606 221ST PL SE 98038",
+    "latitude": 47.363495,
+    "longitude": -122.04458
+  },
+  {
+    "situs_address": "26606 221ST PL SE 98038",
+    "latitude": 47.363495,
+    "longitude": -122.04458
+  },
+  {
+    "situs_address": "5607 NE 200TH PL 98028",
+    "latitude": 47.774205,
+    "longitude": -122.26924
+  },
+  {
+    "situs_address": "16113 NE 99TH ST 98052",
+    "latitude": 47.688714,
+    "longitude": -122.12568
+  },
+  {
+    "situs_address": "10402 18TH AVE SW 98146",
+    "latitude": 47.509857,
+    "longitude": -122.35741
+  },
+  {
+    "situs_address": "11216 CRESTWOOD DR S 98178",
+    "latitude": 47.502664,
+    "longitude": -122.24411
+  },
+  {
+    "situs_address": "21515 SE 22ND ST 98075",
+    "latitude": 47.590172,
+    "longitude": -122.05056
+  },
+  {
+    "situs_address": "12252 DAYTON AVE N 98133",
+    "latitude": 47.719307,
+    "longitude": -122.35253
+  },
+  {
+    "situs_address": "2553 156TH AVE SE 98007",
+    "latitude": 47.586044,
+    "longitude": -122.13285
+  },
+  {
+    "situs_address": "23006 20TH AVE S 98198",
+    "latitude": 47.396295,
+    "longitude": -122.30694
+  },
+  {
+    "situs_address": "1319 N 161ST ST 98133",
+    "latitude": 47.74559,
+    "longitude": -122.34177
+  },
+  {
+    "situs_address": "7712 LINDEN AVE N 98103",
+    "latitude": 47.685215,
+    "longitude": -122.34696
+  },
+  {
+    "situs_address": "229 31ST AVE E 98112",
+    "latitude": 47.621081,
+    "longitude": -122.2926
+  },
+  {
+    "situs_address": "1609 E COLUMBIA ST 98122",
+    "latitude": 47.60902,
+    "longitude": -122.31099
+  },
+  {
+    "situs_address": "8440 47TH AVE S 98118",
+    "latitude": 47.526665,
+    "longitude": -122.27312
+  },
+  {
+    "situs_address": "2336 21ST AVE S 98144",
+    "latitude": 47.581819,
+    "longitude": -122.30526
+  },
+  {
+    "situs_address": "607 N 165TH PL 98133",
+    "latitude": 47.749012,
+    "longitude": -122.35356
+  },
+  {
+    "situs_address": "12256 OCCIDENTAL AVE S 98168",
+    "latitude": 47.492794,
+    "longitude": -122.33217
+  },
+  {
+    "situs_address": "108 4TH AVE SW 98047",
+    "latitude": 47.263661,
+    "longitude": -122.25137
+  },
+  {
+    "situs_address": "8004 219TH AVE NE 98053",
+    "latitude": 47.67536,
+    "longitude": -122.04728
+  },
+  {
+    "situs_address": "11034 LOTUS PL S 98178",
+    "latitude": 47.503394,
+    "longitude": -122.22913
+  },
+  {
+    "situs_address": "2619 W GALER ST 98199",
+    "latitude": 47.631852,
+    "longitude": -122.39159
+  },
+  {
+    "situs_address": "10935 SE 23RD ST 98004",
+    "latitude": 47.58994,
+    "longitude": -122.19288
+  },
+  {
+    "situs_address": "9756 8TH AVE NW 98117",
+    "latitude": 47.701348,
+    "longitude": -122.36555
+  },
+  {
+    "situs_address": "11236 3RD AVE S 98168",
+    "latitude": 47.502104,
+    "longitude": -122.32938
+  },
+  {
+    "situs_address": "1502 177TH AVE NE 98008",
+    "latitude": 47.623413,
+    "longitude": -122.10346
+  },
+  {
+    "situs_address": "1408 N 32ND ST 98056",
+    "latitude": 47.520604,
+    "longitude": -122.19997
+  },
+  {
+    "situs_address": "4707 S 173RD ST 98188",
+    "latitude": 47.447608,
+    "longitude": -122.2747
+  },
+  {
+    "situs_address": "28603 SE 67TH ST 98027",
+    "latitude": 47.540431,
+    "longitude": -121.9598
+  },
+  {
+    "situs_address": "7118 28TH AVE SW 98126",
+    "latitude": 47.538595,
+    "longitude": -122.36886
+  },
+  {
+    "situs_address": "2449 S 133RD ST 98168",
+    "latitude": 47.483406,
+    "longitude": -122.3003
+  },
+  {
+    "situs_address": "970 GREENWOOD BLVD SW 98027",
+    "latitude": 47.520394,
+    "longitude": -122.04758
+  },
+  {
+    "situs_address": "9008 15TH AVE SW 98106",
+    "latitude": 47.522493,
+    "longitude": -122.35369
+  },
+  {
+    "situs_address": "4707 S BRANDON ST 98118",
+    "latitude": 47.553196,
+    "longitude": -122.27373
+  },
+  {
+    "situs_address": "5218 37TH AVE NE 98105",
+    "latitude": 47.667272,
+    "longitude": -122.28763
+  },
+  {
+    "situs_address": "11252 FREMONT AVE N 98133",
+    "latitude": 47.712035,
+    "longitude": -122.34989
+  },
+  {
+    "situs_address": "16267 11TH AVE NE 98155",
+    "latitude": 47.748226,
+    "longitude": -122.31744
+  },
+  {
+    "situs_address": "1436 NW 60TH ST 98107",
+    "latitude": 47.672588,
+    "longitude": -122.37531
+  },
+  {
+    "situs_address": "6335 21ST AVE SW 98106",
+    "latitude": 47.54545,
+    "longitude": -122.35998
+  },
+  {
+    "situs_address": "6753 16TH AVE SW 98106",
+    "latitude": 47.541383,
+    "longitude": -122.35536
+  },
+  {
+    "situs_address": "13510 92ND PL NE 98034",
+    "latitude": 47.72097,
+    "longitude": -122.21723
+  },
+  {
+    "situs_address": "1956 LOWELL AVE 98022",
+    "latitude": 47.211823,
+    "longitude": -121.99368
+  },
+  {
+    "situs_address": "7414 S 118TH PL 98178",
+    "latitude": 47.497877,
+    "longitude": -122.24105
+  },
+  {
+    "situs_address": "2024 ABERDEEN AVE SE 98055",
+    "latitude": 47.462009,
+    "longitude": -122.19084
+  },
+  {
+    "situs_address": "5051 37TH AVE S 98118",
+    "latitude": 47.556649,
+    "longitude": -122.2863
+  },
+  {
+    "situs_address": "17828 8TH AVE NW 98177",
+    "latitude": 47.758647,
+    "longitude": -122.36629
+  },
+  {
+    "situs_address": "14217 31ST AVE S 98168",
+    "latitude": 47.475645,
+    "longitude": -122.29346
+  },
+  {
+    "situs_address": "2325 184TH AVE NE 98052",
+    "latitude": 47.630911,
+    "longitude": -122.09473
+  },
+  {
+    "situs_address": "16909 144TH AVE SE 98058",
+    "latitude": 47.4518,
+    "longitude": -122.14964
+  },
+  {
+    "situs_address": "9032 32ND AVE SW 98126",
+    "latitude": 47.521881,
+    "longitude": -122.37378
+  },
+  {
+    "situs_address": "1900 215TH PL SE 98075",
+    "latitude": 47.592996,
+    "longitude": -122.05187
+  },
+  {
+    "situs_address": "10743 FREMONT AVE N 98133",
+    "latitude": 47.708131,
+    "longitude": -122.35044
+  },
+  {
+    "situs_address": "9041 9TH AVE SW 98106",
+    "latitude": 47.521565,
+    "longitude": -122.3472
+  },
+  {
+    "situs_address": "4031 B 30TH AVE S 98108",
+    "latitude": 47.566921,
+    "longitude": -122.29492
+  },
+  {
+    "situs_address": "8045 E MERCER WAY 98040",
+    "latitude": 47.530374,
+    "longitude": -122.22122
+  },
+  {
+    "situs_address": "6555 116TH PL NE 98033",
+    "latitude": 47.665057,
+    "longitude": -122.18509
+  },
+  {
+    "situs_address": "3521 S LESCHI PL 98144",
+    "latitude": 47.599528,
+    "longitude": -122.28671
+  },
+  {
+    "situs_address": "726 N 98TH ST 98103",
+    "latitude": 47.700742,
+    "longitude": -122.34888
+  },
+  {
+    "situs_address": "5037 21ST AVE NE 98105",
+    "latitude": 47.666029,
+    "longitude": -122.30586
+  },
+  {
+    "situs_address": "31624 46TH AVE S 98001",
+    "latitude": 47.317966,
+    "longitude": -122.27651
+  },
+  {
+    "situs_address": "1425 E UNION ST 98122",
+    "latitude": 47.612683,
+    "longitude": -122.313
+  },
+  {
+    "situs_address": "17536 10TH AVE NW 98177",
+    "latitude": 47.757073,
+    "longitude": -122.36876
+  },
+  {
+    "situs_address": "15634 SE 8TH ST 98008",
+    "latitude": 47.603024,
+    "longitude": -122.12913
+  },
+  {
+    "situs_address": "13109 111TH PL NE 98034",
+    "latitude": 47.71784,
+    "longitude": -122.19268
+  },
+  {
+    "situs_address": "5611 BROOKLYN AVE NE 98105",
+    "latitude": 47.669743,
+    "longitude": -122.31445
+  },
+  {
+    "situs_address": "708 28TH AVE S 98144",
+    "latitude": 47.596409,
+    "longitude": -122.29614
+  },
+  {
+    "situs_address": "320 2ND AVE NE 98027",
+    "latitude": 47.533288,
+    "longitude": -122.03262
+  },
+  {
+    "situs_address": "14607 SE 173RD ST 98058",
+    "latitude": 47.449,
+    "longitude": -122.14781
+  },
+  {
+    "situs_address": "3305 16TH AVE S 98144",
+    "latitude": 47.573828,
+    "longitude": -122.31269
+  },
+  {
+    "situs_address": "3723 S 287TH ST 98001",
+    "latitude": 47.343925,
+    "longitude": -122.28433
+  },
+  {
+    "situs_address": "15550 11TH AVE NE 98155",
+    "latitude": 47.742697,
+    "longitude": -122.31674
+  },
+  {
+    "situs_address": "5136 55TH AVE S 98118",
+    "latitude": 47.555811,
+    "longitude": -122.26447
+  },
+  {
+    "situs_address": "5522 35TH AVE NE 98105",
+    "latitude": 47.669201,
+    "longitude": -122.28992
+  },
+  {
+    "situs_address": "11050 4TH AVE S 98168",
+    "latitude": 47.503649,
+    "longitude": -122.3277
+  },
+  {
+    "situs_address": "2011 30TH AVE S 98144",
+    "latitude": 47.585041,
+    "longitude": -122.2943
+  },
+  {
+    "situs_address": "2310 N 185TH ST 98155",
+    "latitude": 47.76316,
+    "longitude": -122.30856
+  },
+  {
+    "situs_address": "1025 S 112TH ST 98168",
+    "latitude": 47.502809,
+    "longitude": -122.31935
+  },
+  {
+    "situs_address": "11738 BARTLETT AVE NE 98125",
+    "latitude": 47.714876,
+    "longitude": -122.28349
+  },
+  {
+    "situs_address": "15544 JUANITA DR NE 98028",
+    "latitude": 47.741791,
+    "longitude": -122.24878
+  },
+  {
+    "situs_address": "6721 17TH AVE SW 98106",
+    "latitude": 47.54224,
+    "longitude": -122.35637
+  },
+  {
+    "situs_address": "6240 121ST AVE SE 98006",
+    "latitude": 47.546575,
+    "longitude": -122.17802
+  },
+  {
+    "situs_address": "544 N 79TH ST 98103",
+    "latitude": 47.68643,
+    "longitude": -122.35048
+  },
+  {
+    "situs_address": "2620 S 148TH ST 98168",
+    "latitude": 47.471277,
+    "longitude": -122.29901
+  },
+  {
+    "situs_address": "14230 146TH PL SE 98059",
+    "latitude": 47.474731,
+    "longitude": -122.14458
+  },
+  {
+    "situs_address": "9003 CARKEEK DR S 98118",
+    "latitude": 47.523076,
+    "longitude": -122.28105
+  },
+  {
+    "situs_address": "2921 FREDRICKSEN ST 98022",
+    "latitude": 47.210611,
+    "longitude": -121.99047
+  },
+  {
+    "situs_address": "5932 46TH AVE SW 98136",
+    "latitude": 47.549398,
+    "longitude": -122.39085
+  },
+  {
+    "situs_address": "16214 264TH PL SE 98027",
+    "latitude": 47.455708,
+    "longitude": -121.98902
+  },
+  {
+    "situs_address": "211 32ND AVE E 98112",
+    "latitude": 47.620549,
+    "longitude": -122.29149
+  },
+  {
+    "situs_address": "19918 SE 268TH ST 98042",
+    "latitude": 47.36153,
+    "longitude": -122.07505
+  },
+  {
+    "situs_address": "8807 5TH AVE NE",
+    "latitude": 41.543301,
+    "longitude": -99.811862
+  },
+  {
+    "situs_address": "422 NE 88TH ST 98115",
+    "latitude": 47.692383,
+    "longitude": -122.32337
+  },
+  {
+    "situs_address": "8226 NE 145TH ST 98028",
+    "latitude": 47.733629,
+    "longitude": -122.23052
+  },
+  {
+    "situs_address": "2502 NE 68TH ST 98115",
+    "latitude": 47.677813,
+    "longitude": -122.3004
+  },
+  {
+    "situs_address": "10436 9TH AVE SW 98146",
+    "latitude": 47.509223,
+    "longitude": -122.34581
+  },
+  {
+    "situs_address": "4703 9TH AVE NE",
+    "latitude": 41.543301,
+    "longitude": -99.811862
+  },
+  {
+    "situs_address": "340 MORRIS AVE S 98055",
+    "latitude": 47.478438,
+    "longitude": -122.2104
+  },
+  {
+    "situs_address": "13432 121ST AVE NE 98034",
+    "latitude": 47.721295,
+    "longitude": -122.17853
+  },
+  {
+    "situs_address": "2213 NE 6TH PL 98056",
+    "latitude": 47.494594,
+    "longitude": -122.18912
+  },
+  {
+    "situs_address": "10435 SLATER AVE NE 98033",
+    "latitude": 47.694222,
+    "longitude": -122.17814
+  },
+  {
+    "situs_address": "8632 45TH AVE S 98118",
+    "latitude": 47.525051,
+    "longitude": -122.27554
+  },
+  {
+    "situs_address": "8606 SEWARD PARK AVE S 98118",
+    "latitude": 47.526512,
+    "longitude": -122.26462
+  },
+  {
+    "situs_address": "7422 NE 145TH PL 98028",
+    "latitude": 47.734237,
+    "longitude": -122.24198
+  },
+  {
+    "situs_address": "14414 85TH PL NE 98034",
+    "latitude": 47.732297,
+    "longitude": -122.22715
+  },
+  {
+    "situs_address": "12813 NE 32ND PL 98005",
+    "latitude": 47.639148,
+    "longitude": -122.16945
+  },
+  {
+    "situs_address": "12223 43RD AVE S 98178",
+    "latitude": 47.493603,
+    "longitude": -122.27932
+  },
+  {
+    "situs_address": "3213 S 295TH PL 98001",
+    "latitude": 47.336859,
+    "longitude": -122.29094
+  },
+  {
+    "situs_address": "3215 56TH AVE SW 98116",
+    "latitude": 47.575273,
+    "longitude": -122.40389
+  },
+  {
+    "situs_address": "812 SW 305TH ST 98023",
+    "latitude": 47.328688,
+    "longitude": -122.34616
+  },
+  {
+    "situs_address": "6357 36TH AVE SW 98126",
+    "latitude": 47.544885,
+    "longitude": -122.3781
+  },
+  {
+    "situs_address": "6178 NE 187TH PL 98028",
+    "latitude": 47.7641,
+    "longitude": -122.26121
+  },
+  {
+    "situs_address": "8411 NE 169TH PL 98028",
+    "latitude": 47.751088,
+    "longitude": -122.22814
+  },
+  {
+    "situs_address": "14734 20TH AVE NE 98155",
+    "latitude": 47.736594,
+    "longitude": -122.30707
+  },
+  {
+    "situs_address": "16241 MAIN ST 98008",
+    "latitude": 47.60899,
+    "longitude": -122.12275
+  },
+  {
+    "situs_address": "8847 16TH AVE SW 98106",
+    "latitude": 47.523367,
+    "longitude": -122.3554
+  },
+  {
+    "situs_address": "3846 NE 94TH ST 98115",
+    "latitude": 47.696924,
+    "longitude": -122.28567
+  },
+  {
+    "situs_address": "10038 9TH AVE SW 98146",
+    "latitude": 47.512604,
+    "longitude": -122.34607
+  },
+  {
+    "situs_address": "5032 20TH AVE NE 98105",
+    "latitude": 47.665895,
+    "longitude": -122.30622
+  },
+  {
+    "situs_address": "4502 41ST AVE S 98118",
+    "latitude": 47.562691,
+    "longitude": -122.28145
+  },
+  {
+    "situs_address": "4454 S 172ND ST 98188",
+    "latitude": 47.449709,
+    "longitude": -122.27626
+  },
+  {
+    "situs_address": "137 31ST AVE 98122",
+    "latitude": 47.602773,
+    "longitude": -122.29283
+  },
+  {
+    "situs_address": "2212 N 39TH ST 98103",
+    "latitude": 47.654525,
+    "longitude": -122.33197
+  },
+  {
+    "situs_address": "3716 CASCADIA AVE S 98144",
+    "latitude": 47.570162,
+    "longitude": -122.28253
+  },
+  {
+    "situs_address": "5015 IVANHOE PL NE 98105",
+    "latitude": 47.665122,
+    "longitude": -122.27012
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "425 24TH AVE E 98112",
+    "latitude": 47.62346,
+    "longitude": -122.30147
+  },
+  {
+    "situs_address": "1612 164TH PL NE 98008",
+    "latitude": 47.625351,
+    "longitude": -122.12076
+  },
+  {
+    "situs_address": "4217 5TH AVE NW 98107",
+    "latitude": 47.658346,
+    "longitude": -122.36326
+  },
+  {
+    "situs_address": "11104 NE 116TH ST 98034",
+    "latitude": 47.704325,
+    "longitude": -122.1927
+  },
+  {
+    "situs_address": "509 SW 104TH ST 98146",
+    "latitude": 47.51005,
+    "longitude": -122.34104
+  },
+  {
+    "situs_address": "11514 NE 139TH PL 98034",
+    "latitude": 47.725225,
+    "longitude": -122.18749
+  },
+  {
+    "situs_address": "819 176TH AVE NE 98008",
+    "latitude": 47.617248,
+    "longitude": -122.10609
+  },
+  {
+    "situs_address": "11109 NE 146TH ST 98034",
+    "latitude": 47.733557,
+    "longitude": -122.19316
+  },
+  {
+    "situs_address": "683 REDMOND AVE NE 98056",
+    "latitude": 47.494366,
+    "longitude": -122.16903
+  },
+  {
+    "situs_address": "3232 S 137TH ST 98168",
+    "latitude": 47.481007,
+    "longitude": -122.2904
+  },
+  {
+    "situs_address": "15728 1ST AVE NE 98019",
+    "latitude": 47.742184,
+    "longitude": -121.98427
+  },
+  {
+    "situs_address": "29031 188TH AVE SE 98042",
+    "latitude": 47.340598,
+    "longitude": -122.09163
+  },
+  {
+    "situs_address": "18315 196TH AVE SE 98058",
+    "latitude": 47.438004,
+    "longitude": -122.08051
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "6320 33RD AVE S 98118",
+    "latitude": 47.545444,
+    "longitude": -122.29
+  },
+  {
+    "situs_address": "1826 1ST ST 98033",
+    "latitude": 47.690381,
+    "longitude": -122.20798
+  },
+  {
+    "situs_address": "1534 46TH AVE SW 98116",
+    "latitude": 47.589584,
+    "longitude": -122.39
+  },
+  {
+    "situs_address": "1616 N 175TH ST 98133",
+    "latitude": 47.756174,
+    "longitude": -122.3395
+  },
+  {
+    "situs_address": "25604 29TH AVE S 98032",
+    "latitude": 47.372043,
+    "longitude": -122.29627
+  },
+  {
+    "situs_address": "17006 172ND PL NE 98072",
+    "latitude": 47.751119,
+    "longitude": -122.10917
+  },
+  {
+    "situs_address": "10055 8TH AVE NW 98177",
+    "latitude": 47.703183,
+    "longitude": -122.3664
+  },
+  {
+    "situs_address": "32859 46TH PL S 98001",
+    "latitude": 47.306309,
+    "longitude": -122.27237
+  },
+  {
+    "situs_address": "12020 87TH AVE NE 98034",
+    "latitude": 47.708078,
+    "longitude": -122.22511
+  },
+  {
+    "situs_address": "8231 172ND AVE NE 98052",
+    "latitude": 47.67708,
+    "longitude": -122.10929
+  },
+  {
+    "situs_address": "18522 ASHWORTH AVE N 98133",
+    "latitude": 47.763844,
+    "longitude": -122.34005
+  },
+  {
+    "situs_address": "15418 SE 38TH ST 98006",
+    "latitude": 47.576267,
+    "longitude": -122.135
+  },
+  {
+    "situs_address": "3818 142ND PL NE 98007",
+    "latitude": 47.644908,
+    "longitude": -122.14956
+  },
+  {
+    "situs_address": "2345 N 189TH ST 98155",
+    "latitude": 47.766124,
+    "longitude": -122.33014
+  },
+  {
+    "situs_address": "1405 NW 100TH ST 98177",
+    "latitude": 47.701299,
+    "longitude": -122.37436
+  },
+  {
+    "situs_address": "6112 S 125TH ST 98178",
+    "latitude": 47.491282,
+    "longitude": -122.25738
+  },
+  {
+    "situs_address": "5550 36TH AVE NE 98105",
+    "latitude": 47.669993,
+    "longitude": -122.28876
+  },
+  {
+    "situs_address": "5550 36TH AVE NE 98105",
+    "latitude": 47.669993,
+    "longitude": -122.28876
+  },
+  {
+    "situs_address": "1633 17TH AVE 98122",
+    "latitude": 47.616275,
+    "longitude": -122.31049
+  },
+  {
+    "situs_address": "11423 WOODLEY AVE S 98178",
+    "latitude": 47.500267,
+    "longitude": -122.24281
+  },
+  {
+    "situs_address": "7459 S 116TH ST 98178",
+    "latitude": 47.49865,
+    "longitude": -122.2393
+  },
+  {
+    "situs_address": "2557 13TH AVE W 98119",
+    "latitude": 47.642378,
+    "longitude": -122.37401
+  },
+  {
+    "situs_address": "25410 168TH PL SE 98042",
+    "latitude": 47.373465,
+    "longitude": -122.11683
+  },
+  {
+    "situs_address": "30421 153RD AVE SE 98042",
+    "latitude": 47.32838,
+    "longitude": -122.13806
+  },
+  {
+    "situs_address": "12012 SE 169TH PL 98058",
+    "latitude": 47.451069,
+    "longitude": -122.18046
+  },
+  {
+    "situs_address": "118 PIKE ST NE 98002",
+    "latitude": 47.309598,
+    "longitude": -122.20934
+  },
+  {
+    "situs_address": "14527 27TH PL S 98168",
+    "latitude": 47.472774,
+    "longitude": -122.29822
+  },
+  {
+    "situs_address": "13544 35TH AVE S 98168",
+    "latitude": 47.481181,
+    "longitude": -122.28759
+  },
+  {
+    "situs_address": "650 SW 135TH ST 98146",
+    "latitude": 47.482327,
+    "longitude": -122.34403
+  },
+  {
+    "situs_address": "833 S TRENTON ST 98108",
+    "latitude": 47.524597,
+    "longitude": -122.32147
+  },
+  {
+    "situs_address": "5118 S 164TH ST 98188",
+    "latitude": 47.456333,
+    "longitude": -122.26958
+  },
+  {
+    "situs_address": "12017 71ST AVE S 98178",
+    "latitude": 47.493569,
+    "longitude": -122.24447
+  },
+  {
+    "situs_address": "1433 QUEEN AVE NE 98056",
+    "latitude": 47.505459,
+    "longitude": -122.17105
+  },
+  {
+    "situs_address": "18225 118TH AVE SE 98058",
+    "latitude": 47.439014,
+    "longitude": -122.18401
+  },
+  {
+    "situs_address": "24809 145TH LN SE 98042",
+    "latitude": 47.379125,
+    "longitude": -122.1469
+  },
+  {
+    "situs_address": "9031 32ND AVE SW 98126",
+    "latitude": 47.521884,
+    "longitude": -122.37431
+  },
+  {
+    "situs_address": "15305 SE 20TH ST 98007",
+    "latitude": 47.592386,
+    "longitude": -122.13561
+  },
+  {
+    "situs_address": "10449 1ST AVE S 98168",
+    "latitude": 47.508907,
+    "longitude": -122.33404
+  },
+  {
+    "situs_address": "11605 RENTON AVE S 98178",
+    "latitude": 47.499194,
+    "longitude": -122.24988
+  },
+  {
+    "situs_address": "16626 158TH PL SE 98058",
+    "latitude": 47.453705,
+    "longitude": -122.12846
+  },
+  {
+    "situs_address": "3519 S 137TH ST 98168",
+    "latitude": 47.480637,
+    "longitude": -122.28684
+  },
+  {
+    "situs_address": "11203 NE 149TH ST 98034",
+    "latitude": 47.736085,
+    "longitude": -122.19226
+  },
+  {
+    "situs_address": "1652 INDEX AVE SE 98058",
+    "latitude": 47.467124,
+    "longitude": -122.17663
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "16716 203RD PL NE 98077",
+    "latitude": 47.75008,
+    "longitude": -122.06552
+  },
+  {
+    "situs_address": "9424 20TH AVE SW 98106",
+    "latitude": 47.518472,
+    "longitude": -122.35897
+  },
+  {
+    "situs_address": "24957 SE 155TH PL 98027",
+    "latitude": 47.462523,
+    "longitude": -122.00895
+  },
+  {
+    "situs_address": "8615 WABASH AVE S 98118",
+    "latitude": 47.526372,
+    "longitude": -122.26612
+  },
+  {
+    "situs_address": "2500 LAKE PARK DR S 98144",
+    "latitude": 47.581318,
+    "longitude": -122.28767
+  },
+  {
+    "situs_address": "3328 21ST AVE S 98144",
+    "latitude": 47.573238,
+    "longitude": -122.3046
+  },
+  {
+    "situs_address": "8415 16TH AVE SW 98106",
+    "latitude": 47.527854,
+    "longitude": -122.35541
+  },
+  {
+    "situs_address": "3200 E UNION ST 98122",
+    "latitude": 47.613109,
+    "longitude": -122.29111
+  },
+  {
+    "situs_address": "21244 116TH AVE SE 98031",
+    "latitude": 47.410986,
+    "longitude": -122.18649
+  },
+  {
+    "situs_address": "309 NW 49TH ST 98107",
+    "latitude": 47.664197,
+    "longitude": -122.36136
+  },
+  {
+    "situs_address": "19631 44TH PL NE 98155",
+    "latitude": 47.773156,
+    "longitude": -122.28211
+  },
+  {
+    "situs_address": "1604 SW 168TH ST 98166",
+    "latitude": 47.452598,
+    "longitude": -122.35556
+  },
+  {
+    "situs_address": "2104 N 154TH ST 98133",
+    "latitude": 47.740552,
+    "longitude": -122.33412
+  },
+  {
+    "situs_address": "20021 5TH AVE S 98198",
+    "latitude": 47.422526,
+    "longitude": -122.32884
+  },
+  {
+    "situs_address": "3500 W GOVERNMENT WAY 98199",
+    "latitude": 47.658739,
+    "longitude": -122.40266
+  },
+  {
+    "situs_address": "12804 81ST AVE NE 98034",
+    "latitude": 47.715437,
+    "longitude": -122.23317
+  },
+  {
+    "situs_address": "2302 S SPOKANE ST 98144",
+    "latitude": 47.572149,
+    "longitude": -122.30319
+  },
+  {
+    "situs_address": "16240 114TH AVE SE 98055",
+    "latitude": 47.457021,
+    "longitude": -122.18852
+  },
+  {
+    "situs_address": "13220 125TH AVE NE 98034",
+    "latitude": 47.719288,
+    "longitude": -122.17347
+  },
+  {
+    "situs_address": "3512 S THISTLE ST 98118",
+    "latitude": 47.52813,
+    "longitude": -122.28697
+  },
+  {
+    "situs_address": "14023 37TH AVE NE 98125",
+    "latitude": 47.730922,
+    "longitude": -122.28873
+  },
+  {
+    "situs_address": "3708 E SUPERIOR ST 98122",
+    "latitude": 47.602924,
+    "longitude": -122.28666
+  },
+  {
+    "situs_address": "2805 194TH AVE SE 98075",
+    "latitude": 47.584722,
+    "longitude": -122.08136
+  },
+  {
+    "situs_address": "2805 194TH AVE SE 98075",
+    "latitude": 47.584722,
+    "longitude": -122.08136
+  },
+  {
+    "situs_address": "13014 110TH AVE NE 98034",
+    "latitude": 47.716877,
+    "longitude": -122.19458
+  },
+  {
+    "situs_address": "4907 13TH AVE S 98108",
+    "latitude": 47.558384,
+    "longitude": -122.31633
+  },
+  {
+    "situs_address": "326 22ND AVE E 98112",
+    "latitude": 47.622202,
+    "longitude": -122.30329
+  },
+  {
+    "situs_address": "6017 7TH AVE NW 98107",
+    "latitude": 47.672922,
+    "longitude": -122.36539
+  },
+  {
+    "situs_address": "3223 NE 12TH ST 98056",
+    "latitude": 47.5025,
+    "longitude": -122.17425
+  },
+  {
+    "situs_address": "5209 33RD AVE S 98118",
+    "latitude": 47.554991,
+    "longitude": -122.29083
+  },
+  {
+    "situs_address": "21920 SE 37TH ST 98075",
+    "latitude": 47.576051,
+    "longitude": -122.0471
+  },
+  {
+    "situs_address": "25325 SE 216TH ST 98038",
+    "latitude": 47.407902,
+    "longitude": -122.00298
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "7611 NE 140TH PL 98011",
+    "latitude": 47.726919,
+    "longitude": -122.24014
+  },
+  {
+    "situs_address": "923 10TH AVE NE 98155",
+    "latitude": 47.757662,
+    "longitude": -122.31894
+  },
+  {
+    "situs_address": "5164 42ND AVE S 98118",
+    "latitude": 47.555371,
+    "longitude": -122.28047
+  },
+  {
+    "situs_address": "9123 23RD AVE NE 98115",
+    "latitude": 47.695266,
+    "longitude": -122.30437
+  },
+  {
+    "situs_address": "651 SW 120TH ST 98146",
+    "latitude": 47.495493,
+    "longitude": -122.34372
+  },
+  {
+    "situs_address": "11014 AUBURN AVE S 98178",
+    "latitude": 47.504294,
+    "longitude": -122.24011
+  },
+  {
+    "situs_address": "10857 4TH AVE S 98168",
+    "latitude": 47.505298,
+    "longitude": -122.32908
+  },
+  {
+    "situs_address": "1700 ANACORTES AVE NE 98059",
+    "latitude": 47.507056,
+    "longitude": -122.16079
+  },
+  {
+    "situs_address": "20712 106TH PL SE 98031",
+    "latitude": 47.416253,
+    "longitude": -122.19861
+  },
+  {
+    "situs_address": "802 4TH ST SE 98002",
+    "latitude": 47.304163,
+    "longitude": -122.21913
+  },
+  {
+    "situs_address": "5240 20TH AVE NE 98105",
+    "latitude": 47.667716,
+    "longitude": -122.3062
+  },
+  {
+    "situs_address": "7057 22ND AVE NW 98117",
+    "latitude": 47.68117,
+    "longitude": -122.38463
+  },
+  {
+    "situs_address": "5929 32ND AVE SW 98126",
+    "latitude": 47.549224,
+    "longitude": -122.3741
+  },
+  {
+    "situs_address": "1603 NW 198TH ST 98177",
+    "latitude": 47.772557,
+    "longitude": -122.37808
+  },
+  {
+    "situs_address": "28605 30TH AVE S 98003",
+    "latitude": 47.34504,
+    "longitude": -122.29495
+  },
+  {
+    "situs_address": "31323 11TH PL S 98003",
+    "latitude": 47.320749,
+    "longitude": -122.31968
+  },
+  {
+    "situs_address": "2641 MAYFAIR AVE N 98109",
+    "latitude": 47.644468,
+    "longitude": -122.35305
+  },
+  {
+    "situs_address": "819 B NW 97TH ST 98117",
+    "latitude": 47.699837,
+    "longitude": -122.36703
+  },
+  {
+    "situs_address": "10011 WALLINGFORD AVE N 98133",
+    "latitude": 47.701816,
+    "longitude": -122.33618
+  },
+  {
+    "situs_address": "19338 FREMONT AVE N 98133",
+    "latitude": 47.769689,
+    "longitude": -122.35031
+  },
+  {
+    "situs_address": "545 NE 80TH ST 98115",
+    "latitude": 47.686553,
+    "longitude": -122.32093
+  },
+  {
+    "situs_address": "",
+    "latitude": 0,
+    "longitude": 0
+  },
+  {
+    "situs_address": "15835 28TH AVE NE 98155",
+    "latitude": 47.743856,
+    "longitude": -122.2983
+  },
+  {
+    "situs_address": "400 SW FOREST PL 98027",
+    "latitude": 47.522936,
+    "longitude": -122.04337
+  },
+  {
+    "situs_address": "905 17TH AVE 98122",
+    "latitude": 47.610574,
+    "longitude": -122.31045
+  },
+  {
+    "situs_address": "3304 S WEBSTER ST 98118",
+    "latitude": 47.535351,
+    "longitude": -122.28951
+  },
+  {
+    "situs_address": "8720 NE 131ST ST 98034",
+    "latitude": 47.717671,
+    "longitude": -122.22476
+  }
+]

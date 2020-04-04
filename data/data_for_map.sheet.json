@@ -1,0 +1,5860 @@
+[
+  {
+    "parcel_id": 9286800032,
+    "address": "2615 SW 110TH ST",
+    "latitude": 47.504073,
+    "longitude": -122.36908,
+    "Number": "",
+    "Street": "",
+    "City": "Seattle"
+  },
+  {
+    "parcel_id": 7504000930,
+    "address": "2421 SAHALEE DR W 98074",
+    "latitude": 47.631142,
+    "longitude": -122.06226,
+    "Number": 2421,
+    "Street": "Sahalee Dr W",
+    "City": "Sammamish",
+    "Zip": 98074
+  },
+  {
+    "parcel_id": 8563020140,
+    "address": "2216 182ND AVE NE 98052",
+    "latitude": 47.630534,
+    "longitude": -122.09714,
+    "Number": 2216,
+    "Street": "182nd Ave NE",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 7804200400,
+    "address": "6404 137TH AVE NE #668 98052",
+    "latitude": 47.663701,
+    "longitude": -122.15728,
+    "Number": 6404,
+    "Street": "137th Ave NE",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 1310941640,
+    "address": "16310 118TH CT NE 32-3 98011",
+    "latitude": 47.746385,
+    "longitude": -122.18244,
+    "Number": 16310,
+    "Street": "118th Ct NE",
+    "City": "Bothell",
+    "Zip": 98011
+  },
+  {
+    "parcel_id": 923049347,
+    "address": "2515 S 118TH ST 98168",
+    "latitude": 47.497267,
+    "longitude": -122.3,
+    "Number": 2515,
+    "Street": "S 118th St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 200060190,
+    "address": "506 E HOWELL ST #W503 98122",
+    "latitude": 47.618029,
+    "longitude": -122.32481,
+    "Number": 506,
+    "Street": "E Howell St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 200060190,
+    "address": "506 E HOWELL ST #W503 98122",
+    "latitude": 47.618029,
+    "longitude": -122.32481,
+    "Number": 506,
+    "Street": "E Howell St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3426049160,
+    "address": "9703 40TH AVE NE 98115",
+    "latitude": 47.699435,
+    "longitude": -122.28567,
+    "Number": 9703,
+    "Street": "40th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 3345100046,
+    "address": "11308 SE MAY CREEK PARK DR",
+    "latitude": 47.523102,
+    "longitude": -122.1915787,
+    "Number": 11308,
+    "Street": "SE May Creek Park Dr",
+    "City": "Newcastle"
+  },
+  {
+    "parcel_id": 7518505360,
+    "address": "6529 21ST AVE NW 98117",
+    "latitude": 47.676748,
+    "longitude": -122.38354,
+    "Number": 6529,
+    "Street": "21st Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 3343901643,
+    "address": "1632 ABERDEEN AVE NE 98056",
+    "latitude": 47.507194,
+    "longitude": -122.19066,
+    "Number": 1632,
+    "Street": "Aberdeen Ave NE",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 2110900005,
+    "address": "19828 12TH AVE NW 98177",
+    "latitude": 47.773096,
+    "longitude": -122.37165,
+    "Number": 19828,
+    "Street": "12th Ave NW",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 3969300195,
+    "address": "12655 74TH PL S 98178",
+    "latitude": 47.489339,
+    "longitude": -122.23988,
+    "Number": 12655,
+    "Street": "74th Pl S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 4443801080,
+    "address": "8009 26TH AVE NW 98117",
+    "latitude": 47.687144,
+    "longitude": -122.3901,
+    "Number": 8009,
+    "Street": "26th Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 8805900305,
+    "address": "2216 E LOUISA ST 98112",
+    "latitude": 47.642613,
+    "longitude": -122.303,
+    "Number": 2216,
+    "Street": "E Louisa St",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 1026069114,
+    "address": "24136 NE 172ND ST 98077",
+    "latitude": 47.753452,
+    "longitude": -122.01661,
+    "Number": 24136,
+    "Street": "NE 172nd St",
+    "City": "Woodinville",
+    "Zip": 98077
+  },
+  {
+    "parcel_id": 798000065,
+    "address": "11604 5TH AVE S 98168",
+    "latitude": 47.499277,
+    "longitude": -122.32587,
+    "Number": 11604,
+    "Street": "5th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 6713100027,
+    "address": "422 N 182ND CT 98133",
+    "latitude": 47.76085,
+    "longitude": -122.35515,
+    "Number": 422,
+    "Street": "N 182nd Ct",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 1939800010,
+    "address": "18824 BOTHELL WAY NE 98011",
+    "latitude": 47.764888,
+    "longitude": -122.20835,
+    "Number": 18824,
+    "Street": "Bothell Way NE",
+    "City": "Bothell",
+    "Zip": 98011
+  },
+  {
+    "parcel_id": 6840700485,
+    "address": "511 28TH AVE 98122",
+    "latitude": 47.606615,
+    "longitude": -122.29608,
+    "Number": 511,
+    "Street": "28th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 2877102741,
+    "address": "6751 3RD AVE NW 98117",
+    "latitude": 47.679168,
+    "longitude": -122.3608,
+    "Number": 6751,
+    "Street": "3rd Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 3362400559,
+    "address": "710 N 73RD ST 98103",
+    "latitude": 47.682028,
+    "longitude": -122.34945,
+    "Number": 710,
+    "Street": "N 73rd St",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 5364200519,
+    "address": "4707 48TH AVE NE 98105",
+    "latitude": 47.663311,
+    "longitude": -122.27611,
+    "Number": 4707,
+    "Street": "48th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 9828202080,
+    "address": "3008 E OLIVE ST 98122",
+    "latitude": 47.616633,
+    "longitude": -122.29304,
+    "Number": 3008,
+    "Street": "E Olive St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 7893200595,
+    "address": "20704 4TH AVE S 98198",
+    "latitude": 47.417162,
+    "longitude": -122.33045,
+    "Number": 20704,
+    "Street": "4th Ave S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 3330501105,
+    "address": "4243 S FINDLAY ST 98118",
+    "latitude": 47.551733,
+    "longitude": -122.27889,
+    "Number": 4243,
+    "Street": "S Findlay St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 2600140260,
+    "address": "13895 SE 64TH ST 98006",
+    "latitude": 47.545584,
+    "longitude": -122.15648,
+    "Number": 13895,
+    "Street": "SE 64th St",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 6058600290,
+    "address": "814 23RD AVE S 98144",
+    "latitude": 47.595059,
+    "longitude": -122.30189,
+    "Number": 814,
+    "Street": "23rd Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 7645900230,
+    "address": "3005 BELVIDERE AVE SW 98126",
+    "latitude": 47.57718,
+    "longitude": -122.37951,
+    "Number": 3005,
+    "Street": "Belvidere Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 1845500090,
+    "address": "9337 SE 70TH PL 98040",
+    "latitude": 47.540529,
+    "longitude": -122.21442,
+    "Number": 9337,
+    "Street": "SE 70th Pl",
+    "City": "Mercer Island",
+    "Zip": 98040
+  },
+  {
+    "parcel_id": 6738700225,
+    "address": "2021 33RD AVE S 98144",
+    "latitude": 47.584469,
+    "longitude": -122.29118,
+    "Number": 2021,
+    "Street": "33rd Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 1723049462,
+    "address": "13718 10TH AVE S 98168",
+    "latitude": 47.479934,
+    "longitude": -122.32048,
+    "Number": 13718,
+    "Street": "10th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 6170900115,
+    "address": "101 NW 101ST ST 98177",
+    "latitude": 47.702026,
+    "longitude": -122.35831,
+    "Number": 101,
+    "Street": "NW 101st St",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 1189001325,
+    "address": "2717 E SPRING ST 98122",
+    "latitude": 47.611363,
+    "longitude": -122.29678,
+    "Number": 2717,
+    "Street": "E Spring St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 1568100720,
+    "address": "3521 NE 148TH ST 98155",
+    "latitude": 47.736135,
+    "longitude": -122.2903,
+    "Number": 3521,
+    "Street": "NE 148th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 923049273,
+    "address": "11422 20TH AVE S 98168",
+    "latitude": 47.500637,
+    "longitude": -122.30718,
+    "Number": 11422,
+    "Street": "20th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 6738700235,
+    "address": "2015 33RD AVE S 98144",
+    "latitude": 47.58469,
+    "longitude": -122.29116,
+    "Number": 2015,
+    "Street": "33rd Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 7849200885,
+    "address": "39172 SE GAMMA ST 98065",
+    "latitude": 47.523473,
+    "longitude": -121.81832,
+    "Number": 39172,
+    "Street": "SE Gamma St",
+    "City": "Snoqualmie",
+    "Zip": 98065
+  },
+  {
+    "parcel_id": 7831800445,
+    "address": "7532 21ST AVE SW 98106",
+    "latitude": 47.534522,
+    "longitude": -122.35993,
+    "Number": 7532,
+    "Street": "21st Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 3320000970,
+    "address": "1841 S LANE ST 98144",
+    "latitude": 47.596464,
+    "longitude": -122.30718,
+    "Number": 1841,
+    "Street": "S Lane St",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 2789400035,
+    "address": "10880 14TH AVE S 98168",
+    "latitude": 47.504817,
+    "longitude": -122.31498,
+    "Number": 10880,
+    "Street": "14th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 3331500455,
+    "address": "4719 S LUCILE ST 98118",
+    "latitude": 47.552463,
+    "longitude": -122.2733,
+    "Number": 4719,
+    "Street": "S Lucile St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 3331500460,
+    "address": "4717 S LUCILE ST",
+    "latitude": 47.552427,
+    "longitude": -122.2756094,
+    "Number": 4714,
+    "Street": "S Lucile St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 5245600170,
+    "address": "1045 S 197TH ST 98148",
+    "latitude": 47.425146,
+    "longitude": -122.3207,
+    "Number": 1045,
+    "Street": "S 197th St",
+    "City": "Seattle",
+    "Zip": 98148
+  },
+  {
+    "parcel_id": 4022901450,
+    "address": "3341 NE 202ND ST 98155",
+    "latitude": 47.774676,
+    "longitude": -122.2918,
+    "Number": 3341,
+    "Street": "NE 202nd St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 7523700020,
+    "address": "24823 21ST AVE S 98032",
+    "latitude": 47.37876,
+    "longitude": -122.30699,
+    "Number": 24823,
+    "Street": "21st Ave S",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 1788800410,
+    "address": "646 SW 308TH ST 98023",
+    "latitude": 47.326261,
+    "longitude": -122.34484,
+    "Number": 646,
+    "Street": "SW 308th St",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 1523059059,
+    "address": "14231 SE 138TH ST 98059",
+    "latitude": 47.479187,
+    "longitude": -122.14974,
+    "Number": 14231,
+    "Street": "SE 138th St",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 7971300035,
+    "address": "12454 NE 6TH PL 98005",
+    "latitude": 47.616187,
+    "longitude": -122.17262,
+    "Number": 12454,
+    "Street": "NE 6th Pl",
+    "City": "Bellevue",
+    "Zip": 98005
+  },
+  {
+    "parcel_id": 5540800060,
+    "address": "930 N 90TH ST 98103",
+    "latitude": 47.694363,
+    "longitude": -122.34582,
+    "Number": 930,
+    "Street": "N 90th St",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 6381500370,
+    "address": "2416 NE 143RD ST 98125",
+    "latitude": 47.732399,
+    "longitude": -122.30245,
+    "Number": 2416,
+    "Street": "NE 143rd St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 6381500370,
+    "address": "2416 NE 143RD ST 98125",
+    "latitude": 47.732399,
+    "longitude": -122.30245,
+    "Number": 2416,
+    "Street": "NE 143rd St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 8125200460,
+    "address": "5156 S 170TH ST 98188",
+    "latitude": 47.451421,
+    "longitude": -122.26848,
+    "Number": 5156,
+    "Street": "S 170th St",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 9266700140,
+    "address": "923 N 90TH ST 98103",
+    "latitude": 47.693971,
+    "longitude": -122.34621,
+    "Number": 923,
+    "Street": "N 90th St",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 4369600005,
+    "address": "721 E JAMES ST 98031",
+    "latitude": 47.386909,
+    "longitude": -122.22472,
+    "Number": 721,
+    "Street": "E James St",
+    "City": "Kent",
+    "Zip": 98031
+  },
+  {
+    "parcel_id": 4406000320,
+    "address": "19340 142ND PL SE 98058",
+    "latitude": 47.427919,
+    "longitude": -122.15084,
+    "Number": 19340,
+    "Street": "142nd Pl SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 7522700180,
+    "address": "1417 S 262ND ST 98198",
+    "latitude": 47.366867,
+    "longitude": -122.31461,
+    "Number": 1417,
+    "Street": "S 262nd St",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 7175300175,
+    "address": "7062 20TH AVE NE 98115",
+    "latitude": 47.681122,
+    "longitude": -122.30634,
+    "Number": 7062,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 1761600180,
+    "address": "14230 82ND AVE NE 98034",
+    "latitude": 47.730346,
+    "longitude": -122.23148,
+    "Number": 14230,
+    "Street": "82nd Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1681400215,
+    "address": "2111 NE 62ND ST 98115",
+    "latitude": 47.673181,
+    "longitude": -122.30496,
+    "Number": 2111,
+    "Street": "NE 62nd St",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 8121101451,
+    "address": "3718 37TH AVE S 98144",
+    "latitude": 47.570129,
+    "longitude": -122.28581,
+    "Number": 3718,
+    "Street": "37th Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 3995700060,
+    "address": "15558 25TH AVE NE 98155",
+    "latitude": 47.742712,
+    "longitude": -122.30178,
+    "Number": 15558,
+    "Street": "25th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 2011000070,
+    "address": "1643 S 245TH PL 98198",
+    "latitude": 47.381538,
+    "longitude": -122.31142,
+    "Number": 1643,
+    "Street": "S 245th Pl",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 8722100340,
+    "address": "2011 E LYNN ST 98112",
+    "latitude": 47.63929,
+    "longitude": -122.30503,
+    "Number": 2011,
+    "Street": "E Lynn St",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 1827200185,
+    "address": "17318 SYLVESTER RD SW 98166",
+    "latitude": 47.447356,
+    "longitude": -122.35617,
+    "Number": 17318,
+    "Street": "Sylvester Rd SW",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 537000370,
+    "address": "2025 S 308TH ST 98003",
+    "latitude": 47.325767,
+    "longitude": -122.307,
+    "Number": 2025,
+    "Street": "S 308th St",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 1453600202,
+    "address": "13342 30TH AVE NE 98125",
+    "latitude": 47.725979,
+    "longitude": -122.29608,
+    "Number": 13342,
+    "Street": "30th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 1705400255,
+    "address": "4315 S HUDSON ST 98118",
+    "latitude": 47.556851,
+    "longitude": -122.2789,
+    "Number": 4315,
+    "Street": "S Hudson St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 5393600810,
+    "address": "2301 19TH AVE S 98144",
+    "latitude": 47.582818,
+    "longitude": -122.30845,
+    "Number": 2301,
+    "Street": "19th Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 7686205350,
+    "address": "20738 14TH AVE S 98198",
+    "latitude": 47.415851,
+    "longitude": -122.31524,
+    "Number": 20738,
+    "Street": "14th Ave S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 6649400180,
+    "address": "9030 SEWARD PARK AVE S 98118",
+    "latitude": 47.522097,
+    "longitude": -122.26406,
+    "Number": 9030,
+    "Street": "Seward Park Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 8018600980,
+    "address": "12214 12TH AVE S 98168",
+    "latitude": 47.493859,
+    "longitude": -122.31764,
+    "Number": 12214,
+    "Street": "12th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1709900020,
+    "address": "4501 RAINIER AVE S 98118",
+    "latitude": 47.562708,
+    "longitude": -122.28805,
+    "Number": 4501,
+    "Street": "Rainier Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 3881900315,
+    "address": "1805 17TH AVE S 98144",
+    "latitude": 47.586837,
+    "longitude": -122.31104,
+    "Number": 1805,
+    "Street": "17th Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 6414100291,
+    "address": "12503 14TH AVE NE 98125",
+    "latitude": 47.719606,
+    "longitude": -122.31438,
+    "Number": 12503,
+    "Street": "14th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 3348401086,
+    "address": "11836 54TH AVE S 98178",
+    "latitude": 47.496355,
+    "longitude": -122.26587,
+    "Number": 11836,
+    "Street": "54th Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 1788500065,
+    "address": "1019 SW 305TH ST 98023",
+    "latitude": 47.32832,
+    "longitude": -122.34801,
+    "Number": 1019,
+    "Street": "SW 305th St",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 4060000420,
+    "address": "11439 71ST PL S 98178",
+    "latitude": 47.500796,
+    "longitude": -122.24602,
+    "Number": 11439,
+    "Street": "71st Pl S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 4083303690,
+    "address": "3824 WALLINGFORD AVE N 98103",
+    "latitude": 47.653936,
+    "longitude": -122.33592,
+    "Number": 3824,
+    "Street": "Wallingford Ave N",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 927100433,
+    "address": "17531 10TH AVE NE 98155",
+    "latitude": 47.756753,
+    "longitude": -122.31901,
+    "Number": 17531,
+    "Street": "10th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 9547201745,
+    "address": "6838 18TH AVE NE 98115",
+    "latitude": 47.678771,
+    "longitude": -122.30855,
+    "Number": 6838,
+    "Street": "18th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 2220400195,
+    "address": "10806 RAINIER AVE S 98178",
+    "latitude": 47.506905,
+    "longitude": -122.23152,
+    "Number": 10806,
+    "Street": "Rainier Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 2220400195,
+    "address": "10806 RAINIER AVE S 98178",
+    "latitude": 47.506905,
+    "longitude": -122.23152,
+    "Number": 10806,
+    "Street": "Rainier Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 8651430190,
+    "address": "19630 SE 259TH ST 98042",
+    "latitude": 47.370423,
+    "longitude": -122.07792,
+    "Number": 19630,
+    "Street": "SE 259th St",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 5021900025,
+    "address": "8435 SE 36TH ST",
+    "latitude": 47.5779651,
+    "longitude": -122.2274928,
+    "Number": 8435,
+    "Street": "SE 36th St",
+    "City": "Mercer Island",
+    "Zip": 25181
+  },
+  {
+    "parcel_id": 2570300280,
+    "address": "13016 104TH PL NE 98034",
+    "latitude": 47.717411,
+    "longitude": -122.20154,
+    "Number": 13016,
+    "Street": "104th Pl NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1962200010,
+    "address": "3214 FRANKLIN AVE E 98102",
+    "latitude": 47.650177,
+    "longitude": -122.32063,
+    "Number": 3214,
+    "Street": "Franklin Ave E",
+    "City": "Seattle",
+    "Zip": 98102
+  },
+  {
+    "parcel_id": 3448001280,
+    "address": "11719 26TH AVE NE 98125",
+    "latitude": 47.71467,
+    "longitude": -122.30066,
+    "Number": 11719,
+    "Street": "26th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 952003105,
+    "address": "4121 39TH AVE SW",
+    "latitude": 47.5658011,
+    "longitude": -122.3840158,
+    "Number": 4121,
+    "Street": "39th Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 6600410220,
+    "address": "31024 149TH AVE SE 98042",
+    "latitude": 47.323402,
+    "longitude": -122.14268,
+    "Number": 31024,
+    "Street": "149th Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 2423069108,
+    "address": "15329 TIGER MOUNTAIN RD SE",
+    "latitude": 47.4634045,
+    "longitude": -121.9852909,
+    "Number": 15329,
+    "Street": "Tiger Mountain Rd SE",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 1788800780,
+    "address": "30514 7TH AVE SW 98023",
+    "latitude": 47.328337,
+    "longitude": -122.34442,
+    "Number": 30514,
+    "Street": "7th Ave SW",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 9320700670,
+    "address": "9608 S 216TH ST 98031",
+    "latitude": 47.409201,
+    "longitude": -122.21175,
+    "Number": 9608,
+    "Street": "S 216th St",
+    "City": "Kent",
+    "Zip": 98031
+  },
+  {
+    "parcel_id": 3426059060,
+    "address": "10824 132ND AVE NE 98052",
+    "latitude": 47.697628,
+    "longitude": -122.16404,
+    "Number": 10824,
+    "Street": "132nd Ave NE",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 3392500015,
+    "address": "17631 43RD AVE S 98188",
+    "latitude": 47.444168,
+    "longitude": -122.27953,
+    "Number": 17631,
+    "Street": "43rd Ave S",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 3876310040,
+    "address": "12421 NE 141ST WAY 98034",
+    "latitude": 47.727771,
+    "longitude": -122.17429,
+    "Number": 12421,
+    "Street": "NE 141st Way",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1775801290,
+    "address": "18021 NE 156TH ST 98072",
+    "latitude": 47.740558,
+    "longitude": -122.09885,
+    "Number": 18021,
+    "Street": "NE 156th St",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 1285300130,
+    "address": "2442 S IRVING ST 98144",
+    "latitude": 47.591411,
+    "longitude": -122.29948,
+    "Number": 2442,
+    "Street": "S Irving St",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 3876800100,
+    "address": "15601 125TH PL NE 98072",
+    "latitude": 47.740521,
+    "longitude": -122.17331,
+    "Number": 15601,
+    "Street": "125th Pl NE",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 9482700301,
+    "address": "7308 KEEN WAY N 98103",
+    "latitude": 47.682139,
+    "longitude": -122.34392,
+    "Number": 7308,
+    "Street": "Keen Way N",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 9455200715,
+    "address": "10032 35TH AVE NE 98125",
+    "latitude": 47.702154,
+    "longitude": -122.29036,
+    "Number": 10032,
+    "Street": "35th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 5437810350,
+    "address": "2311 PARAMOUNT DR 98022",
+    "latitude": 47.198272,
+    "longitude": -121.99922,
+    "Number": 2311,
+    "Street": "Paramount Dr",
+    "City": "Enumclaw",
+    "Zip": 98022
+  },
+  {
+    "parcel_id": 5634500141,
+    "address": "16701 76TH AVE NE 98028",
+    "latitude": 47.749825,
+    "longitude": -122.23983,
+    "Number": 16701,
+    "Street": "76th Ave NE",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 8019200500,
+    "address": "12618 10TH AVE S 98168",
+    "latitude": 47.489788,
+    "longitude": -122.32029,
+    "Number": 12618,
+    "Street": "10th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 8019200500,
+    "address": "12618 10TH AVE S 98168",
+    "latitude": 47.489788,
+    "longitude": -122.32029,
+    "Number": 12618,
+    "Street": "10th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1947300130,
+    "address": "308 35TH AVE 98122",
+    "latitude": 47.604701,
+    "longitude": -122.28794,
+    "Number": 308,
+    "Street": "35th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 2770604355,
+    "address": "2816 14TH AVE W 98119",
+    "latitude": 47.645367,
+    "longitude": -122.37459,
+    "Number": 2816,
+    "Street": "14th Ave W",
+    "City": "Seattle",
+    "Zip": 98119
+  },
+  {
+    "parcel_id": 1023059107,
+    "address": "1123 CHELAN AVE NE 98059",
+    "latitude": 47.501765,
+    "longitude": -122.15828,
+    "Number": 1123,
+    "Street": "Chelan Ave NE",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 1423049012,
+    "address": "6730 S LANGSTON RD 98178",
+    "latitude": 47.486296,
+    "longitude": -122.24921,
+    "Number": 6730,
+    "Street": "S Langston Rd",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 461000360,
+    "address": "7341 DIBBLE AVE NW 98117",
+    "latitude": 47.682643,
+    "longitude": -122.3676,
+    "Number": 7341,
+    "Street": "Dibble Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 9477201330,
+    "address": "11232 NE 141ST PL 98034",
+    "latitude": 47.729293,
+    "longitude": -122.1911,
+    "Number": 11232,
+    "Street": "NE 141st Pl",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 6713700220,
+    "address": "505 N 183RD ST 98133",
+    "latitude": 47.761161,
+    "longitude": -122.35442,
+    "Number": 505,
+    "Street": "N 183rd St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 9284801220,
+    "address": "5423 31ST AVE SW 98126",
+    "latitude": 47.553055,
+    "longitude": -122.37266,
+    "Number": 5423,
+    "Street": "31st Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 4059400385,
+    "address": "11410 CRESTWOOD DR S 98178",
+    "latitude": 47.500714,
+    "longitude": -122.2434,
+    "Number": 11410,
+    "Street": "Crestwood Dr S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 8824900190,
+    "address": "6315 21ST AVE NE 98115",
+    "latitude": 47.675286,
+    "longitude": -122.30576,
+    "Number": 6315,
+    "Street": "21st Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 9826701015,
+    "address": "119 20TH AVE",
+    "latitude": 47.6022293,
+    "longitude": -122.3088022,
+    "Number": 119,
+    "Street": "20th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3083000215,
+    "address": "2803 22ND AVE S 98144",
+    "latitude": 47.578201,
+    "longitude": -122.30462,
+    "Number": 2803,
+    "Street": "22nd Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 9542800560,
+    "address": "33700 33RD PL SW 98023",
+    "latitude": 47.300044,
+    "longitude": -122.37542,
+    "Number": 33700,
+    "Street": "33rd Pl SW",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 1844500050,
+    "address": "18012 SUNNYSIDE AVE N 98133",
+    "latitude": 47.759999,
+    "longitude": -122.33076,
+    "Number": 18012,
+    "Street": "Sunnyside Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 3083000435,
+    "address": "2511 22ND AVE S 98144",
+    "latitude": 47.58064,
+    "longitude": -122.30461,
+    "Number": 2511,
+    "Street": "22nd Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 1113000290,
+    "address": "26507 18TH PL S 98198",
+    "latitude": 47.363724,
+    "longitude": -122.31031,
+    "Number": 26507,
+    "Street": "18th Pl S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 1338800850,
+    "address": "738 19TH AVE E 98112",
+    "latitude": 47.626358,
+    "longitude": -122.30698,
+    "Number": 738,
+    "Street": "19th Ave E",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 5272200025,
+    "address": "916 NE 117TH ST 98125",
+    "latitude": 47.714237,
+    "longitude": -122.31851,
+    "Number": 916,
+    "Street": "NE 117th St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 3977630240,
+    "address": "31728 160TH PL SE 98092",
+    "latitude": 47.31689,
+    "longitude": -122.12758,
+    "Number": 31728,
+    "Street": "160th Pl SE",
+    "City": "Auburn",
+    "Zip": 98092
+  },
+  {
+    "parcel_id": 1900600040,
+    "address": "1203 SW 149TH ST 98166",
+    "latitude": 47.469246,
+    "longitude": -122.35014,
+    "Number": 1203,
+    "Street": "SW 149th St",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 3037200060,
+    "address": "1610 E SPRUCE ST 98122",
+    "latitude": 47.603663,
+    "longitude": -122.31067,
+    "Number": 1610,
+    "Street": "E Spruce St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 4363700236,
+    "address": "8111 30TH AVE SW 98126",
+    "latitude": 47.529624,
+    "longitude": -122.37154,
+    "Number": 8111,
+    "Street": "30th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 7812801365,
+    "address": "6922 S 120TH PL 98178",
+    "latitude": 47.495361,
+    "longitude": -122.24665,
+    "Number": 6922,
+    "Street": "S 120th Pl",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 2658000305,
+    "address": "7935 50TH AVE S 98118",
+    "latitude": 47.530542,
+    "longitude": -122.2711,
+    "Number": 7935,
+    "Street": "50th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 6141100380,
+    "address": "12215 DAYTON AVE N 98133",
+    "latitude": 47.718343,
+    "longitude": -122.3533,
+    "Number": 12215,
+    "Street": "Dayton Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 926069103,
+    "address": "22011 NE 170TH PL 98077",
+    "latitude": 47.751247,
+    "longitude": -122.04378,
+    "Number": 22011,
+    "Street": "NE 170th Pl",
+    "City": "Woodinville",
+    "Zip": 98077
+  },
+  {
+    "parcel_id": 2891000010,
+    "address": "2121 PIKE ST NE 98002",
+    "latitude": 47.326233,
+    "longitude": -122.21052,
+    "Number": 2121,
+    "Street": "Pike St NE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 4027700632,
+    "address": "19547 53RD AVE NE 98155",
+    "latitude": 47.77072,
+    "longitude": -122.27321,
+    "Number": 19547,
+    "Street": "53rd Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 910000068,
+    "address": "18924 107TH AVE NE 98011",
+    "latitude": 47.765403,
+    "longitude": -122.19767,
+    "Number": 18924,
+    "Street": "107th Ave NE",
+    "City": "Bothell",
+    "Zip": 98011
+  },
+  {
+    "parcel_id": 8150100120,
+    "address": "7925 34TH AVE SW 98126",
+    "latitude": 47.531114,
+    "longitude": -122.37569,
+    "Number": 7925,
+    "Street": "34th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 9151600145,
+    "address": "1926 41ST AVE SW 98116",
+    "latitude": 47.585984,
+    "longitude": -122.38341,
+    "Number": 1926,
+    "Street": "41st Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 4174600115,
+    "address": "2614 S FERDINAND ST 98108",
+    "latitude": 47.558674,
+    "longitude": -122.29879,
+    "Number": 2614,
+    "Street": "S Ferdinand St",
+    "City": "Seattle",
+    "Zip": 98108
+  },
+  {
+    "parcel_id": 1899400365,
+    "address": "1029 SW 150TH ST 98166",
+    "latitude": 47.468294,
+    "longitude": -122.34843,
+    "Number": 1029,
+    "Street": "SW 150th St",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 1795500090,
+    "address": "26455 170TH AVE SE 98042",
+    "latitude": 47.36359,
+    "longitude": -122.11601,
+    "Number": 26455,
+    "Street": "170th Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 6671900130,
+    "address": "15313 STONE AVE N 98133",
+    "latitude": 47.739968,
+    "longitude": -122.34289,
+    "Number": 15313,
+    "Street": "Stone Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 1189000290,
+    "address": "2803 E PIKE ST",
+    "latitude": 47.6139917,
+    "longitude": -122.2981215,
+    "Number": 2803,
+    "Street": "E Pike St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3793700210,
+    "address": "18430 SE 135TH ST 98059",
+    "latitude": 47.48178,
+    "longitude": -122.09429,
+    "Number": 18430,
+    "Street": "SE 135th St",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 1951600170,
+    "address": "25631 29TH AVE S 98032",
+    "latitude": 47.37132,
+    "longitude": -122.29699,
+    "Number": 25631,
+    "Street": "29th Ave S",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 6381502065,
+    "address": "2011 NE 135TH PL 98125",
+    "latitude": 47.72694,
+    "longitude": -122.30668,
+    "Number": 2011,
+    "Street": "NE 135th Pl",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 2946002140,
+    "address": "922 S 206TH ST 98198",
+    "latitude": 47.41904,
+    "longitude": -122.3222,
+    "Number": 922,
+    "Street": "S 206th St",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 3222069147,
+    "address": "28628 202ND AVE SE 98042",
+    "latitude": 47.344751,
+    "longitude": -122.07296,
+    "Number": 28628,
+    "Street": "202nd Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 8685300060,
+    "address": "2436 S ANGELINE ST 98108",
+    "latitude": 47.559995,
+    "longitude": -122.30073,
+    "Number": 2436,
+    "Street": "S Angeline St",
+    "City": "Seattle",
+    "Zip": 98108
+  },
+  {
+    "parcel_id": 1450000240,
+    "address": "607 25TH ST SE 98002",
+    "latitude": 47.286608,
+    "longitude": -122.22025,
+    "Number": 607,
+    "Street": "25th St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 7972602100,
+    "address": "8426 10TH AVE SW 98106",
+    "latitude": 47.527446,
+    "longitude": -122.34774,
+    "Number": 8426,
+    "Street": "10th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 1450000240,
+    "address": "607 25TH ST SE 98002",
+    "latitude": 47.286608,
+    "longitude": -122.22025,
+    "Number": 607,
+    "Street": "25th St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 4112100150,
+    "address": "5117 S LUCILE ST 98118",
+    "latitude": 47.552438,
+    "longitude": -122.26909,
+    "Number": 5117,
+    "Street": "S Lucile St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 3755100540,
+    "address": "13248 85TH AVE NE 98034",
+    "latitude": 47.720295,
+    "longitude": -122.2289,
+    "Number": 13248,
+    "Street": "85th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 8642600170,
+    "address": "22805 THUNDERBIRD DR S 98198",
+    "latitude": 47.397378,
+    "longitude": -122.31159,
+    "Number": 22805,
+    "Street": "Thunderbird Dr S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 3821700011,
+    "address": "3017 NE 140TH ST",
+    "latitude": 47.7298253,
+    "longitude": -122.2976444,
+    "Number": 3017,
+    "Street": "NE 140th St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 88000280,
+    "address": "16208 114TH AVE SE 98055",
+    "latitude": 47.457816,
+    "longitude": -122.18853,
+    "Number": 16208,
+    "Street": "114th Ave SE",
+    "City": "Renton",
+    "Zip": 98055
+  },
+  {
+    "parcel_id": 9259900025,
+    "address": "1036 NE 123RD ST 98125",
+    "latitude": 47.717876,
+    "longitude": -122.31635,
+    "Number": 1036,
+    "Street": "NE 123rd St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 5101400862,
+    "address": "1731 NE 88TH ST 98115",
+    "latitude": 47.691964,
+    "longitude": -122.30819,
+    "Number": 1731,
+    "Street": "NE 88th St",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 179001425,
+    "address": "12250 48TH AVE S 98178",
+    "latitude": 47.492779,
+    "longitude": -122.27374,
+    "Number": 12250,
+    "Street": "48th Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 6381500065,
+    "address": "14316 20TH AVE NE 98125",
+    "latitude": 47.732564,
+    "longitude": -122.30705,
+    "Number": 14316,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 7454000605,
+    "address": "9716 33RD AVE SW 98126",
+    "latitude": 47.516128,
+    "longitude": -122.37421,
+    "Number": 9716,
+    "Street": "33rd Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 8944300390,
+    "address": "2659 SW 332ND CT 98023",
+    "latitude": 47.303672,
+    "longitude": -122.36899,
+    "Number": 2659,
+    "Street": "SW 332nd Ct",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 6159400030,
+    "address": "124 NE 159TH ST 98155",
+    "latitude": 47.744747,
+    "longitude": -122.32808,
+    "Number": 124,
+    "Street": "NE 159th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 5560000640,
+    "address": "30603 2ND AVE SW 98023",
+    "latitude": 47.327782,
+    "longitude": -122.33742,
+    "Number": 30603,
+    "Street": "2nd Ave SW",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 4141800030,
+    "address": "1531 35TH AVE 98122",
+    "latitude": 47.615008,
+    "longitude": -122.2884,
+    "Number": 1531,
+    "Street": "35th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 7864500140,
+    "address": "2125 S 253RD ST 98198",
+    "latitude": 47.374677,
+    "longitude": -122.30561,
+    "Number": 2125,
+    "Street": "S 253rd St",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 5451210170,
+    "address": "7560 86TH AVE SE 98040",
+    "latitude": 47.534087,
+    "longitude": -122.22214,
+    "Number": 7560,
+    "Street": "86th Ave SE",
+    "City": "Mercer Island",
+    "Zip": 98040
+  },
+  {
+    "parcel_id": 3392100050,
+    "address": "30635 1ST PL S 98003",
+    "latitude": 47.326607,
+    "longitude": -122.33417,
+    "Number": 30635,
+    "Street": "1st Pl S",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 7385310040,
+    "address": "1302 141ST PL NE 98007",
+    "latitude": 47.621753,
+    "longitude": -122.15159,
+    "Number": 1302,
+    "Street": "141st Pl NE",
+    "City": "Bellevue",
+    "Zip": 98007
+  },
+  {
+    "parcel_id": 1431700210,
+    "address": "12627 SE 158TH ST 98058",
+    "latitude": 47.460695,
+    "longitude": -122.17143,
+    "Number": 12627,
+    "Street": "SE 158th St",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 3021059155,
+    "address": "3015 M ST SE 98002",
+    "latitude": 47.281147,
+    "longitude": -122.21371,
+    "Number": 3015,
+    "Street": "M St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 1226059105,
+    "address": "17017 NE 179TH ST 98072",
+    "latitude": 47.756629,
+    "longitude": -122.11309,
+    "Number": 17017,
+    "Street": "NE 179th St",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 1422059052,
+    "address": "22655 156TH AVE SE 98042",
+    "latitude": 47.397891,
+    "longitude": -122.13379,
+    "Number": 22655,
+    "Street": "156th Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 9214900135,
+    "address": "7022 29TH AVE NE 98115",
+    "latitude": 47.680093,
+    "longitude": -122.29611,
+    "Number": 7022,
+    "Street": "29th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 3491300082,
+    "address": "7719 MARY AVE NW 98117",
+    "latitude": 47.685747,
+    "longitude": -122.37574,
+    "Number": 7719,
+    "Street": "Mary Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 1432701510,
+    "address": "16882 125TH AVE SE 98058",
+    "latitude": 47.449978,
+    "longitude": -122.17499,
+    "Number": 16882,
+    "Street": "125th Ave SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 1423900580,
+    "address": "12324 SE 168TH ST 98058",
+    "latitude": 47.45261,
+    "longitude": -122.1765,
+    "Number": 12324,
+    "Street": "SE 168th St",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 7544800075,
+    "address": "2218 E ALDER ST 98122",
+    "latitude": 47.604588,
+    "longitude": -122.30297,
+    "Number": 2218,
+    "Street": "E Alder St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 7544800065,
+    "address": "2210 E ALDER ST 98122",
+    "latitude": 47.604603,
+    "longitude": -122.3032,
+    "Number": 2210,
+    "Street": "E Alder St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3423049307,
+    "address": "18219 46TH PL S 98188",
+    "latitude": 47.43916,
+    "longitude": -122.27641,
+    "Number": 18219,
+    "Street": "46th Pl S",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 4174600121,
+    "address": "2602 S FERDINAND ST 98108",
+    "latitude": 47.559008,
+    "longitude": -122.29911,
+    "Number": 2602,
+    "Street": "S Ferdinand St",
+    "City": "Seattle",
+    "Zip": 98108
+  },
+  {
+    "parcel_id": 3391900130,
+    "address": "30432 2ND AVE S 98003",
+    "latitude": 47.328197,
+    "longitude": -122.3325,
+    "Number": 30432,
+    "Street": "2nd Ave S",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 1421039067,
+    "address": "33417 43RD AVE SW 98023",
+    "latitude": 47.302113,
+    "longitude": -122.3878,
+    "Number": 33417,
+    "Street": "43rd Ave SW",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 3832200070,
+    "address": "4656 S 254TH ST 98032",
+    "latitude": 47.374487,
+    "longitude": -122.27453,
+    "Number": 4656,
+    "Street": "S 254th St",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 100600320,
+    "address": "2686 SW 334TH PL 98023",
+    "latitude": 47.301776,
+    "longitude": -122.36923,
+    "Number": 2686,
+    "Street": "SW 334th Pl",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 1900000060,
+    "address": "1051 SW 149TH ST 98166",
+    "latitude": 47.469255,
+    "longitude": -122.34937,
+    "Number": 1051,
+    "Street": "SW 149th St",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 3331500650,
+    "address": "4853 S LUCILE ST 98118",
+    "latitude": 47.552404,
+    "longitude": -122.27036,
+    "Number": 4853,
+    "Street": "S Lucile St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 9206200170,
+    "address": "13229 109TH AVE NE 98034",
+    "latitude": 47.719331,
+    "longitude": -122.19607,
+    "Number": 13229,
+    "Street": "109th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 3500100200,
+    "address": "2503 NE 147TH ST 98155",
+    "latitude": 47.735433,
+    "longitude": -122.30168,
+    "Number": 2503,
+    "Street": "NE 147th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 8651443420,
+    "address": "26309 187TH CT SE 98042",
+    "latitude": 47.366019,
+    "longitude": -122.0928,
+    "Number": 26309,
+    "Street": "187th Ct SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 2968800626,
+    "address": "16023 14TH AVE SW 98166",
+    "latitude": 47.458869,
+    "longitude": -122.35282,
+    "Number": 16023,
+    "Street": "14th Ave SW",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 826069067,
+    "address": "20415 NE WOODINVILLE-DUVALL RD 98077",
+    "latitude": 47.754478,
+    "longitude": -122.06599,
+    "Number": 20415,
+    "Street": "NE Woodinville Duvall Rd",
+    "City": "Woodinville",
+    "Zip": 98077
+  },
+  {
+    "parcel_id": 1202000200,
+    "address": "311 J ST SE 98002",
+    "latitude": 47.304829,
+    "longitude": -122.21775,
+    "Number": 311,
+    "Street": "J St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 426049051,
+    "address": "20007 25TH AVE NE 98155",
+    "latitude": 47.774271,
+    "longitude": -122.30325,
+    "Number": 20007,
+    "Street": "25th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 726059047,
+    "address": "18306 94TH AVE NE 98011",
+    "latitude": 47.760977,
+    "longitude": -122.21423,
+    "Number": 18306,
+    "Street": "94th Ave NE",
+    "City": "Bothell",
+    "Zip": 98011
+  },
+  {
+    "parcel_id": 2767700730,
+    "address": "1765 NW 56TH ST 98107",
+    "latitude": 47.66923,
+    "longitude": -122.38157,
+    "Number": 1765,
+    "Street": "NW 56th St",
+    "City": "Seattle",
+    "Zip": 98107
+  },
+  {
+    "parcel_id": 7387500195,
+    "address": "9422 24TH AVE SW 98106",
+    "latitude": 47.518453,
+    "longitude": -122.36296,
+    "Number": 9422,
+    "Street": "24th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 9238500040,
+    "address": "15351 NE 202ND ST 98072",
+    "latitude": 47.773519,
+    "longitude": -122.13299,
+    "Number": 15351,
+    "Street": "NE 202nd St",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 303000220,
+    "address": "5703 S 307TH ST 98001",
+    "latitude": 47.326352,
+    "longitude": -122.26225,
+    "Number": 5703,
+    "Street": "S 307th St",
+    "City": "Auburn",
+    "Zip": 98001
+  },
+  {
+    "parcel_id": 7972601445,
+    "address": "8115 5TH AVE SW 98106",
+    "latitude": 47.529591,
+    "longitude": -122.34205,
+    "Number": 8115,
+    "Street": "5th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 2568300045,
+    "address": "2754 NE 103RD ST 98125",
+    "latitude": 47.703745,
+    "longitude": -122.29634,
+    "Number": 2754,
+    "Street": "NE 103rd St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 117000305,
+    "address": "2217 42ND AVE SW 98116",
+    "latitude": 47.583401,
+    "longitude": -122.3854,
+    "Number": 2217,
+    "Street": "42nd Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 117000310,
+    "address": "2221 42ND AVE SW 98116",
+    "latitude": 47.583782,
+    "longitude": -122.3852,
+    "Number": 2221,
+    "Street": "42nd Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 5153200411,
+    "address": "30041 10TH AVE SW 98023",
+    "latitude": 47.332034,
+    "longitude": -122.34799,
+    "Number": 30041,
+    "Street": "10th Ave SW",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 1450100330,
+    "address": "605 22ND ST SE 98002",
+    "latitude": 47.288781,
+    "longitude": -122.22055,
+    "Number": 605,
+    "Street": "22nd St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 7686202065,
+    "address": "1232 S 201ST ST 98198",
+    "latitude": 47.422224,
+    "longitude": -122.31755,
+    "Number": 1232,
+    "Street": "S 201st St",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 3526039116,
+    "address": "8705 24TH AVE NW 98117",
+    "latitude": 47.692484,
+    "longitude": -122.3879,
+    "Number": 8705,
+    "Street": "24th Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 3303230320,
+    "address": "10830 NE 141ST PL 98034",
+    "latitude": 47.727889,
+    "longitude": -122.19545,
+    "Number": 10830,
+    "Street": "NE 141st Pl",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 9103000355,
+    "address": "3602 E DENNY WAY 98122",
+    "latitude": 47.618562,
+    "longitude": -122.28739,
+    "Number": 3602,
+    "Street": "E Denny Way",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3438502066,
+    "address": "6329 23RD AVE SW 98106",
+    "latitude": 47.545671,
+    "longitude": -122.36286,
+    "Number": 6329,
+    "Street": "23rd Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 2561340020,
+    "address": "811 216TH PL NE 98074",
+    "latitude": 47.617014,
+    "longitude": -122.05146,
+    "Number": 811,
+    "Street": "216th Pl NE",
+    "City": "Sammamish",
+    "Zip": 98074
+  },
+  {
+    "parcel_id": 3025059136,
+    "address": "2112 94TH AVE NE 98004",
+    "latitude": 47.629407,
+    "longitude": -122.21481,
+    "Number": 2112,
+    "Street": "94th Ave NE",
+    "City": "Bellevue",
+    "Zip": 98004
+  },
+  {
+    "parcel_id": 5207200500,
+    "address": "9122 MATTHEWS AVE NE 98115",
+    "latitude": 47.695059,
+    "longitude": -122.27713,
+    "Number": 9122,
+    "Street": "Matthews Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 3293700496,
+    "address": "16312 GREENWOOD AVE N 98133",
+    "latitude": 47.748091,
+    "longitude": -122.3554,
+    "Number": 16312,
+    "Street": "Greenwood Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 123039313,
+    "address": "9811 28TH AVE SW 98126",
+    "latitude": 47.515295,
+    "longitude": -122.36967,
+    "Number": 9811,
+    "Street": "28th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 3832500790,
+    "address": "3516 S 262ND ST 98032",
+    "latitude": 47.366602,
+    "longitude": -122.28781,
+    "Number": 3516,
+    "Street": "S 262nd St",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 6381500170,
+    "address": "14323 23RD AVE NE 98125",
+    "latitude": 47.733197,
+    "longitude": -122.305,
+    "Number": 14323,
+    "Street": "23rd Pl NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 823000070,
+    "address": "803 32ND AVE S 98144",
+    "latitude": 47.595567,
+    "longitude": -122.29172,
+    "Number": 803,
+    "Street": "32nd Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 2594200375,
+    "address": "9855 44TH AVE SW 98136",
+    "latitude": 47.514198,
+    "longitude": -122.38899,
+    "Number": 9855,
+    "Street": "44th Ave SW",
+    "City": "Seattle",
+    "Zip": 98136
+  },
+  {
+    "parcel_id": 2138800060,
+    "address": "1140 N 146TH PL 98133",
+    "latitude": 47.735433,
+    "longitude": -122.34327,
+    "Number": 1140,
+    "Street": "N 146th Pl",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 421000055,
+    "address": "675 REDMOND AVE NE 98056",
+    "latitude": 47.494041,
+    "longitude": -122.16894,
+    "Number": 675,
+    "Street": "Redmond Ave NE",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 6198400218,
+    "address": "11823 SE 188TH ST 98058",
+    "latitude": 47.433801,
+    "longitude": -122.18279,
+    "Number": 11823,
+    "Street": "SE 188th St",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 8568700015,
+    "address": "15810 74TH AVE NE 98028",
+    "latitude": 47.743358,
+    "longitude": -122.24181,
+    "Number": 15810,
+    "Street": "74th Ave NE",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 7230400400,
+    "address": "14607 182ND AVE SE 98059",
+    "latitude": 47.471204,
+    "longitude": -122.09952,
+    "Number": 14607,
+    "Street": "182nd Ave SE",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 7340600620,
+    "address": "12630 34TH AVE S 98168",
+    "latitude": 47.48911,
+    "longitude": -122.2898,
+    "Number": 12630,
+    "Street": "34th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 2231500030,
+    "address": "1309 N 196TH ST 98133",
+    "latitude": 47.771129,
+    "longitude": -122.34137,
+    "Number": 1309,
+    "Street": "N 196th St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 2421039055,
+    "address": "3401 SW 344TH ST 98023",
+    "latitude": 47.293041,
+    "longitude": -122.37601,
+    "Number": 3401,
+    "Street": "SW 344th St",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 8857600780,
+    "address": "24314 35TH AVE S 98032",
+    "latitude": 47.383865,
+    "longitude": -122.28836,
+    "Number": 24314,
+    "Street": "35th Ave S",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 9407102490,
+    "address": "42739 SE 175TH PL 98045",
+    "latitude": 47.441729,
+    "longitude": -121.77112,
+    "Number": 42739,
+    "Street": "SE 175th Pl",
+    "City": "North Bend",
+    "Zip": 98045
+  },
+  {
+    "parcel_id": 6669020290,
+    "address": "3617 S 254TH PL 98032",
+    "latitude": 47.373123,
+    "longitude": -122.28621,
+    "Number": 3617,
+    "Street": "S 254th Pl",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 4154300505,
+    "address": "4626 43RD AVE S 98118",
+    "latitude": 47.560886,
+    "longitude": -122.27922,
+    "Number": 4626,
+    "Street": "43rd Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 5306100255,
+    "address": "729 N 202ND ST 98133",
+    "latitude": 47.775689,
+    "longitude": -122.35022,
+    "Number": 729,
+    "Street": "N 202nd St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 4014400347,
+    "address": "4613 S 318TH ST 98001",
+    "latitude": 47.316669,
+    "longitude": -122.27604,
+    "Number": 4613,
+    "Street": "S 318th St",
+    "City": "Auburn",
+    "Zip": 98001
+  },
+  {
+    "parcel_id": 3336001316,
+    "address": "8741 HAMLET AVE S 98118",
+    "latitude": 47.524759,
+    "longitude": -122.26538,
+    "Number": 8741,
+    "Street": "Hamlet Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 2917200475,
+    "address": "9729 EVANSTON AVE N 98103",
+    "latitude": 47.700494,
+    "longitude": -122.35155,
+    "Number": 9729,
+    "Street": "Evanston Ave N",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 1775800750,
+    "address": "15717 180TH PL NE 98072",
+    "latitude": 47.742153,
+    "longitude": -122.09907,
+    "Number": 15717,
+    "Street": "180th Pl NE",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 2586800140,
+    "address": "10827 10TH AVE SW 98146",
+    "latitude": 47.505719,
+    "longitude": -122.34755,
+    "Number": 10827,
+    "Street": "10th Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 1591600676,
+    "address": "11220 21ST AVE SW 98146",
+    "latitude": 47.502214,
+    "longitude": -122.3602,
+    "Number": 11220,
+    "Street": "21st Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 2473410450,
+    "address": "15810 SE 175TH PL 98058",
+    "latitude": 47.445337,
+    "longitude": -122.12849,
+    "Number": 15810,
+    "Street": "SE 175th Pl",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 4302200025,
+    "address": "8619 20TH AVE SW 98106",
+    "latitude": 47.525883,
+    "longitude": -122.35939,
+    "Number": 8619,
+    "Street": "20th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 2970800145,
+    "address": "1123 SW 144TH ST 98166",
+    "latitude": 47.473778,
+    "longitude": -122.34963,
+    "Number": 1123,
+    "Street": "SW 144th St",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 6668900020,
+    "address": "1539 NE 166TH ST 98155",
+    "latitude": 47.749029,
+    "longitude": -122.31152,
+    "Number": 1539,
+    "Street": "NE 166th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 1250200715,
+    "address": "2608 S LANE ST 98144",
+    "latitude": 47.596882,
+    "longitude": -122.29827,
+    "Number": 2608,
+    "Street": "S Lane St",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 9187200095,
+    "address": "151 28TH AVE 98122",
+    "latitude": 47.603168,
+    "longitude": -122.29626,
+    "Number": 151,
+    "Street": "28th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3320000665,
+    "address": "1816 S LANE ST 98144",
+    "latitude": 47.59682,
+    "longitude": -122.30816,
+    "Number": 1816,
+    "Street": "S Lane St",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 7308900095,
+    "address": "12238 1ST AVE NW 98177",
+    "latitude": 47.71896,
+    "longitude": -122.35792,
+    "Number": 12238,
+    "Street": "1st Ave NW",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 2144800876,
+    "address": "8825 S 132ND ST 98055",
+    "latitude": 47.484387,
+    "longitude": -122.22096,
+    "Number": 8825,
+    "Street": "S 132nd St",
+    "City": "Renton",
+    "Zip": 98057
+  },
+  {
+    "parcel_id": 7228500094,
+    "address": "1514 23RD AVE 98122",
+    "latitude": 47.614651,
+    "longitude": -122.30234,
+    "Number": 1514,
+    "Street": "23rd Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 9407000380,
+    "address": "17301 431ST AVE SE 98045",
+    "latitude": 47.444359,
+    "longitude": -121.76626,
+    "Number": 17301,
+    "Street": "431st Ave SE",
+    "City": "North Bend",
+    "Zip": 98045
+  },
+  {
+    "parcel_id": 5249801440,
+    "address": "4914 45TH AVE S 98118",
+    "latitude": 47.557637,
+    "longitude": -122.27665,
+    "Number": 4914,
+    "Street": "45th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 2205500030,
+    "address": "3766 148TH AVE SE 98006",
+    "latitude": 47.576183,
+    "longitude": -122.14263,
+    "Number": 3766,
+    "Street": "148th Ave SE",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 3298700327,
+    "address": "9039 12TH AVE SW 98106",
+    "latitude": 47.521688,
+    "longitude": -122.35088,
+    "Number": 9039,
+    "Street": "12th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 9407110700,
+    "address": "16865 427TH PL SE 98045",
+    "latitude": 47.447362,
+    "longitude": -121.77088,
+    "Number": 16865,
+    "Street": "427th Pl SE",
+    "City": "North Bend",
+    "Zip": 98045
+  },
+  {
+    "parcel_id": 1922059170,
+    "address": "812 REITEN RD 98030",
+    "latitude": 47.373833,
+    "longitude": -122.21765,
+    "Number": 812,
+    "Street": "Reiten Rd",
+    "City": "Kent",
+    "Zip": 98030
+  },
+  {
+    "parcel_id": 1446403145,
+    "address": "13020 6TH AVE S 98168",
+    "latitude": 47.4862,
+    "longitude": -122.32555,
+    "Number": 13020,
+    "Street": "6th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 3361401773,
+    "address": "1430 S 120TH ST 98168",
+    "latitude": 47.495973,
+    "longitude": -122.31393,
+    "Number": 1430,
+    "Street": "S 120th St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1446403145,
+    "address": "13020 6TH AVE S 98168",
+    "latitude": 47.4862,
+    "longitude": -122.32555,
+    "Number": 13020,
+    "Street": "6th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 3739500096,
+    "address": "14750 20TH AVE NE 98155",
+    "latitude": 47.737197,
+    "longitude": -122.30714,
+    "Number": 14750,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 3739500096,
+    "address": "14750 20TH AVE NE 98155",
+    "latitude": 47.737197,
+    "longitude": -122.30714,
+    "Number": 14750,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 2570600140,
+    "address": "7619 NE 204TH PL 98028",
+    "latitude": 47.775797,
+    "longitude": -122.23766,
+    "Number": 7619,
+    "Street": "NE 204th Pl",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 8058500005,
+    "address": "2718 NE 107TH ST 98125",
+    "latitude": 47.70685,
+    "longitude": -122.29877,
+    "Number": 2718,
+    "Street": "NE 107th St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 3034200247,
+    "address": "12257 CORLISS AVE N 98133",
+    "latitude": 47.718652,
+    "longitude": -122.33019,
+    "Number": 12257,
+    "Street": "Corliss Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 88000051,
+    "address": "16010 113TH AVE SE 98055",
+    "latitude": 47.459546,
+    "longitude": -122.18988,
+    "Number": 16010,
+    "Street": "113th Ave SE",
+    "City": "Renton",
+    "Zip": 98055
+  },
+  {
+    "parcel_id": 4402700520,
+    "address": "15540 WALLINGFORD AVE N 98133",
+    "latitude": 47.74258,
+    "longitude": -122.33693,
+    "Number": 15540,
+    "Street": "Wallingford Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 7016310030,
+    "address": "15714 119TH AVE NE 98011",
+    "latitude": 47.741919,
+    "longitude": -122.18095,
+    "Number": 15714,
+    "Street": "119th Ave NE",
+    "City": "Bothell",
+    "Zip": 98011
+  },
+  {
+    "parcel_id": 3145600045,
+    "address": "5300 46TH AVE S 98118",
+    "latitude": 47.554325,
+    "longitude": -122.27509,
+    "Number": 5300,
+    "Street": "46th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 3343300020,
+    "address": "6651 116TH AVE SE 98006",
+    "latitude": 47.54263,
+    "longitude": -122.18597,
+    "Number": 6651,
+    "Street": "116th Ave SE",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 4222310120,
+    "address": "2023 S 282ND PL 98003",
+    "latitude": 47.347805,
+    "longitude": -122.30624,
+    "Number": 2023,
+    "Street": "S 282nd Pl",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 1423200110,
+    "address": "11638 SE 164TH ST 98058",
+    "latitude": 47.456343,
+    "longitude": -122.1843,
+    "Number": 11638,
+    "Street": "SE 164th St",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 2061100265,
+    "address": "8231 4TH AVE NE 98115",
+    "latitude": 47.689255,
+    "longitude": -122.32463,
+    "Number": 8231,
+    "Street": "4th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 1424059130,
+    "address": "16200 SE 44TH WAY 98006",
+    "latitude": 47.567044,
+    "longitude": -122.12403,
+    "Number": 16200,
+    "Street": "SE 44th Way",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 2201500130,
+    "address": "4025 151ST AVE SE 98006",
+    "latitude": 47.573338,
+    "longitude": -122.14043,
+    "Number": 4025,
+    "Street": "151st Ave SE",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 3298700686,
+    "address": "9246 15TH AVE SW 98106",
+    "latitude": 47.519668,
+    "longitude": -122.35375,
+    "Number": 9246,
+    "Street": "15th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 9113500040,
+    "address": "31850 195TH AVE SE 98042",
+    "latitude": 47.315769,
+    "longitude": -122.083,
+    "Number": 31850,
+    "Street": "195th Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 7211402305,
+    "address": "10247 20TH AVE SW 98146",
+    "latitude": 47.510467,
+    "longitude": -122.35981,
+    "Number": 10247,
+    "Street": "20th Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 421049146,
+    "address": "2004 S 304TH ST 98003",
+    "latitude": 47.329867,
+    "longitude": -122.30765,
+    "Number": 2004,
+    "Street": "S 304th St",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 2610100090,
+    "address": "314 NE 155TH ST 98155",
+    "latitude": 47.74154,
+    "longitude": -122.32566,
+    "Number": 314,
+    "Street": "NE 155th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 1099600330,
+    "address": "33415 35TH AVE SW 98023",
+    "latitude": 47.302178,
+    "longitude": -122.37679,
+    "Number": 33415,
+    "Street": "35th Ave SW",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 1865800040,
+    "address": "25417 168TH PL SE 98042",
+    "latitude": 47.373284,
+    "longitude": -122.1175,
+    "Number": 25417,
+    "Street": "168th Pl SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 7893201655,
+    "address": "20622 6TH AVE S 98198",
+    "latitude": 47.417782,
+    "longitude": -122.32721,
+    "Number": 20622,
+    "Street": "6th Ave S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 1568100715,
+    "address": "3517 NE 148TH ST 98155",
+    "latitude": 47.736084,
+    "longitude": -122.29049,
+    "Number": 3517,
+    "Street": "NE 148th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 255000300,
+    "address": "16500 126TH AVE NE 98072",
+    "latitude": 47.747439,
+    "longitude": -122.17008,
+    "Number": 16500,
+    "Street": "126th Ave NE",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 3438502380,
+    "address": "6945 23RD AVE SW 98106",
+    "latitude": 47.540375,
+    "longitude": -122.36221,
+    "Number": 6945,
+    "Street": "23rd Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 2660500445,
+    "address": "5045 37TH AVE S 98118",
+    "latitude": 47.5557,
+    "longitude": -122.28642,
+    "Number": 5045,
+    "Street": "37th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 5418500250,
+    "address": "9547 44TH AVE NE 98115",
+    "latitude": 47.698809,
+    "longitude": -122.28173,
+    "Number": 9547,
+    "Street": "44th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 6632300075,
+    "address": "13727 20TH AVE NE 98125",
+    "latitude": 47.729237,
+    "longitude": -122.30762,
+    "Number": 13727,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 6141100360,
+    "address": "422 N 122ND ST 98133",
+    "latitude": 47.717959,
+    "longitude": -122.35316,
+    "Number": 422,
+    "Street": "N 122nd St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 6385400025,
+    "address": "8625 118TH AVE SE 98056",
+    "latitude": 47.525103,
+    "longitude": -122.18337,
+    "Number": 8625,
+    "Street": "118th Ave SE",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 4075300200,
+    "address": "9551 48TH AVE NE 98115",
+    "latitude": 47.699007,
+    "longitude": -122.27688,
+    "Number": 9551,
+    "Street": "48th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 1596600090,
+    "address": "2102 S SPOKANE ST 98144",
+    "latitude": 47.572124,
+    "longitude": -122.30427,
+    "Number": 2102,
+    "Street": "S Spokane St",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 2547100065,
+    "address": "13124 NE 73RD ST 98033",
+    "latitude": 47.670362,
+    "longitude": -122.16422,
+    "Number": 13124,
+    "Street": "NE 73rd St",
+    "City": "Kirkland",
+    "Zip": 98033
+  },
+  {
+    "parcel_id": 6602500060,
+    "address": "2801 S 299TH PL 98003",
+    "latitude": 47.333884,
+    "longitude": -122.29716,
+    "Number": 2801,
+    "Street": "S 299th Pl",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 2592400150,
+    "address": "12915 129TH AVE NE 98034",
+    "latitude": 47.716482,
+    "longitude": -122.1697,
+    "Number": 12915,
+    "Street": "129th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 3026059195,
+    "address": "12615 94TH AVE NE 98034",
+    "latitude": 47.71425,
+    "longitude": -122.21602,
+    "Number": 12615,
+    "Street": "94th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 2592400150,
+    "address": "12915 129TH AVE NE 98034",
+    "latitude": 47.716482,
+    "longitude": -122.1697,
+    "Number": 12915,
+    "Street": "129th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 9212900920,
+    "address": "8232 34TH AVE NE 98115",
+    "latitude": 47.688811,
+    "longitude": -122.29102,
+    "Number": 8232,
+    "Street": "34th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 3052701045,
+    "address": "1203 NW 70TH ST 98117",
+    "latitude": 47.679366,
+    "longitude": -122.37218,
+    "Number": 1203,
+    "Street": "NW 70th St",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 6381502115,
+    "address": "2017 NE 137TH ST 98125",
+    "latitude": 47.728207,
+    "longitude": -122.30646,
+    "Number": 2017,
+    "Street": "NE 137th St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 4027700633,
+    "address": "19523 53RD AVE NE 98155",
+    "latitude": 47.770447,
+    "longitude": -122.27322,
+    "Number": 19523,
+    "Street": "53rd Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 424069060,
+    "address": "21430 SE 24TH ST 98075",
+    "latitude": 47.588895,
+    "longitude": -122.05304,
+    "Number": 21430,
+    "Street": "SE 24th St",
+    "City": "Sammamish",
+    "Zip": 98075
+  },
+  {
+    "parcel_id": 1928300700,
+    "address": "824 NE 57TH ST 98105",
+    "latitude": 47.670255,
+    "longitude": -122.31896,
+    "Number": 824,
+    "Street": "NE 57th St",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 5652601255,
+    "address": "9217 27TH AVE NE 98115",
+    "latitude": 47.696255,
+    "longitude": -122.29909,
+    "Number": 9217,
+    "Street": "27th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 4036800650,
+    "address": "15661 SE 11TH ST 98008",
+    "latitude": 47.599931,
+    "longitude": -122.12956,
+    "Number": 15661,
+    "Street": "SE 11th St",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 5153000070,
+    "address": "12558 2ND AVE NW 98177",
+    "latitude": 47.721275,
+    "longitude": -122.3593,
+    "Number": 12558,
+    "Street": "2nd Ave NW",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 5550300238,
+    "address": "8127 27TH AVE SW 98126",
+    "latitude": 47.529265,
+    "longitude": -122.36747,
+    "Number": 8127,
+    "Street": "27th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 9144100166,
+    "address": "9610 MARY AVE NW 98117",
+    "latitude": 47.699612,
+    "longitude": -122.37514,
+    "Number": 9610,
+    "Street": "Mary Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 9571800065,
+    "address": "3021 49TH AVE SW 98116",
+    "latitude": 47.576851,
+    "longitude": -122.3944,
+    "Number": 3021,
+    "Street": "49th Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 5568200050,
+    "address": "319 2ND ST NE 98002",
+    "latitude": 47.309397,
+    "longitude": -122.22469,
+    "Number": 319,
+    "Street": "2nd St NE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 3131201900,
+    "address": "4428 c 4TH AVE NE",
+    "latitude": 47.6610487,
+    "longitude": -122.325919,
+    "Number": 4428,
+    "Street": "4th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 8698600255,
+    "address": "130 G ST SE 98002",
+    "latitude": 47.306148,
+    "longitude": -122.22026,
+    "Number": 130,
+    "Street": "G St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 8961800270,
+    "address": "10611 20TH AVE S 98168",
+    "latitude": 47.508095,
+    "longitude": -122.30762,
+    "Number": 10611,
+    "Street": "20th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1261500130,
+    "address": "10633 34TH AVE SW 98146",
+    "latitude": 47.507195,
+    "longitude": -122.37499,
+    "Number": 10633,
+    "Street": "34th Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 1447600365,
+    "address": "12004 3RD AVE S 98168",
+    "latitude": 47.495635,
+    "longitude": -122.32944,
+    "Number": 12004,
+    "Street": "3rd Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 7374600720,
+    "address": "2058 150TH AVE SE 98007",
+    "latitude": 47.591117,
+    "longitude": -122.13968,
+    "Number": 2058,
+    "Street": "150th Ave SE",
+    "City": "Bellevue",
+    "Zip": 98007
+  },
+  {
+    "parcel_id": 3298700806,
+    "address": "9203 12TH AVE SW 98106",
+    "latitude": 47.52086,
+    "longitude": -122.35098,
+    "Number": 9203,
+    "Street": "12th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 8165100060,
+    "address": "333 NW 205TH ST 98177",
+    "latitude": 47.777492,
+    "longitude": -122.36267,
+    "Number": 333,
+    "Street": "NW 205th St",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 2887700031,
+    "address": "8242 15TH AVE NE 98115",
+    "latitude": 47.689774,
+    "longitude": -122.31189,
+    "Number": 8242,
+    "Street": "15th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 2568800044,
+    "address": "10325 32ND AVE NE 98125",
+    "latitude": 47.703849,
+    "longitude": -122.29439,
+    "Number": 10325,
+    "Street": "32nd Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 4058201280,
+    "address": "11144 WOODWARD AVE S 98178",
+    "latitude": 47.503045,
+    "longitude": -122.2367,
+    "Number": 11144,
+    "Street": "Woodward Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 5379800504,
+    "address": "4632 S 164TH ST 98188",
+    "latitude": 47.456539,
+    "longitude": -122.27512,
+    "Number": 4632,
+    "Street": "S 164th St",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 7345000210,
+    "address": "1627 35TH ST SE 98002",
+    "latitude": 47.277732,
+    "longitude": -122.20681,
+    "Number": 1627,
+    "Street": "35th St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 3901100110,
+    "address": "12407 NE 72ND ST 98033",
+    "latitude": 47.669476,
+    "longitude": -122.17424,
+    "Number": 12407,
+    "Street": "NE 72nd St",
+    "City": "Kirkland",
+    "Zip": 98033
+  },
+  {
+    "parcel_id": 6072500070,
+    "address": "6327 121ST PL SE 98006",
+    "latitude": 47.54507,
+    "longitude": -122.17859,
+    "Number": 6327,
+    "Street": "121st Pl SE",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 9328500810,
+    "address": "3419 172ND AVE NE 98008",
+    "latitude": 47.640915,
+    "longitude": -122.11124,
+    "Number": 3419,
+    "Street": "172nd Ave NE",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 7504010180,
+    "address": "3332 SAHALEE DR W 98074",
+    "latitude": 47.640763,
+    "longitude": -122.06151,
+    "Number": 3332,
+    "Street": "Sahalee Dr W",
+    "City": "Sammamish",
+    "Zip": 98074
+  },
+  {
+    "parcel_id": 7642200201,
+    "address": "1821 SW 119TH ST 98146",
+    "latitude": 47.496094,
+    "longitude": -122.35802,
+    "Number": 1821,
+    "Street": "SW 119th St",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 1454100520,
+    "address": "13064 39TH AVE NE 98125",
+    "latitude": 47.72488,
+    "longitude": -122.28553,
+    "Number": 13064,
+    "Street": "39th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 8122100045,
+    "address": "7326 35TH AVE SW 98126",
+    "latitude": 47.536604,
+    "longitude": -122.3762,
+    "Number": 7326,
+    "Street": "35th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 9521100230,
+    "address": "4613 EVANSTON AVE N",
+    "latitude": 47.6625893,
+    "longitude": -122.353866,
+    "Number": 4613,
+    "Street": "Evanston Ave N",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 6381501325,
+    "address": "2501 NE 140TH ST 98125",
+    "latitude": 47.729913,
+    "longitude": -122.30214,
+    "Number": 2501,
+    "Street": "NE 140th St",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 6632300143,
+    "address": "14037 20TH AVE NE 98125",
+    "latitude": 47.731324,
+    "longitude": -122.30767,
+    "Number": 14037,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 7893801790,
+    "address": "21312 4TH PL S 98198",
+    "latitude": 47.410604,
+    "longitude": -122.32889,
+    "Number": 21312,
+    "Street": "4th Pl S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 4024101386,
+    "address": "17823 25TH AVE NE 98155",
+    "latitude": 47.759065,
+    "longitude": -122.30396,
+    "Number": 17823,
+    "Street": "25th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 9476200590,
+    "address": "508 WINDSOR PL NE 98056",
+    "latitude": 47.491036,
+    "longitude": -122.18604,
+    "Number": 508,
+    "Street": "Windsor Pl NE",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 1761600170,
+    "address": "14222 82ND AVE NE 98034",
+    "latitude": 47.730162,
+    "longitude": -122.23148,
+    "Number": 14222,
+    "Street": "82nd Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 5101404605,
+    "address": "9411 12TH AVE NE 98115",
+    "latitude": 47.697248,
+    "longitude": -122.31514,
+    "Number": 9411,
+    "Street": "12th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 5249802450,
+    "address": "4627 47TH AVE S 98118",
+    "latitude": 47.56107,
+    "longitude": -122.27477,
+    "Number": 4627,
+    "Street": "47th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 7812801885,
+    "address": "6819 S 124TH ST 98178",
+    "latitude": 47.492317,
+    "longitude": -122.24814,
+    "Number": 6819,
+    "Street": "S 124th St",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 8731901620,
+    "address": "3248 SW 325TH ST 98023",
+    "latitude": 47.31121,
+    "longitude": -122.37594,
+    "Number": 3248,
+    "Street": "SW 325th St",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 3575303553,
+    "address": "20819 NE INGLEWOOD HILL RD 98074",
+    "latitude": 47.619923,
+    "longitude": -122.06148,
+    "Number": 20819,
+    "Street": "NE Inglewood Hill Rd",
+    "City": "Sammamish",
+    "Zip": 98074
+  },
+  {
+    "parcel_id": 8656800210,
+    "address": "7709 TOLT RIVER RD NE 98014",
+    "latitude": 47.671149,
+    "longitude": -121.86563,
+    "Number": 7709,
+    "Street": "Tolt River Rd NE",
+    "City": "Carnation",
+    "Zip": 98014
+  },
+  {
+    "parcel_id": 193600040,
+    "address": "16621 NE 92ND ST 98052",
+    "latitude": 47.683567,
+    "longitude": -122.11764,
+    "Number": 16621,
+    "Street": "NE 92nd St",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 6181700305,
+    "address": "6433 NE 182ND ST 98028",
+    "latitude": 47.760002,
+    "longitude": -122.25581,
+    "Number": 6433,
+    "Street": "NE 182nd St",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 1223049087,
+    "address": "8041 S 118TH ST 98178",
+    "latitude": 47.497106,
+    "longitude": -122.23114,
+    "Number": 8041,
+    "Street": "S 118th St",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 9191201315,
+    "address": "5545 27TH AVE NE 98105",
+    "latitude": 47.669839,
+    "longitude": -122.29884,
+    "Number": 5545,
+    "Street": "27th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 7230300350,
+    "address": "14909 175TH AVE SE 98059",
+    "latitude": 47.468184,
+    "longitude": -122.10882,
+    "Number": 14909,
+    "Street": "175th Ave SE",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 4392200180,
+    "address": "30432 224TH AVE SE 98010",
+    "latitude": 47.328587,
+    "longitude": -122.04363,
+    "Number": 30432,
+    "Street": "224th Ave SE",
+    "City": "Black Diamond",
+    "Zip": 98010
+  },
+  {
+    "parcel_id": 7806210060,
+    "address": "2609 17TH ST SE 98002",
+    "latitude": 47.293367,
+    "longitude": -122.19425,
+    "Number": 2609,
+    "Street": "17th St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 1545805210,
+    "address": "26606 221ST PL SE 98038",
+    "latitude": 47.363495,
+    "longitude": -122.04458,
+    "Number": 26606,
+    "Street": "221st Pl SE",
+    "City": "Maple Valley",
+    "Zip": 98038
+  },
+  {
+    "parcel_id": 1545805210,
+    "address": "26606 221ST PL SE 98038",
+    "latitude": 47.363495,
+    "longitude": -122.04458,
+    "Number": 26606,
+    "Street": "221st Pl SE",
+    "City": "Maple Valley",
+    "Zip": 98038
+  },
+  {
+    "parcel_id": 4027700915,
+    "address": "5607 NE 200TH PL 98028",
+    "latitude": 47.774205,
+    "longitude": -122.26924,
+    "Number": 5607,
+    "Street": "NE 200th Pl",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 8861700050,
+    "address": "16113 NE 99TH ST 98052",
+    "latitude": 47.688714,
+    "longitude": -122.12568,
+    "Number": 16113,
+    "Street": "NE 99th St",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 6303400145,
+    "address": "10402 18TH AVE SW 98146",
+    "latitude": 47.509857,
+    "longitude": -122.35741,
+    "Number": 10402,
+    "Street": "18th Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 4059400315,
+    "address": "11216 CRESTWOOD DR S 98178",
+    "latitude": 47.502664,
+    "longitude": -122.24411,
+    "Number": 11216,
+    "Street": "Crestwood Dr S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 6791200090,
+    "address": "21515 SE 22ND ST 98075",
+    "latitude": 47.590172,
+    "longitude": -122.05056,
+    "Number": 21515,
+    "Street": "SE 22nd St",
+    "City": "Sammamish",
+    "Zip": 98075
+  },
+  {
+    "parcel_id": 6141100430,
+    "address": "12252 DAYTON AVE N 98133",
+    "latitude": 47.719307,
+    "longitude": -122.35253,
+    "Number": 12252,
+    "Street": "Dayton Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 6751300335,
+    "address": "2553 156TH AVE SE 98007",
+    "latitude": 47.586044,
+    "longitude": -122.13285,
+    "Number": 2553,
+    "Street": "156th Ave SE",
+    "City": "Bellevue",
+    "Zip": 98007
+  },
+  {
+    "parcel_id": 6790600900,
+    "address": "23006 20TH AVE S 98198",
+    "latitude": 47.396295,
+    "longitude": -122.30694,
+    "Number": 23006,
+    "Street": "20th Ave S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 414100485,
+    "address": "1319 N 161ST ST 98133",
+    "latitude": 47.74559,
+    "longitude": -122.34177,
+    "Number": 1319,
+    "Street": "N 161st St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 3797001170,
+    "address": "7712 LINDEN AVE N 98103",
+    "latitude": 47.685215,
+    "longitude": -122.34696,
+    "Number": 7712,
+    "Street": "Linden Ave N",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 9828700375,
+    "address": "229 31ST AVE E 98112",
+    "latitude": 47.621081,
+    "longitude": -122.2926,
+    "Number": 229,
+    "Street": "31st Ave E",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 2255500005,
+    "address": "1609 E COLUMBIA ST 98122",
+    "latitude": 47.60902,
+    "longitude": -122.31099,
+    "Number": 1609,
+    "Street": "E Columbia St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 2123700145,
+    "address": "8440 47TH AVE S 98118",
+    "latitude": 47.526665,
+    "longitude": -122.27312,
+    "Number": 8440,
+    "Street": "47th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 9122000795,
+    "address": "2336 21ST AVE S 98144",
+    "latitude": 47.581819,
+    "longitude": -122.30526,
+    "Number": 2336,
+    "Street": "21st Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 6629300100,
+    "address": "607 N 165TH PL 98133",
+    "latitude": 47.749012,
+    "longitude": -122.35356,
+    "Number": 607,
+    "Street": "N 165th Pl",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 1446800900,
+    "address": "12256 OCCIDENTAL AVE S 98168",
+    "latitude": 47.492794,
+    "longitude": -122.33217,
+    "Number": 12256,
+    "Street": "Occidental Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 3353400354,
+    "address": "108 4TH AVE SW 98047",
+    "latitude": 47.263661,
+    "longitude": -122.25137,
+    "Number": 108,
+    "Street": "4th Ave SW",
+    "City": "Pacific",
+    "Zip": 98047
+  },
+  {
+    "parcel_id": 425069065,
+    "address": "8004 219TH AVE NE 98053",
+    "latitude": 47.67536,
+    "longitude": -122.04728,
+    "Number": 8004,
+    "Street": "219th Ave NE",
+    "City": "Redmond",
+    "Zip": 98053
+  },
+  {
+    "parcel_id": 4058200220,
+    "address": "11034 LOTUS PL S 98178",
+    "latitude": 47.503394,
+    "longitude": -122.22913,
+    "Number": 11034,
+    "Street": "Lotus Pl S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 5553300405,
+    "address": "2619 W GALER ST 98199",
+    "latitude": 47.631852,
+    "longitude": -122.39159,
+    "Number": 2619,
+    "Street": "W Galer St",
+    "City": "Seattle",
+    "Zip": 98199
+  },
+  {
+    "parcel_id": 6664000110,
+    "address": "10935 SE 23RD ST 98004",
+    "latitude": 47.58994,
+    "longitude": -122.19288,
+    "Number": 10935,
+    "Street": "SE 23rd St",
+    "City": "Bellevue",
+    "Zip": 98004
+  },
+  {
+    "parcel_id": 2705600006,
+    "address": "9756 8TH AVE NW 98117",
+    "latitude": 47.701348,
+    "longitude": -122.36555,
+    "Number": 9756,
+    "Street": "8th Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 798000280,
+    "address": "11236 3RD AVE S 98168",
+    "latitude": 47.502104,
+    "longitude": -122.32938,
+    "Number": 11236,
+    "Street": "3rd Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 8563000510,
+    "address": "1502 177TH AVE NE 98008",
+    "latitude": 47.623413,
+    "longitude": -122.10346,
+    "Number": 1502,
+    "Street": "177th Ave NE",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 3342103207,
+    "address": "1408 N 32ND ST 98056",
+    "latitude": 47.520604,
+    "longitude": -122.19997,
+    "Number": 1408,
+    "Street": "N 32nd St",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 5381600065,
+    "address": "4707 S 173RD ST 98188",
+    "latitude": 47.447608,
+    "longitude": -122.2747,
+    "Number": 4707,
+    "Street": "S 173rd St",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 3024079053,
+    "address": "28603 SE 67TH ST 98027",
+    "latitude": 47.540431,
+    "longitude": -121.9598,
+    "Number": 28603,
+    "Street": "SE 67th St",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 8122600215,
+    "address": "7118 28TH AVE SW 98126",
+    "latitude": 47.538595,
+    "longitude": -122.36886,
+    "Number": 7118,
+    "Street": "28th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 6082400171,
+    "address": "2449 S 133RD ST 98168",
+    "latitude": 47.483406,
+    "longitude": -122.3003,
+    "Number": 2449,
+    "Street": "S 133rd St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 9414500580,
+    "address": "970 GREENWOOD BLVD SW 98027",
+    "latitude": 47.520394,
+    "longitude": -122.04758,
+    "Number": 970,
+    "Street": "Greenwood Blvd SW",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 3298700407,
+    "address": "9008 15TH AVE SW 98106",
+    "latitude": 47.522493,
+    "longitude": -122.35369,
+    "Number": 9008,
+    "Street": "15th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 3331500260,
+    "address": "4707 S BRANDON ST 98118",
+    "latitude": 47.553196,
+    "longitude": -122.27373,
+    "Number": 4707,
+    "Street": "S Brandon St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 2436701040,
+    "address": "5218 37TH AVE NE 98105",
+    "latitude": 47.667272,
+    "longitude": -122.28763,
+    "Number": 5218,
+    "Street": "37th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 7017200030,
+    "address": "11252 FREMONT AVE N 98133",
+    "latitude": 47.712035,
+    "longitude": -122.34989,
+    "Number": 11252,
+    "Street": "Fremont Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 3432501390,
+    "address": "16267 11TH AVE NE 98155",
+    "latitude": 47.748226,
+    "longitude": -122.31744,
+    "Number": 16267,
+    "Street": "11th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 2767704695,
+    "address": "1436 NW 60TH ST 98107",
+    "latitude": 47.672588,
+    "longitude": -122.37531,
+    "Number": 1436,
+    "Street": "NW 60th St",
+    "City": "Seattle",
+    "Zip": 98107
+  },
+  {
+    "parcel_id": 3438501572,
+    "address": "6335 21ST AVE SW 98106",
+    "latitude": 47.54545,
+    "longitude": -122.35998,
+    "Number": 6335,
+    "Street": "21st Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 3438502733,
+    "address": "6753 16TH AVE SW 98106",
+    "latitude": 47.541383,
+    "longitude": -122.35536,
+    "Number": 6753,
+    "Street": "16th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 7905380460,
+    "address": "13510 92ND PL NE 98034",
+    "latitude": 47.72097,
+    "longitude": -122.21723,
+    "Number": 13510,
+    "Street": "92nd Pl NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 5706500245,
+    "address": "1956 LOWELL AVE 98022",
+    "latitude": 47.211823,
+    "longitude": -121.99368,
+    "Number": 1956,
+    "Street": "Lowell Ave",
+    "City": "Enumclaw",
+    "Zip": 98022
+  },
+  {
+    "parcel_id": 7812800305,
+    "address": "7414 S 118TH PL 98178",
+    "latitude": 47.497877,
+    "longitude": -122.24105,
+    "Number": 7414,
+    "Street": "S 118th Pl",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 7399300370,
+    "address": "2024 ABERDEEN AVE SE 98055",
+    "latitude": 47.462009,
+    "longitude": -122.19084,
+    "Number": 2024,
+    "Street": "Aberdeen Ave SE",
+    "City": "Renton",
+    "Zip": 98055
+  },
+  {
+    "parcel_id": 2660500455,
+    "address": "5051 37TH AVE S 98118",
+    "latitude": 47.5555976,
+    "longitude": -122.2886421,
+    "Number": 5051,
+    "Street": "37th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 1158700190,
+    "address": "17828 8TH AVE NW 98177",
+    "latitude": 47.758647,
+    "longitude": -122.36629,
+    "Number": 17828,
+    "Street": "8th Ave NW",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 6099400142,
+    "address": "14217 31ST AVE S 98168",
+    "latitude": 47.475645,
+    "longitude": -122.29346,
+    "Number": 14217,
+    "Street": "31st Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 3920100010,
+    "address": "2325 184TH AVE NE 98052",
+    "latitude": 47.630911,
+    "longitude": -122.09473,
+    "Number": 2325,
+    "Street": "184th Ave NE",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 2473000760,
+    "address": "16909 144TH AVE SE 98058",
+    "latitude": 47.4518,
+    "longitude": -122.14964,
+    "Number": 16909,
+    "Street": "144th Ave SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 4365200780,
+    "address": "9032 32ND AVE SW 98126",
+    "latitude": 47.521881,
+    "longitude": -122.37378,
+    "Number": 9032,
+    "Street": "32nd Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 5726500040,
+    "address": "1900 215TH PL SE 98075",
+    "latitude": 47.592996,
+    "longitude": -122.05187,
+    "Number": 1900,
+    "Street": "215th Pl SE",
+    "City": "Sammamish",
+    "Zip": 98075
+  },
+  {
+    "parcel_id": 1306300045,
+    "address": "10743 FREMONT AVE N 98133",
+    "latitude": 47.708131,
+    "longitude": -122.35044,
+    "Number": 10743,
+    "Street": "Fremont Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 7750500315,
+    "address": "9041 9TH AVE SW 98106",
+    "latitude": 47.521565,
+    "longitude": -122.3472,
+    "Number": 9041,
+    "Street": "9th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 1624049256,
+    "address": "4031 B 30TH AVE S 98108",
+    "latitude": 47.566921,
+    "longitude": -122.29492,
+    "Number": 4031,
+    "Street": "30th Ave S",
+    "City": "Seattle",
+    "Zip": 98108
+  },
+  {
+    "parcel_id": 321100220,
+    "address": "8045 E MERCER WAY 98040",
+    "latitude": 47.530374,
+    "longitude": -122.22122,
+    "Number": 8045,
+    "Street": "E Mercer Way",
+    "City": "Mercer Island",
+    "Zip": 98040
+  },
+  {
+    "parcel_id": 1088030060,
+    "address": "6555 116TH PL NE 98033",
+    "latitude": 47.665057,
+    "longitude": -122.18509,
+    "Number": 6555,
+    "Street": "116th Pl NE",
+    "City": "Kirkland",
+    "Zip": 98033
+  },
+  {
+    "parcel_id": 635000100,
+    "address": "3521 S LESCHI PL 98144",
+    "latitude": 47.599528,
+    "longitude": -122.28671,
+    "Number": 3521,
+    "Street": "S Leschi Pl",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 306000215,
+    "address": "726 N 98TH ST 98103",
+    "latitude": 47.700742,
+    "longitude": -122.34888,
+    "Number": 726,
+    "Street": "N 98th St",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 7173700180,
+    "address": "5037 21ST AVE NE 98105",
+    "latitude": 47.666029,
+    "longitude": -122.30586,
+    "Number": 5037,
+    "Street": "21st Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 4012900030,
+    "address": "31624 46TH AVE S 98001",
+    "latitude": 47.317966,
+    "longitude": -122.27651,
+    "Number": 31624,
+    "Street": "46th Ave S",
+    "City": "Auburn",
+    "Zip": 98001
+  },
+  {
+    "parcel_id": 2254501373,
+    "address": "1425 E UNION ST 98122",
+    "latitude": 47.612683,
+    "longitude": -122.313,
+    "Number": 1425,
+    "Street": "E Union St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 6190700540,
+    "address": "17536 10TH AVE NW 98177",
+    "latitude": 47.757073,
+    "longitude": -122.36876,
+    "Number": 17536,
+    "Street": "10th Ave NW",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 4036800060,
+    "address": "15634 SE 8TH ST 98008",
+    "latitude": 47.603024,
+    "longitude": -122.12913,
+    "Number": 15634,
+    "Street": "SE 8th St",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 1437900030,
+    "address": "13109 111TH PL NE 98034",
+    "latitude": 47.71784,
+    "longitude": -122.19268,
+    "Number": 13109,
+    "Street": "111th Pl NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 825049094,
+    "address": "5611 BROOKLYN AVE NE 98105",
+    "latitude": 47.669743,
+    "longitude": -122.31445,
+    "Number": 5611,
+    "Street": "Brooklyn Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 1400300145,
+    "address": "708 28TH AVE S 98144",
+    "latitude": 47.596409,
+    "longitude": -122.29614,
+    "Number": 708,
+    "Street": "28th Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 2724069171,
+    "address": "320 2ND AVE NE 98027",
+    "latitude": 47.533288,
+    "longitude": -122.03262,
+    "Number": 320,
+    "Street": "2nd Ave NE",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 2473002130,
+    "address": "14607 SE 173RD ST 98058",
+    "latitude": 47.449,
+    "longitude": -122.14781,
+    "Number": 14607,
+    "Street": "SE 173rd St",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 3678900055,
+    "address": "3305 16TH AVE S 98144",
+    "latitude": 47.573828,
+    "longitude": -122.31269,
+    "Number": 3305,
+    "Street": "16th Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 3873900220,
+    "address": "3723 S 287TH ST 98001",
+    "latitude": 47.343925,
+    "longitude": -122.28433,
+    "Number": 3723,
+    "Street": "S 287th St",
+    "City": "Auburn",
+    "Zip": 98001
+  },
+  {
+    "parcel_id": 3432501000,
+    "address": "15550 11TH AVE NE 98155",
+    "latitude": 47.742697,
+    "longitude": -122.31674,
+    "Number": 15550,
+    "Street": "11th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 6617000070,
+    "address": "5136 55TH AVE S 98118",
+    "latitude": 47.555811,
+    "longitude": -122.26447,
+    "Number": 5136,
+    "Street": "55th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 8819900030,
+    "address": "5522 35TH AVE NE 98105",
+    "latitude": 47.669201,
+    "longitude": -122.28992,
+    "Number": 5522,
+    "Street": "35th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 795001145,
+    "address": "11050 4TH AVE S 98168",
+    "latitude": 47.503649,
+    "longitude": -122.3277,
+    "Number": 11050,
+    "Street": "4th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1498303990,
+    "address": "2011 30TH AVE S 98144",
+    "latitude": 47.585041,
+    "longitude": -122.2943,
+    "Number": 2011,
+    "Street": "30th Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 2225300145,
+    "address": "2310 N 185TH ST 98155",
+    "latitude": 47.76316,
+    "longitude": -122.30856,
+    "Number": 2310,
+    "Street": "NE 185th St",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 3361400170,
+    "address": "1025 S 112TH ST 98168",
+    "latitude": 47.502809,
+    "longitude": -122.31935,
+    "Number": 1025,
+    "Street": "S 112th St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 8820903055,
+    "address": "11738 BARTLETT AVE NE 98125",
+    "latitude": 47.714876,
+    "longitude": -122.28349,
+    "Number": 11738,
+    "Street": "Bartlett Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 1326049159,
+    "address": "15544 JUANITA DR NE 98028",
+    "latitude": 47.741791,
+    "longitude": -122.24878,
+    "Number": 15544,
+    "Street": "Juanita Dr NE",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 3438502663,
+    "address": "6721 17TH AVE SW 98106",
+    "latitude": 47.54224,
+    "longitude": -122.35637,
+    "Number": 6721,
+    "Street": "17th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 6072000620,
+    "address": "6240 121ST AVE SE 98006",
+    "latitude": 47.546575,
+    "longitude": -122.17802,
+    "Number": 6240,
+    "Street": "121st Ave SE",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 1923300245,
+    "address": "544 N 79TH ST 98103",
+    "latitude": 47.68643,
+    "longitude": -122.35048,
+    "Number": 544,
+    "Street": "N 79th St",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 2123049205,
+    "address": "2620 S 148TH ST 98168",
+    "latitude": 47.471277,
+    "longitude": -122.29901,
+    "Number": 2620,
+    "Street": "S 148th St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 5127100320,
+    "address": "14230 146TH PL SE 98059",
+    "latitude": 47.474731,
+    "longitude": -122.14458,
+    "Number": 14230,
+    "Street": "146th Pl SE",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 603002095,
+    "address": "9003 CARKEEK DR S 98118",
+    "latitude": 47.523076,
+    "longitude": -122.28105,
+    "Number": 9003,
+    "Street": "Carkeek Dr S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 2420069269,
+    "address": "2921 FREDRICKSEN ST 98022",
+    "latitude": 47.210611,
+    "longitude": -121.99047,
+    "Number": 2921,
+    "Street": "Fredricksen St",
+    "City": "Enumclaw",
+    "Zip": 98022
+  },
+  {
+    "parcel_id": 7625702085,
+    "address": "5932 46TH AVE SW 98136",
+    "latitude": 47.549398,
+    "longitude": -122.39085,
+    "Number": 5932,
+    "Street": "46th Ave SW",
+    "City": "Seattle",
+    "Zip": 98136
+  },
+  {
+    "parcel_id": 5561100110,
+    "address": "16214 264TH PL SE 98027",
+    "latitude": 47.455708,
+    "longitude": -121.98902,
+    "Number": 16214,
+    "Street": "264th Pl SE",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 9828700305,
+    "address": "211 32ND AVE E 98112",
+    "latitude": 47.620549,
+    "longitude": -122.29149,
+    "Number": 211,
+    "Street": "32nd Ave E",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 8648210300,
+    "address": "19918 SE 268TH ST 98042",
+    "latitude": 47.36153,
+    "longitude": -122.07505,
+    "Number": 19918,
+    "Street": "SE 268th St",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 3946900020,
+    "address": "8807 5TH AVE NE",
+    "latitude": 47.6924288,
+    "longitude": -122.3252499,
+    "Number": 8807,
+    "Street": "5th Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 3946900025,
+    "address": "422 NE 88TH ST 98115",
+    "latitude": 47.692383,
+    "longitude": -122.32337,
+    "Number": 422,
+    "Street": "NE 88th St",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 5631500178,
+    "address": "8226 NE 145TH ST 98028",
+    "latitude": 47.733629,
+    "longitude": -122.23052,
+    "Number": 8226,
+    "Street": "NE 145th St",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 8156600106,
+    "address": "2502 NE 68TH ST 98115",
+    "latitude": 47.677813,
+    "longitude": -122.3004,
+    "Number": 2502,
+    "Street": "NE 68th St",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 2899200030,
+    "address": "10436 9TH AVE SW 98146",
+    "latitude": 47.509223,
+    "longitude": -122.34581,
+    "Number": 10436,
+    "Street": "9th Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 889000040,
+    "address": "4703 9TH AVE NE",
+    "latitude": 47.6632692,
+    "longitude": -122.3208665,
+    "Number": 4703,
+    "Street": "9th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 7839800085,
+    "address": "340 MORRIS AVE S 98055",
+    "latitude": 47.478438,
+    "longitude": -122.2104,
+    "Number": 340,
+    "Street": "Morris Ave S",
+    "City": "Renton",
+    "Zip": 98057
+  },
+  {
+    "parcel_id": 3205400160,
+    "address": "13432 121ST AVE NE 98034",
+    "latitude": 47.721295,
+    "longitude": -122.17853,
+    "Number": 13432,
+    "Street": "121st Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 7227501340,
+    "address": "2213 NE 6TH PL 98056",
+    "latitude": 47.494594,
+    "longitude": -122.18912,
+    "Number": 2213,
+    "Street": "NE 6th Pl",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 6639900050,
+    "address": "10435 SLATER AVE NE 98033",
+    "latitude": 47.694222,
+    "longitude": -122.17814,
+    "Number": 10435,
+    "Street": "Slater Ave NE",
+    "City": "Kirkland",
+    "Zip": 98033
+  },
+  {
+    "parcel_id": 6659000050,
+    "address": "8632 45TH AVE S 98118",
+    "latitude": 47.525051,
+    "longitude": -122.27554,
+    "Number": 8632,
+    "Street": "45th Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 3336001800,
+    "address": "8606 SEWARD PARK AVE S 98118",
+    "latitude": 47.526512,
+    "longitude": -122.26462,
+    "Number": 8606,
+    "Street": "Seward Park Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 3579800400,
+    "address": "7422 NE 145TH PL 98028",
+    "latitude": 47.734237,
+    "longitude": -122.24198,
+    "Number": 7422,
+    "Street": "NE 145th Pl",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 1926059041,
+    "address": "14414 85TH PL NE 98034",
+    "latitude": 47.732297,
+    "longitude": -122.22715,
+    "Number": 14414,
+    "Street": "85th Pl NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1727001060,
+    "address": "12813 NE 32ND PL 98005",
+    "latitude": 47.639148,
+    "longitude": -122.16945,
+    "Number": 12813,
+    "Street": "NE 32nd Pl",
+    "City": "Bellevue",
+    "Zip": 98005
+  },
+  {
+    "parcel_id": 179000198,
+    "address": "12223 43RD AVE S 98178",
+    "latitude": 47.493603,
+    "longitude": -122.27932,
+    "Number": 12223,
+    "Street": "43rd Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 3876600060,
+    "address": "3213 S 295TH PL 98001",
+    "latitude": 47.336859,
+    "longitude": -122.29094,
+    "Number": 3213,
+    "Street": "S 295th Pl",
+    "City": "Auburn",
+    "Zip": 98001
+  },
+  {
+    "parcel_id": 219000070,
+    "address": "3215 56TH AVE SW 98116",
+    "latitude": 47.575273,
+    "longitude": -122.40389,
+    "Number": 3215,
+    "Street": "56th Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 1788700065,
+    "address": "812 SW 305TH ST 98023",
+    "latitude": 47.328688,
+    "longitude": -122.34616,
+    "Number": 812,
+    "Street": "SW 305th St",
+    "City": "Federal Way",
+    "Zip": 98023
+  },
+  {
+    "parcel_id": 3874900150,
+    "address": "6357 36TH AVE SW 98126",
+    "latitude": 47.544885,
+    "longitude": -122.3781,
+    "Number": 6357,
+    "Street": "36th Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 3816300045,
+    "address": "6178 NE 187TH PL 98028",
+    "latitude": 47.7641,
+    "longitude": -122.26121,
+    "Number": 6178,
+    "Street": "NE 187th Pl",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 7018000440,
+    "address": "8411 NE 169TH PL 98028",
+    "latitude": 47.751088,
+    "longitude": -122.22814,
+    "Number": 8411,
+    "Street": "NE 169th Pl",
+    "City": "Kenmore",
+    "Zip": 98028
+  },
+  {
+    "parcel_id": 3739500079,
+    "address": "14734 20TH AVE NE 98155",
+    "latitude": 47.736594,
+    "longitude": -122.30707,
+    "Number": 14734,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 4037500210,
+    "address": "16241 MAIN ST 98008",
+    "latitude": 47.60899,
+    "longitude": -122.12275,
+    "Number": 16241,
+    "Street": "Main St",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 7899800095,
+    "address": "8847 16TH AVE SW 98106",
+    "latitude": 47.523367,
+    "longitude": -122.3554,
+    "Number": 8847,
+    "Street": "16th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 6844703870,
+    "address": "3846 NE 94TH ST 98115",
+    "latitude": 47.696924,
+    "longitude": -122.28567,
+    "Number": 3846,
+    "Street": "NE 94th St",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 2898600010,
+    "address": "10038 9TH AVE SW 98146",
+    "latitude": 47.512604,
+    "longitude": -122.34607,
+    "Number": 10038,
+    "Street": "9th Ave SW",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 7173700150,
+    "address": "5032 20TH AVE NE 98105",
+    "latitude": 47.665895,
+    "longitude": -122.30622,
+    "Number": 5032,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 7950304215,
+    "address": "4502 41ST AVE S 98118",
+    "latitude": 47.562691,
+    "longitude": -122.28145,
+    "Number": 4502,
+    "Street": "41st Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 5379804478,
+    "address": "4454 S 172ND ST 98188",
+    "latitude": 47.449709,
+    "longitude": -122.27626,
+    "Number": 4454,
+    "Street": "S 172nd St",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 3416600690,
+    "address": "137 31ST AVE 98122",
+    "latitude": 47.602773,
+    "longitude": -122.29283,
+    "Number": 137,
+    "Street": "31st Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 9178600755,
+    "address": "2212 N 39TH ST 98103",
+    "latitude": 47.654525,
+    "longitude": -122.33197,
+    "Number": 2212,
+    "Street": "N 39th St",
+    "City": "Seattle",
+    "Zip": 98103
+  },
+  {
+    "parcel_id": 8121101160,
+    "address": "3716 CASCADIA AVE S 98144",
+    "latitude": 47.570162,
+    "longitude": -122.28253,
+    "Number": 3716,
+    "Street": "Cascadia Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 5606000220,
+    "address": "5015 IVANHOE PL NE 98105",
+    "latitude": 47.665122,
+    "longitude": -122.27012,
+    "Number": 5015,
+    "Street": "Ivanhoe Pl NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 5016002745,
+    "address": "425 24TH AVE E 98112",
+    "latitude": 47.62346,
+    "longitude": -122.30147,
+    "Number": 425,
+    "Street": "24th Ave E",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 3298400420,
+    "address": "1612 164TH PL NE 98008",
+    "latitude": 47.625351,
+    "longitude": -122.12076,
+    "Number": 1612,
+    "Street": "164th Pl NE",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 2516000290,
+    "address": "4217 5TH AVE NW 98107",
+    "latitude": 47.658346,
+    "longitude": -122.36326,
+    "Number": 4217,
+    "Street": "5th Ave NW",
+    "City": "Seattle",
+    "Zip": 98107
+  },
+  {
+    "parcel_id": 2926059165,
+    "address": "11104 NE 116TH ST 98034",
+    "latitude": 47.704325,
+    "longitude": -122.1927,
+    "Number": 11104,
+    "Street": "NE 116th St",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 8947000005,
+    "address": "509 SW 104TH ST 98146",
+    "latitude": 47.51005,
+    "longitude": -122.34104,
+    "Number": 509,
+    "Street": "SW 104th St",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 3876000340,
+    "address": "11514 NE 139TH PL 98034",
+    "latitude": 47.725225,
+    "longitude": -122.18749,
+    "Number": 11514,
+    "Street": "NE 139th Pl",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1066100200,
+    "address": "819 176TH AVE NE 98008",
+    "latitude": 47.617248,
+    "longitude": -122.10609,
+    "Number": 819,
+    "Street": "176th Ave NE",
+    "City": "Bellevue",
+    "Zip": 98008
+  },
+  {
+    "parcel_id": 9477000050,
+    "address": "11109 NE 146TH ST 98034",
+    "latitude": 47.733557,
+    "longitude": -122.19316,
+    "Number": 11109,
+    "Street": "NE 146th St",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 421000065,
+    "address": "683 REDMOND AVE NE 98056",
+    "latitude": 47.494366,
+    "longitude": -122.16903,
+    "Number": 683,
+    "Street": "Redmond Ave NE",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 8864000360,
+    "address": "3232 S 137TH ST 98168",
+    "latitude": 47.481007,
+    "longitude": -122.2904,
+    "Number": 3232,
+    "Street": "S 137th St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 2130701030,
+    "address": "15728 1ST AVE NE 98019",
+    "latitude": 47.742184,
+    "longitude": -121.98427,
+    "Number": 15728,
+    "Street": "1st Ave NE",
+    "City": "Duvall",
+    "Zip": 98019
+  },
+  {
+    "parcel_id": 621069124,
+    "address": "29031 188TH AVE SE 98042",
+    "latitude": 47.340598,
+    "longitude": -122.09163,
+    "Number": 29031,
+    "Street": "188th Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 7937600110,
+    "address": "18315 196TH AVE SE 98058",
+    "latitude": 47.438004,
+    "longitude": -122.08051,
+    "Number": 18315,
+    "Street": "196th Ave SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 1438200080,
+    "address": "6320 33RD AVE S 98118",
+    "latitude": 47.545444,
+    "longitude": -122.29,
+    "Number": 6320,
+    "Street": "33rd Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 1245000946,
+    "address": "1826 1ST ST 98033",
+    "latitude": 47.690381,
+    "longitude": -122.20798,
+    "Number": 1826,
+    "Street": "1st St",
+    "City": "Kirkland",
+    "Zip": 98033
+  },
+  {
+    "parcel_id": 9274201930,
+    "address": "1534 46TH AVE SW 98116",
+    "latitude": 47.589584,
+    "longitude": -122.39,
+    "Number": 1534,
+    "Street": "46th Ave SW",
+    "City": "Seattle",
+    "Zip": 98116
+  },
+  {
+    "parcel_id": 390100040,
+    "address": "1616 N 175TH ST 98133",
+    "latitude": 47.756174,
+    "longitude": -122.3395,
+    "Number": 1616,
+    "Street": "N 175th St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 1951600010,
+    "address": "25604 29TH AVE S 98032",
+    "latitude": 47.372043,
+    "longitude": -122.29627,
+    "Number": 25604,
+    "Street": "29th Ave S",
+    "City": "Kent",
+    "Zip": 98032
+  },
+  {
+    "parcel_id": 1226059135,
+    "address": "17006 172ND PL NE 98072",
+    "latitude": 47.751119,
+    "longitude": -122.10917,
+    "Number": 17006,
+    "Street": "172nd Pl NE",
+    "City": "Woodinville",
+    "Zip": 98072
+  },
+  {
+    "parcel_id": 3626039217,
+    "address": "10055 8TH AVE NW 98177",
+    "latitude": 47.703183,
+    "longitude": -122.3664,
+    "Number": 10055,
+    "Street": "8th Ave NW",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 1521049086,
+    "address": "32859 46TH PL S 98001",
+    "latitude": 47.306309,
+    "longitude": -122.27237,
+    "Number": 32859,
+    "Street": "46th Pl S",
+    "City": "Auburn",
+    "Zip": 98001
+  },
+  {
+    "parcel_id": 1270000120,
+    "address": "12020 87TH AVE NE 98034",
+    "latitude": 47.708078,
+    "longitude": -122.22511,
+    "Number": 12020,
+    "Street": "87th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1508210360,
+    "address": "8231 172ND AVE NE 98052",
+    "latitude": 47.67708,
+    "longitude": -122.10929,
+    "Number": 8231,
+    "Street": "172nd Ave NE",
+    "City": "Redmond",
+    "Zip": 98052
+  },
+  {
+    "parcel_id": 2807100165,
+    "address": "18522 ASHWORTH AVE N 98133",
+    "latitude": 47.763844,
+    "longitude": -122.34005,
+    "Number": 18522,
+    "Street": "Ashworth Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 2201501170,
+    "address": "15418 SE 38TH ST 98006",
+    "latitude": 47.576267,
+    "longitude": -122.135,
+    "Number": 15418,
+    "Street": "SE 38th St",
+    "City": "Bellevue",
+    "Zip": 98006
+  },
+  {
+    "parcel_id": 9464700050,
+    "address": "3818 142ND PL NE 98007",
+    "latitude": 47.644908,
+    "longitude": -122.14956,
+    "Number": 3818,
+    "Street": "142nd Pl NE",
+    "City": "Bellevue",
+    "Zip": 98007
+  },
+  {
+    "parcel_id": 4213900020,
+    "address": "2345 N 189TH ST 98155",
+    "latitude": 47.766124,
+    "longitude": -122.33014,
+    "Number": 2345,
+    "Street": "N 189th St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 9144100119,
+    "address": "1405 NW 100TH ST 98177",
+    "latitude": 47.701299,
+    "longitude": -122.37436,
+    "Number": 1405,
+    "Street": "NW 100th St",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 6370400050,
+    "address": "6112 S 125TH ST 98178",
+    "latitude": 47.491282,
+    "longitude": -122.25738,
+    "Number": 6112,
+    "Street": "S 125th St",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 8819900205,
+    "address": "5550 36TH AVE NE 98105",
+    "latitude": 47.669993,
+    "longitude": -122.28876,
+    "Number": 5550,
+    "Street": "36th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 8819900205,
+    "address": "5550 36TH AVE NE 98105",
+    "latitude": 47.669993,
+    "longitude": -122.28876,
+    "Number": 5550,
+    "Street": "36th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 7234600485,
+    "address": "1633 17TH AVE 98122",
+    "latitude": 47.616275,
+    "longitude": -122.31049,
+    "Number": 1633,
+    "Street": "17th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 4059400430,
+    "address": "11423 WOODLEY AVE S 98178",
+    "latitude": 47.500267,
+    "longitude": -122.24281,
+    "Number": 11423,
+    "Street": "Woodley Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 7812800095,
+    "address": "7459 S 116TH ST 98178",
+    "latitude": 47.49865,
+    "longitude": -122.2393,
+    "Number": 7459,
+    "Street": "S 116th St",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 2770604225,
+    "address": "2557 13TH AVE W 98119",
+    "latitude": 47.642378,
+    "longitude": -122.37401,
+    "Number": 2557,
+    "Street": "13th Ave W",
+    "City": "Seattle",
+    "Zip": 98119
+  },
+  {
+    "parcel_id": 1865800170,
+    "address": "25410 168TH PL SE 98042",
+    "latitude": 47.373465,
+    "longitude": -122.11683,
+    "Number": 25410,
+    "Street": "168th Pl SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 2212900090,
+    "address": "30421 153RD AVE SE 98042",
+    "latitude": 47.32838,
+    "longitude": -122.13806,
+    "Number": 30421,
+    "Street": "153rd Ave SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 1432400710,
+    "address": "12012 SE 169TH PL 98058",
+    "latitude": 47.451069,
+    "longitude": -122.18046,
+    "Number": 12012,
+    "Street": "SE 169th Pl",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 16000540,
+    "address": "118 PIKE ST NE 98002",
+    "latitude": 47.309598,
+    "longitude": -122.20934,
+    "Number": 118,
+    "Street": "Pike St NE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 2123049533,
+    "address": "14527 27TH PL S 98168",
+    "latitude": 47.472774,
+    "longitude": -122.29822,
+    "Number": 14527,
+    "Street": "27th Pl S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 8864000045,
+    "address": "13544 35TH AVE S 98168",
+    "latitude": 47.481181,
+    "longitude": -122.28759,
+    "Number": 13544,
+    "Street": "35th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1148000100,
+    "address": "650 SW 135TH ST 98146",
+    "latitude": 47.482327,
+    "longitude": -122.34403,
+    "Number": 650,
+    "Street": "SW 135th St",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 7883604915,
+    "address": "833 S TRENTON ST 98108",
+    "latitude": 47.524597,
+    "longitude": -122.32147,
+    "Number": 833,
+    "Street": "S Trenton St",
+    "City": "Seattle",
+    "Zip": 98108
+  },
+  {
+    "parcel_id": 6818400010,
+    "address": "5118 S 164TH ST 98188",
+    "latitude": 47.456333,
+    "longitude": -122.26958,
+    "Number": 5118,
+    "Street": "S 164th St",
+    "City": "Seattle",
+    "Zip": 98188
+  },
+  {
+    "parcel_id": 7813200105,
+    "address": "12017 71ST AVE S 98178",
+    "latitude": 47.493569,
+    "longitude": -122.24447,
+    "Number": 12017,
+    "Street": "71st Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 423059302,
+    "address": "1433 QUEEN AVE NE 98056",
+    "latitude": 47.505459,
+    "longitude": -122.17105,
+    "Number": 1433,
+    "Street": "Queen Ave NE",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 6197200220,
+    "address": "18225 118TH AVE SE 98058",
+    "latitude": 47.439014,
+    "longitude": -122.18401,
+    "Number": 18225,
+    "Street": "118th Ave SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 5466300380,
+    "address": "24809 145TH LN SE 98042",
+    "latitude": 47.379125,
+    "longitude": -122.1469,
+    "Number": 24809,
+    "Street": "145th Ln SE",
+    "City": "Kent",
+    "Zip": 98042
+  },
+  {
+    "parcel_id": 4365200875,
+    "address": "9031 32ND AVE SW 98126",
+    "latitude": 47.521884,
+    "longitude": -122.37431,
+    "Number": 9031,
+    "Street": "32nd Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 4157500030,
+    "address": "15305 SE 20TH ST 98007",
+    "latitude": 47.592386,
+    "longitude": -122.13561,
+    "Number": 15305,
+    "Street": "SE 20th St",
+    "City": "Bellevue",
+    "Zip": 98007
+  },
+  {
+    "parcel_id": 1721801680,
+    "address": "10449 1ST AVE S 98168",
+    "latitude": 47.508907,
+    "longitude": -122.33404,
+    "Number": 10449,
+    "Street": "1st Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 1123049086,
+    "address": "11605 RENTON AVE S 98178",
+    "latitude": 47.499194,
+    "longitude": -122.24988,
+    "Number": 11605,
+    "Street": "Renton Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 2473520580,
+    "address": "16626 158TH PL SE 98058",
+    "latitude": 47.453705,
+    "longitude": -122.12846,
+    "Number": 16626,
+    "Street": "158th Pl SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 8864000720,
+    "address": "3519 S 137TH ST 98168",
+    "latitude": 47.480637,
+    "longitude": -122.28684,
+    "Number": 3519,
+    "Street": "S 137th St",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 9477000830,
+    "address": "11203 NE 149TH ST 98034",
+    "latitude": 47.736085,
+    "longitude": -122.19226,
+    "Number": 11203,
+    "Street": "NE 149th St",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 8645511390,
+    "address": "1652 INDEX AVE SE 98058",
+    "latitude": 47.467124,
+    "longitude": -122.17663,
+    "Number": 1652,
+    "Street": "Index Ave SE",
+    "City": "Renton",
+    "Zip": 98058
+  },
+  {
+    "parcel_id": 826069077,
+    "address": "16716 203RD PL NE 98077",
+    "latitude": 47.75008,
+    "longitude": -122.06552,
+    "Number": 16716,
+    "Street": "203rd Pl NE",
+    "City": "Woodinville",
+    "Zip": 98077
+  },
+  {
+    "parcel_id": 9352900895,
+    "address": "9424 20TH AVE SW 98106",
+    "latitude": 47.518472,
+    "longitude": -122.35897,
+    "Number": 9424,
+    "Street": "20th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 5561400120,
+    "address": "24957 SE 155TH PL 98027",
+    "latitude": 47.462523,
+    "longitude": -122.00895,
+    "Number": 24957,
+    "Street": "SE 155th Pl",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 3336001535,
+    "address": "8615 WABASH AVE S 98118",
+    "latitude": 47.526372,
+    "longitude": -122.26612,
+    "Number": 8615,
+    "Street": "Wabash Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 5700002525,
+    "address": "2500 LAKE PARK DR S 98144",
+    "latitude": 47.581318,
+    "longitude": -122.28767,
+    "Number": 2500,
+    "Street": "Lake Park Dr S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 2729200040,
+    "address": "3328 21ST AVE S 98144",
+    "latitude": 47.573238,
+    "longitude": -122.3046,
+    "Number": 3328,
+    "Street": "21st Ave S",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 4302200620,
+    "address": "8415 16TH AVE SW 98106",
+    "latitude": 47.527854,
+    "longitude": -122.35541,
+    "Number": 8415,
+    "Street": "16th Ave SW",
+    "City": "Seattle",
+    "Zip": 98106
+  },
+  {
+    "parcel_id": 7152200405,
+    "address": "3200 E UNION ST 98122",
+    "latitude": 47.613109,
+    "longitude": -122.29111,
+    "Number": 3200,
+    "Street": "E Union St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 922059092,
+    "address": "21244 116TH AVE SE 98031",
+    "latitude": 47.410986,
+    "longitude": -122.18649,
+    "Number": 21244,
+    "Street": "116th Ave SE",
+    "City": "Kent",
+    "Zip": 98031
+  },
+  {
+    "parcel_id": 1982200270,
+    "address": "309 NW 49TH ST 98107",
+    "latitude": 47.664197,
+    "longitude": -122.36136,
+    "Number": 309,
+    "Street": "NW 49th St",
+    "City": "Seattle",
+    "Zip": 98107
+  },
+  {
+    "parcel_id": 4022902550,
+    "address": "19631 44TH PL NE 98155",
+    "latitude": 47.773156,
+    "longitude": -122.28211,
+    "Number": 19631,
+    "Street": "44th Pl NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 6456200040,
+    "address": "1604 SW 168TH ST 98166",
+    "latitude": 47.452598,
+    "longitude": -122.35556,
+    "Number": 1604,
+    "Street": "SW 168th St",
+    "City": "Seattle",
+    "Zip": 98166
+  },
+  {
+    "parcel_id": 6843500030,
+    "address": "2104 N 154TH ST 98133",
+    "latitude": 47.740552,
+    "longitude": -122.33412,
+    "Number": 2104,
+    "Street": "N 154th St",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 7893207655,
+    "address": "20021 5TH AVE S 98198",
+    "latitude": 47.422526,
+    "longitude": -122.32884,
+    "Number": 20021,
+    "Street": "5th Ave S",
+    "City": "Seattle",
+    "Zip": 98198
+  },
+  {
+    "parcel_id": 4235401110,
+    "address": "3500 W GOVERNMENT WAY 98199",
+    "latitude": 47.658739,
+    "longitude": -122.40266,
+    "Number": 3500,
+    "Street": "W Government Way",
+    "City": "Seattle",
+    "Zip": 98199
+  },
+  {
+    "parcel_id": 3763300065,
+    "address": "12804 81ST AVE NE 98034",
+    "latitude": 47.715437,
+    "longitude": -122.23317,
+    "Number": 12804,
+    "Street": "81st Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 1624049172,
+    "address": "2302 S SPOKANE ST 98144",
+    "latitude": 47.572149,
+    "longitude": -122.30319,
+    "Number": 2302,
+    "Street": "S Spokane St",
+    "City": "Seattle",
+    "Zip": 98144
+  },
+  {
+    "parcel_id": 88000192,
+    "address": "16240 114TH AVE SE 98055",
+    "latitude": 47.457021,
+    "longitude": -122.18852,
+    "Number": 16240,
+    "Street": "114th Ave SE",
+    "City": "Renton",
+    "Zip": 98055
+  },
+  {
+    "parcel_id": 3374300050,
+    "address": "13220 125TH AVE NE 98034",
+    "latitude": 47.719288,
+    "longitude": -122.17347,
+    "Number": 13220,
+    "Street": "125th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 3839600030,
+    "address": "3512 S THISTLE ST 98118",
+    "latitude": 47.52813,
+    "longitude": -122.28697,
+    "Number": 3512,
+    "Street": "S Thistle St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 9324800285,
+    "address": "14023 37TH AVE NE 98125",
+    "latitude": 47.730922,
+    "longitude": -122.28873,
+    "Number": 14023,
+    "Street": "37th Ave NE",
+    "City": "Seattle",
+    "Zip": 98125
+  },
+  {
+    "parcel_id": 9829200665,
+    "address": "3708 E SUPERIOR ST 98122",
+    "latitude": 47.602924,
+    "longitude": -122.28666,
+    "Number": 3708,
+    "Street": "E Superior St",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 724069070,
+    "address": "2805 194TH AVE SE 98075",
+    "latitude": 47.584722,
+    "longitude": -122.08136,
+    "Number": 2805,
+    "Street": "194th Ave SE",
+    "City": "Sammamish",
+    "Zip": 98075
+  },
+  {
+    "parcel_id": 724069070,
+    "address": "2805 194TH AVE SE 98075",
+    "latitude": 47.584722,
+    "longitude": -122.08136,
+    "Number": 2805,
+    "Street": "194th Ave SE",
+    "City": "Sammamish",
+    "Zip": 98075
+  },
+  {
+    "parcel_id": 3756500350,
+    "address": "13014 110TH AVE NE 98034",
+    "latitude": 47.716877,
+    "longitude": -122.19458,
+    "Number": 13014,
+    "Street": "110th Ave NE",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 5141000170,
+    "address": "4907 13TH AVE S 98108",
+    "latitude": 47.558384,
+    "longitude": -122.31633,
+    "Number": 4907,
+    "Street": "13th Ave S",
+    "City": "Seattle",
+    "Zip": 98108
+  },
+  {
+    "parcel_id": 958000135,
+    "address": "326 22ND AVE E 98112",
+    "latitude": 47.622202,
+    "longitude": -122.30329,
+    "Number": 326,
+    "Street": "22nd Ave E",
+    "City": "Seattle",
+    "Zip": 98112
+  },
+  {
+    "parcel_id": 2769601185,
+    "address": "6017 7TH AVE NW 98107",
+    "latitude": 47.672922,
+    "longitude": -122.36539,
+    "Number": 6017,
+    "Street": "7th Ave NW",
+    "City": "Seattle",
+    "Zip": 98107
+  },
+  {
+    "parcel_id": 923059183,
+    "address": "3223 NE 12TH ST 98056",
+    "latitude": 47.5025,
+    "longitude": -122.17425,
+    "Number": 3223,
+    "Street": "NE 12th St",
+    "City": "Renton",
+    "Zip": 98056
+  },
+  {
+    "parcel_id": 7107100020,
+    "address": "5209 33RD AVE S 98118",
+    "latitude": 47.554991,
+    "longitude": -122.29083,
+    "Number": 5209,
+    "Street": "33rd Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 7300200460,
+    "address": "21920 SE 37TH ST 98075",
+    "latitude": 47.576051,
+    "longitude": -122.0471,
+    "Number": 21920,
+    "Street": "SE 37th St",
+    "City": "Sammamish",
+    "Zip": 98075
+  },
+  {
+    "parcel_id": 5114400070,
+    "address": "25325 SE 216TH ST 98038",
+    "latitude": 47.407902,
+    "longitude": -122.00298,
+    "Number": 25325,
+    "Street": "SE 216th St",
+    "City": "Maple Valley",
+    "Zip": 98038
+  },
+  {
+    "parcel_id": 3819800470,
+    "address": "7611 NE 140TH PL 98011",
+    "latitude": 47.726919,
+    "longitude": -122.24014,
+    "Number": 7611,
+    "Street": "NE 140th Pl",
+    "City": "Kirkland",
+    "Zip": 98034
+  },
+  {
+    "parcel_id": 6163901233,
+    "address": "923 10TH AVE NE 98155",
+    "latitude": 47.757662,
+    "longitude": -122.31894,
+    "Number": "",
+    "Street": "10th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 1704900215,
+    "address": "5164 42ND AVE S 98118",
+    "latitude": 47.555371,
+    "longitude": -122.28047,
+    "Number": 5164,
+    "Street": "42nd Ave S",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 8641500261,
+    "address": "9123 23RD AVE NE 98115",
+    "latitude": 47.695266,
+    "longitude": -122.30437,
+    "Number": 9123,
+    "Street": "23rd Ave NE",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 723049485,
+    "address": "651 SW 120TH ST 98146",
+    "latitude": 47.495493,
+    "longitude": -122.34372,
+    "Number": 651,
+    "Street": "SW 120th St",
+    "City": "Seattle",
+    "Zip": 98146
+  },
+  {
+    "parcel_id": 4058800945,
+    "address": "11014 AUBURN AVE S 98178",
+    "latitude": 47.504294,
+    "longitude": -122.24011,
+    "Number": 11014,
+    "Street": "Auburn Ave S",
+    "City": "Seattle",
+    "Zip": 98178
+  },
+  {
+    "parcel_id": 795000905,
+    "address": "10857 4TH AVE S 98168",
+    "latitude": 47.505298,
+    "longitude": -122.32908,
+    "Number": 10857,
+    "Street": "4th Ave S",
+    "City": "Seattle",
+    "Zip": 98168
+  },
+  {
+    "parcel_id": 2787700230,
+    "address": "1700 ANACORTES AVE NE 98059",
+    "latitude": 47.507056,
+    "longitude": -122.16079,
+    "Number": 1700,
+    "Street": "Anacortes Ave NE",
+    "City": "Renton",
+    "Zip": 98059
+  },
+  {
+    "parcel_id": 3749500230,
+    "address": "20712 106TH PL SE 98031",
+    "latitude": 47.416253,
+    "longitude": -122.19861,
+    "Number": 20712,
+    "Street": "106th Pl SE",
+    "City": "Kent",
+    "Zip": 98031
+  },
+  {
+    "parcel_id": 8699100570,
+    "address": "802 4TH ST SE 98002",
+    "latitude": 47.304163,
+    "longitude": -122.21913,
+    "Number": 802,
+    "Street": "4th St SE",
+    "City": "Auburn",
+    "Zip": 98002
+  },
+  {
+    "parcel_id": 7173700050,
+    "address": "5240 20TH AVE NE 98105",
+    "latitude": 47.667716,
+    "longitude": -122.3062,
+    "Number": 5240,
+    "Street": "20th Ave NE",
+    "City": "Seattle",
+    "Zip": 98105
+  },
+  {
+    "parcel_id": 7518506645,
+    "address": "7057 22ND AVE NW 98117",
+    "latitude": 47.68117,
+    "longitude": -122.38463,
+    "Number": 7057,
+    "Street": "22nd Ave NW",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 8150600265,
+    "address": "5929 32ND AVE SW 98126",
+    "latitude": 47.549224,
+    "longitude": -122.3741,
+    "Number": 5929,
+    "Street": "32nd Ave SW",
+    "City": "Seattle",
+    "Zip": 98126
+  },
+  {
+    "parcel_id": 3807700040,
+    "address": "1603 NW 198TH ST 98177",
+    "latitude": 47.772557,
+    "longitude": -122.37808,
+    "Number": 1603,
+    "Street": "NW 198th St",
+    "City": "Seattle",
+    "Zip": 98177
+  },
+  {
+    "parcel_id": 3322049200,
+    "address": "28605 30TH AVE S 98003",
+    "latitude": 47.34504,
+    "longitude": -122.29495,
+    "Number": 28605,
+    "Street": "30th Ave S",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 7875400190,
+    "address": "31323 11TH PL S 98003",
+    "latitude": 47.320749,
+    "longitude": -122.31968,
+    "Number": 31323,
+    "Street": "11th Pl S",
+    "City": "Federal Way",
+    "Zip": 98003
+  },
+  {
+    "parcel_id": 5244801440,
+    "address": "2641 MAYFAIR AVE N 98109",
+    "latitude": 47.644468,
+    "longitude": -122.35305,
+    "Number": 2641,
+    "Street": "Mayfair Ave N",
+    "City": "Seattle",
+    "Zip": 98109
+  },
+  {
+    "parcel_id": 6824100020,
+    "address": "819 B NW 97TH ST 98117",
+    "latitude": 47.699837,
+    "longitude": -122.36703,
+    "Number": 819,
+    "Street": "NW 97th St",
+    "City": "Seattle",
+    "Zip": 98117
+  },
+  {
+    "parcel_id": 5464300165,
+    "address": "10011 WALLINGFORD AVE N 98133",
+    "latitude": 47.701816,
+    "longitude": -122.33618,
+    "Number": 10011,
+    "Street": "Wallingford Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 7283900143,
+    "address": "19338 FREMONT AVE N 98133",
+    "latitude": 47.769689,
+    "longitude": -122.35031,
+    "Number": 19338,
+    "Street": "Fremont Ave N",
+    "City": "Seattle",
+    "Zip": 98133
+  },
+  {
+    "parcel_id": 2464400126,
+    "address": "545 NE 80TH ST 98115",
+    "latitude": 47.686553,
+    "longitude": -122.32093,
+    "Number": 545,
+    "Street": "NE 80th St",
+    "City": "Seattle",
+    "Zip": 98115
+  },
+  {
+    "parcel_id": 3996300080,
+    "address": "15835 28TH AVE NE 98155",
+    "latitude": 47.743856,
+    "longitude": -122.2983,
+    "Number": 15835,
+    "Street": "28th Ave NE",
+    "City": "Seattle",
+    "Zip": 98155
+  },
+  {
+    "parcel_id": 9412200440,
+    "address": "400 SW FOREST PL 98027",
+    "latitude": 47.522936,
+    "longitude": -122.04337,
+    "Number": 400,
+    "Street": "SW Forest Pl",
+    "City": "Issaquah",
+    "Zip": 98027
+  },
+  {
+    "parcel_id": 7234600786,
+    "address": "905 17TH AVE 98122",
+    "latitude": 47.610574,
+    "longitude": -122.31045,
+    "Number": 905,
+    "Street": "17th Ave",
+    "City": "Seattle",
+    "Zip": 98122
+  },
+  {
+    "parcel_id": 3031200190,
+    "address": "3304 S WEBSTER ST 98118",
+    "latitude": 47.535351,
+    "longitude": -122.28951,
+    "Number": 3304,
+    "Street": "S Webster St",
+    "City": "Seattle",
+    "Zip": 98118
+  },
+  {
+    "parcel_id": 2297400280,
+    "address": "8720 NE 131ST ST 98034",
+    "latitude": 47.717671,
+    "longitude": -122.22476,
+    "Number": 8720,
+    "Street": "NE 131st St",
+    "City": "Kirkland",
+    "Zip": 98034
+  }
+]

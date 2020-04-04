@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- Safari, you're the worst -->
+  <meta name='format-detection' content='telephone=no'>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <%= t.include("partials/_head.html") %>
+</head>
+
+<body>
+
+  <responsive-child class="map-container">
+    <div class="outmost">
+      <section class="chatter">
+        <h1 class="graphic-hed">Acquisitions through crisis</h1>
+        <p class="graphic-chatter">Heaton Dainard has purchased nearly 600 homes across King County in the past 15 years. The firm advertises its ability to make smart investments during market volatility, like that caused by the COVID-19 pandemic.</p>
+      </section>
+      <div class="outmost">
+        <div class="aspect-ratio-outer">
+          <div class="aspect-ratio-inner">
+            <leaflet-map zoom=10>
+              <tile-layer layer="cartoPositron"></tile-layer>
+              <geo-json>
+                <geo-style>{ "weight": 1, "color": "#000", "opacity":0.1 }</geo-style>
+              </geo-json>
+            </leaflet-map>
+
+          </div>
+        </div>
+      </div>
+      <div class="caption-container">
+        <div class="data-source">Source: Name of source</div>
+        <div class="art-credit">Hilary Fung / The Seattle Times</div>
+      </div>
+  </responsive-child>
+
+  <script src="app.js"></script>
+  <%= t.include("partials/_workHere.html") %>
+</body>
+
+</html>
