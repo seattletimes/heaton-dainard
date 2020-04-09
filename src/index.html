@@ -12,13 +12,27 @@
 
 <body>
 
-  <responsive-child class="map-container">
-    <div class="outmost">
+  <responsive-child>
+    <main class="map-container interactive">
       <section class="chatter">
-        <h1 class="graphic-hed">Acquisitions through crisis</h1>
-        <p class="graphic-chatter">Heaton Dainard has purchased nearly 600 homes across King County in the past 15 years. The firm advertises its ability to make smart investments during market volatility, like that caused by the COVID-19 pandemic.</p>
+        <h1 class="graphic-hed">Heaton Dainard acquisitions in the Seattle area</h1>
+        <p class="graphic-chatter">Heaton Dainard advertises its ability to make smart investments during market volatility. The firm has purchased or represented investors to purchase 570 homes over the past 15 years, including 240 during the real estate market collapse of 2008-2014. The acquisitions concentrate in gentrifying neighborhoods like the Central District, Rainier Valley, Lake City and West Seattle.</p>
       </section>
+      <% 
+        legend = [
+          ["#B73209", "Lower than assessed value"],
+          ["#333333", "Higher than assessed value"]
+        ];
+      %>
       <div class="outmost">
+        <div class="legend">
+          <p class="legend__p"><strong>Purchase price</strong></p>
+          <p class="legend__p">
+            <% legend.forEach(function(d) { %>
+              <span class="legend__item"><span class="legend__bubble" style="background-color: <%= d[0] %>"></span><%= d[1] %></span>
+            <% }) %>
+          </p>
+        </div>
         <div class="aspect-ratio-outer">
           <div class="aspect-ratio-inner">
             <leaflet-map zoom=10>
@@ -27,14 +41,14 @@
                 <geo-style>{ "weight": 1, "color": "#000", "opacity":0.1 }</geo-style>
               </geo-json>
             </leaflet-map>
-
           </div>
         </div>
       </div>
       <div class="caption-container">
-        <div class="data-source">Source: Name of source</div>
+        <div class="data-source">Source: King County Assessor, Washington Secretary of State</div>
         <div class="art-credit">Hilary Fung / The Seattle Times</div>
       </div>
+    </main>
   </responsive-child>
 
   <script src="app.js"></script>

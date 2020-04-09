@@ -5,3 +5,7 @@ auth.json
 .DS_Store
 npm-debug.log
 src/js/lib/*/**
+data/geocode.sheet.json
+data/purchase_data.sheet.json
+data/summary_by_purchase_year.sheet.json
+data/summary_by_zip.sheet.json

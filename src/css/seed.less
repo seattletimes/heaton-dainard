@@ -11,7 +11,6 @@ body {
 }
 .outmost {
   padding: 8px 0;
-  margin: 20px auto;
   max-width: 960px;
   padding-bottom: 0;
   clear: both;
@@ -49,4 +48,32 @@ body {
   display: block;
 }
 
+.legend {
+  margin-bottom: 5px;
+}
+
+.legend__p {
+  margin: 0;
+}
+
+.legend__item:first-child {
+  margin-right: 8px;
+}
+
+.legend__bubble {
+  opacity: 0.6;
+  display: inline-block;
+  margin-right: 4px;
+  width: 12px;
+  height: 12px;
+  border-radius: 12px;
+}
+
 @import "leaflet-tweaks";
+
+.leaflet-popup-content {
+  font-size: 15px;
+  p {
+    margin: 2px 0 !important;
+  }
+}
